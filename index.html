@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=600, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/image/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.2.0/css/all.min.css"
+        integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./assets/style/style.css">
+    <title>Talkey</title>
+</head>
+
+<body>
+    <div class="logo-title">
+        <div class="logo">
+            Talkey
+        </div>
+        <div class="card">
+            BETA
+        </div>
+    </div>
+    <img class="logo-img" src="./assets/image/key.svg">
+    <div class="flags">
+        <img data-lang="it-IT" class="selected" src="./assets/image/flags/1.png">
+        <img data-lang="de-DE" src="./assets/image/flags/2.png">
+        <img data-lang="ar-AR" src="./assets/image/flags/3.png">
+        <img data-lang="ko-KO" src="./assets/image/flags/5.png">
+        <img data-lang="tr-TR" src="./assets/image/flags/6.png">
+        <img data-lang="pl-PL" src="./assets/image/flags/7.png">
+        <img data-lang="sr-SR" src="./assets/image/flags/8.png">
+        <img data-lang="is-IS" src="./assets/image/flags/9.png">
+        <img data-lang="zh-ZH" src="./assets/image/flags/10.png">
+    </div>
+    <a href="./play.html" class="start-btn btn">
+        start
+    </a>
+
+    <div class="popup">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512">
+            <path
+                d="M310.6 150.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0L160 210.7 54.6 105.4c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L114.7 256 9.4 361.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0L160 301.3 265.4 406.6c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L205.3 256 310.6 150.6z" />
+        </svg>
+        <p>
+            This still beta version the maximum card is 500 and the min is 5
+        </p>
+        <input min="5" max="500" type="number" value="5" />
+        <div class="btn btn-number">
+            OK
+        </div>
+    </div>
+    <div class="overlay">
+    </div>
+    <div class="more">
+        <div class="cog">
+            <svg viewBox="0 0 512 512">
+                <!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                <path
+                    d="M495.9 166.6c3.2 8.7 .5 18.4-6.4 24.6l-43.3 39.4c1.1 8.3 1.7 16.8 1.7 25.4s-.6 17.1-1.7 25.4l43.3 39.4c6.9 6.2 9.6 15.9 6.4 24.6c-4.4 11.9-9.7 23.3-15.8 34.3l-4.7 8.1c-6.6 11-14 21.4-22.1 31.2c-5.9 7.2-15.7 9.6-24.5 6.8l-55.7-17.7c-13.4 10.3-28.2 18.9-44 25.4l-12.5 57.1c-2 9.1-9 16.3-18.2 17.8c-13.8 2.3-28 3.5-42.5 3.5s-28.7-1.2-42.5-3.5c-9.2-1.5-16.2-8.7-18.2-17.8l-12.5-57.1c-15.8-6.5-30.6-15.1-44-25.4L83.1 425.9c-8.8 2.8-18.6 .3-24.5-6.8c-8.1-9.8-15.5-20.2-22.1-31.2l-4.7-8.1c-6.1-11-11.4-22.4-15.8-34.3c-3.2-8.7-.5-18.4 6.4-24.6l43.3-39.4C64.6 273.1 64 264.6 64 256s.6-17.1 1.7-25.4L22.4 191.2c-6.9-6.2-9.6-15.9-6.4-24.6c4.4-11.9 9.7-23.3 15.8-34.3l4.7-8.1c6.6-11 14-21.4 22.1-31.2c5.9-7.2 15.7-9.6 24.5-6.8l55.7 17.7c13.4-10.3 28.2-18.9 44-25.4l12.5-57.1c2-9.1 9-16.3 18.2-17.8C227.3 1.2 241.5 0 256 0s28.7 1.2 42.5 3.5c9.2 1.5 16.2 8.7 18.2 17.8l12.5 57.1c15.8 6.5 30.6 15.1 44 25.4l55.7-17.7c8.8-2.8 18.6-.3 24.5 6.8c8.1 9.8 15.5 20.2 22.1 31.2l4.7 8.1c6.1 11 11.4 22.4 15.8 34.3zM256 336c44.2 0 80-35.8 80-80s-35.8-80-80-80s-80 35.8-80 80s35.8 80 80 80z" />
+            </svg>
+        </div>
+        <div class="extra-text">
+            <p>
+                Please be aware that this website doesn't work in all the browser you need to check if your browser
+                supports speech voice recognition and the imporating data files <br />
+                Our website doesn't collect your data but may third-part libary use it <br />
+                About the developer click <a href="https://aymenmenai.github.io/">here</a> <br />
+                This content is currently underdevelopment, so if you want for this app to adapt your target language
+                please
+                contact us to add it,
+            </p>
+            Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a
+                href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+        </div>
+    </div>
+    <!-- <div>Icônes conçues par <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/fr/" title="Flaticon">www.flaticon.com</a></div> -->
+    <script>
+        const flags = document.querySelectorAll('.flags img')
+        const overlay = document.querySelector('.overlay')
+        const popup = document.querySelector('.popup ')
+        const cancel = document.querySelector('.popup svg ')
+        const cog = document.querySelector('.cog')
+        const confirm = document.querySelector('.btn-number')
+
+        // default
+        localStorage.setItem('lang', 'it-IT')
+        localStorage.setItem('num', 5)
+
+        // func
+        flags.forEach(flag => {
+            flag.addEventListener('click', () => {
+                flags.forEach(el => {
+                    if (flag != el) el.classList.remove('selected')
+                })
+                flag.classList.add('selected')
+                // console.log(flag.dataset.lang)
+                localStorage.setItem('lang', flag.dataset.lang)
+            })
+        })
+
+        // disable
+        const popOff = () => {
+            overlay.style.display = 'none'
+            popup.style.display = 'none'
+        }
+
+        cog.addEventListener('click', () => {
+            overlay.style.display = 'flex'
+            popup.style.display = 'flex'
+            overlay.addEventListener('click', popOff)
+            cancel.addEventListener('click', popOff)
+            confirm.addEventListener('click', popOff)
+
+        })
+
+
+        // INPUT
+        document.querySelector('input').addEventListener('change', (e) => {
+            e.preventDefault()
+            localStorage.setItem('num', e.target.value)
+            // console.log()
+        })
+
+    </script>
+</body>
+
+</html>

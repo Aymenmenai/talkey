@@ -1,0 +1,2002 @@
+[
+    {
+        "front": "Nǐ hǎo!",
+        "back": "你好"
+    },
+    {
+        "front": "Nǐ shuō shénme?",
+        "back": "你说什么"
+    },
+    {
+        "front": "nǐ zuò le shénme ?",
+        "back": "你做了什么"
+    },
+    {
+        "front": "Wǒ huì zuò.",
+        "back": "我会做"
+    },
+    {
+        "front": "nǐ xiǎng wǒ le ?",
+        "back": "你想我了"
+    },
+    {
+        "front": "Tāmen huì zuò.",
+        "back": "他们会做"
+    },
+    {
+        "front": "Tāmen zài shuō shénme?",
+        "back": "他们在说什么"
+    },
+    {
+        "front": "Nǐ huì zuò ma?",
+        "back": "你会做吗"
+    },
+    {
+        "front": "Nǐ zuò shénme gōngzuò?",
+        "back": "你做什么工作"
+    },
+    {
+        "front": "Tā zuò shénme gōngzuò?",
+        "back": "她做什么工作"
+    },
+    {
+        "front": "zěnme le?",
+        "back": "怎么了"
+    },
+    {
+        "front": "nǐ zài tīng wǒ shuō ma ?",
+        "back": "你在听我说吗"
+    },
+    {
+        "front": "Tīng tā shuō.",
+        "back": "听他说"
+    },
+    {
+        "front": "Tā bù huì zuò.",
+        "back": "他不会做"
+    },
+    {
+        "front": "Nǐ zài nǎli gōngzuò?",
+        "back": "你在哪里工作"
+    },
+    {
+        "front": "Nǐ qù nǎli?",
+        "back": "你去哪里"
+    },
+    {
+        "front": "Nǐ xiǎng qù nǎli?",
+        "back": "你想去哪里"
+    },
+    {
+        "front": "Nǐ shì nǎli rén?",
+        "back": "你是哪里人"
+    },
+    {
+        "front": "Tā shì nǎli de rén?",
+        "back": "她是哪里的人"
+    },
+    {
+        "front": "Nǐ xiǎng qù nǎli chī?",
+        "back": "你想去哪里吃"
+    },
+    {
+        "front": "nǐ xiǎng yào shénme ?",
+        "back": "你想要什么"
+    },
+    {
+        "front": "wǒ xiǎng kànkan.",
+        "back": "我想看看"
+    },
+    {
+        "front": "Nǐ zuòduì le.",
+        "back": "你做对了"
+    },
+    {
+        "front": "Gěi wǒ kàn.",
+        "back": "给我看"
+    },
+    {
+        "front": "Wǒ ài nǐ.",
+        "back": "我爱你"
+    },
+    {
+        "front": "Nǐ xǐhuan nǐde gōngzuò ma?",
+        "back": "你喜欢你的工作吗"
+    },
+    {
+        "front": "Tā bù xǐhuan tā de gōngzuò.",
+        "back": "他不喜欢他的工作"
+    },
+    {
+        "front": "Xuésheng bù tīng wǒ shuō.",
+        "back": "学生不听我说"
+    },
+    {
+        "front": "Wǒ xǐhuan Zhōngguó.",
+        "back": "我喜欢中国"
+    },
+    {
+        "front": "Zhōngguó dà ma?",
+        "back": "中国大吗"
+    },
+    {
+        "front": "Zhōngguó hěn dà.",
+        "back": "中国很大"
+    },
+    {
+        "front": "Tā shì shéi?",
+        "back": "他是谁"
+    },
+    {
+        "front": "Shéi shì nǐ de xuésheng?",
+        "back": "谁是你的学生"
+    },
+    {
+        "front": "Wǒ zěnme qù Běijīng?",
+        "back": "我怎么去北京"
+    },
+    {
+        "front": "Tā yào qù Běijīng.",
+        "back": "她要去北京"
+    },
+    {
+        "front": "Nǐ xiǎng qù Běijīng ma?",
+        "back": "你想去北京吗"
+    },
+    {
+        "front": "Wǒ yào qù Běijīng.",
+        "back": "我要去北京"
+    },
+    {
+        "front": "Tā xiǎng lái Zhōngguó.",
+        "back": "她想来中国"
+    },
+    {
+        "front": "Tā xiǎng lái Běijīng.",
+        "back": "她想来北京"
+    },
+    {
+        "front": "Nǐ jīntiān xiǎng zuò shénme?",
+        "back": "你今天想做什么"
+    },
+    {
+        "front": "Tā jīntiān xiǎng zuò shénme?",
+        "back": "他今天想做什么"
+    },
+    {
+        "front": "wǒ zài xiǎng nǐ jīntiān huì bu huì lái.",
+        "back": "我在想你今天会不会来"
+    },
+    {
+        "front": "Nǐ shénme shíhòu lái Zhōngguó?",
+        "back": "你什么时候来中国"
+    },
+    {
+        "front": "Xuésheng méi lái.",
+        "back": "学生没来"
+    },
+    {
+        "front": "wǒ xiǎng zhīdào shéi lái le .",
+        "back": "我想知道谁来了"
+    },
+    {
+        "front": "Nǐ cóng nǎli lái?",
+        "back": "你从哪里来"
+    },
+    {
+        "front": "Tā cóng nǎli lái?",
+        "back": "他从哪里来"
+    },
+    {
+        "front": "shénme shíhou kāishǐ ?",
+        "back": "什么时候开始"
+    },
+    {
+        "front": "tā kāishǐ zhǎo gōngzuò le .",
+        "back": "他开始找工作了"
+    },
+    {
+        "front": "Tā shì wǒde péngyou.",
+        "back": "他是我的朋友"
+    },
+    {
+        "front": "Wǒ hěn xǐhuan nǐ de péngyou.",
+        "back": "我很喜欢你的朋友"
+    },
+    {
+        "front": "Nǐ xǐhuan wǒ péngyou ma?",
+        "back": "你喜欢我朋友吗"
+    },
+    {
+        "front": "Wǒde péngyou méi lái.",
+        "back": "我的朋友没来"
+    },
+    {
+        "front": "Nǐ péngyǒu xiǎng zuò shénme?",
+        "back": "你朋友想做什么"
+    },
+    {
+        "front": "Wǒmen shì péngyou.",
+        "back": "我们是朋友"
+    },
+    {
+        "front": "Tāmen dōu shì wǒ de péngyou.",
+        "back": "他们都是我的朋友"
+    },
+    {
+        "front": "Zhè shì wǒ jiā.",
+        "back": "这是我家"
+    },
+    {
+        "front": "Wèishénme?",
+        "back": "为什么"
+    },
+    {
+        "front": "Tāmen wèishénme qù?",
+        "back": "他们为什么去"
+    },
+    {
+        "front": "Tā wèishénme qù?",
+        "back": "她为什么去"
+    },
+    {
+        "front": "wèishénme nǐ bù lái kàn wǒmen? (also ni first)<div>(no mei... mei is like you said you'd come but didn't)</div><div>(kan is long timeframe no visit, jian ok for short timeframe no visit)</div>",
+        "back": "为什么你不来看我们"
+    },
+    {
+        "front": "zhè shì wǒ de shū .",
+        "back": "这是我的书"
+    },
+    {
+        "front": "Tā xǐhuan zhè běn shū.",
+        "back": "他喜欢这本书"
+    },
+    {
+        "front": "Wǒ bù xǐhuan zhèběn shū.",
+        "back": "我不喜欢这本书"
+    },
+    {
+        "front": "wǒ gěi le nǐ yī běn shū .",
+        "back": "我给了你一本书"
+    },
+    {
+        "front": "Nà běn shū shì wǒ de.",
+        "back": "那本书是我的"
+    },
+    {
+        "front": "Ràng wǒ xiǎng yī xiǎng.",
+        "back": "让我想一想"
+    },
+    {
+        "front": "Qǐng ràng yī ràng!",
+        "back": "请让一让"
+    },
+    {
+        "front": "Nǐ wèishénme nàme zuò?",
+        "back": "你为什么那么做"
+    },
+    {
+        "front": "Nǐ xǐhuan xuéxiào ma?",
+        "back": "你喜欢学校吗"
+    },
+    {
+        "front": "Wǒ zài xuéxiào.",
+        "back": "我在学校"
+    },
+    {
+        "front": "Xuéshēng bù xǐhuan xuéxiào.",
+        "back": "学生不喜欢学校"
+    },
+    {
+        "front": "Wǒ yào qù xuéxiào.",
+        "back": "我要去学校"
+    },
+    {
+        "front": "Xuéxiào zài nǎli?",
+        "back": "学校在哪里"
+    },
+    {
+        "front": "Wǒ shì lǎoshī.",
+        "back": "我是老师"
+    },
+    {
+        "front": "Tā shì wǒmen de lǎoshī.",
+        "back": "她是我们的老师"
+    },
+    {
+        "front": "tāmen dōu shì hǎo lǎoshī .",
+        "back": "他们都是好老师"
+    },
+    {
+        "front": "Nǐ yào qù kàn lǎoshī ma?",
+        "back": "你要去看老师吗"
+    },
+    {
+        "front": "Tā yào qù kàn lǎoshī.",
+        "back": "他要去看老师"
+    },
+    {
+        "front": "Wǒ shì lǎoshī.",
+        "back": "我是老师"
+    },
+    {
+        "front": "Lǎoshī yào qù xuéxiào.",
+        "back": "老师要去学校"
+    },
+    {
+        "front": "Lǎoshī qù nǎli?",
+        "back": "老师去哪里"
+    },
+    {
+        "front": "Tīng lǎoshī shuō.",
+        "back": "听老师说"
+    },
+    {
+        "front": "Tā shì Měiguó rén.",
+        "back": "他是美国人"
+    },
+    {
+        "front": "Wǒ shì Měiguórén.",
+        "back": "我是美国人"
+    },
+    {
+        "front": "tā shì Měiguórén .",
+        "back": "他是美国人"
+    },
+    {
+        "front": "Tā hěn xǐhuan Měiguó.",
+        "back": "他很喜欢美国"
+    },
+    {
+        "front": "Měiguó dà ma?",
+        "back": "美国大吗"
+    },
+    {
+        "front": "Wǒ cóng Měiguó lái.",
+        "back": "我从美国来"
+    },
+    {
+        "front": "Zhèli shì Měiguó.",
+        "back": "这里是美国"
+    },
+    {
+        "front": "Tā zhùzài​ nǎli?",
+        "back": "她住在哪里"
+    },
+    {
+        "front": "Nǐ de péngyou zhù nǎli?",
+        "back": "你的朋友住哪里"
+    },
+    {
+        "front": "wǒmen shì tóngxué .",
+        "back": "我们是同学"
+    },
+    {
+        "front": "Tā bù xǐhuan tā de tóngxuémen.",
+        "back": "他不喜欢他的同学们"
+    },
+    {
+        "front": "tāmen dōu shì yīyàng de ma?",
+        "back": "他们都是一样的吗"
+    },
+    {
+        "front": "tā de háizi tā dōu yīyàng ài .",
+        "back": "她的孩子她都一样爱"
+    },
+    {
+        "front": "Zhèli shì nǎli a?",
+        "back": "这里是哪里啊"
+    },
+    {
+        "front": "Qǐng gēn wǒ lái.",
+        "back": "请跟我来"
+    },
+    {
+        "front": "tā gēn nǐ shuō shénme, nǐ jiù zuò shénme .",
+        "back": "他跟你说什么，你就做什么"
+    },
+    {
+        "front": "zhè běn shū shéi xiǎng yào jiù gěi shéi ba .",
+        "back": "这本书谁想要就给谁吧"
+    },
+    {
+        "front": "tā yī dào, wǒmen jiù kāishǐ .",
+        "back": "她一到，我们就开始"
+    },
+    {
+        "front": "zǒu ba .",
+        "back": "走吧"
+    },
+    {
+        "front": "nǐ xiǎng zǒu de shíhou jiù zǒu ba.",
+        "back": "你想走的时候就走吧"
+    },
+    {
+        "front": "nǐ zǒu le, wǒmen dōu huì xiǎng nǐ de.",
+        "back": "你走了，我们都会想你的"
+    },
+    {
+        "front": "Wǒ gēn tā yīqǐ gōngzuò.",
+        "back": "我跟他一起工作"
+    },
+    {
+        "front": "Wǒ yě xiǎng.<br />Nà gēn wǒmen yī qǐ qù ba!",
+        "back": "A我也想<br/>B那跟我们一起去吧"
+    },
+    {
+        "front": "Kate,  zuò ba .",
+        "back": "Kate,坐吧"
+    },
+    {
+        "front": "shì shéi? shì nǐ māma.",
+        "back": "“是谁”“是你妈妈”"
+    },
+    {
+        "front": "Xiànzài shì shí diǎn.",
+        "back": "现在是10点"
+    },
+    {
+        "front": "nǐ xiànzài hǎo diǎn le ma?",
+        "back": "你现在好点了吗"
+    },
+    {
+        "front": "Xiànzài shì jǐ diǎn? (also Xiànzài jǐ diǎn le?)",
+        "back": "现在是几点"
+    },
+    {
+        "front": "Xiànzài jǐ diǎn le?",
+        "back": "现在几点了"
+    },
+    {
+        "front": "Xiànzài sān diǎn.",
+        "back": "现在三点"
+    },
+    {
+        "front": "Tā yǒu sānge háizi.",
+        "back": "他有三个孩子"
+    },
+    {
+        "front": "yǐjīng shì 11 diǎn le. (also no shi)",
+        "back": "已经是11点了"
+    },
+    {
+        "front": "Tāmen yǒu liǎng gè háizi.",
+        "back": "他们有两个孩子"
+    },
+    {
+        "front": "Yǐjīng wǔ diǎn le. (also shi)",
+        "back": "已经五点了"
+    },
+    {
+        "front": "Xiànzài shì wǔ diǎn.",
+        "back": "现在是五点"
+    },
+    {
+        "front": "wǎnshang hǎo .",
+        "back": "晚上好"
+    },
+    {
+        "front": "Tā zài gēn shéi shuōhuà?",
+        "back": "她在跟谁说话"
+    },
+    {
+        "front": "Tā zài gēn shéi shuōhuà?",
+        "back": "他在跟谁说话"
+    },
+    {
+        "front": "Běijīng shì gè dà de dìfang.",
+        "back": "北京是个大的地方"
+    },
+    {
+        "front": "Tā shì shénme dìfang rén?",
+        "back": "他是什么地方人"
+    },
+    {
+        "front": "Nǐ shì Zhōngguórén ma?",
+        "back": "你是中国人吗"
+    },
+    {
+        "front": "Lǎoshī shì Zhōngguórén.",
+        "back": "老师是中国人"
+    },
+    {
+        "front": "Nín shì Zhōngguórén ma?",
+        "back": "您是中国人吗"
+    },
+    {
+        "front": "nín xuéxí ma ?",
+        "back": "您学习吗"
+    },
+    {
+        "front": "Tā gēn jiārén zài yīqǐ.",
+        "back": "她跟家人在一起"
+    },
+    {
+        "front": "Nǐ kànjian shénme le?",
+        "back": "你看见什么了"
+    },
+    {
+        "front": "Wǒ zài jiā.",
+        "back": "我在家"
+    },
+    {
+        "front": "Tā zài jiā ma? (also jiali)",
+        "back": "她在家吗"
+    },
+    {
+        "front": "Wǒ yào qù kàn diànyǐng.",
+        "back": "我要去看电影"
+    },
+    {
+        "front": "Wǒ xiǎng qù kàn diànyǐng.",
+        "back": "我想去看电影"
+    },
+    {
+        "front": "Diànyǐng hǎo kàn ma?",
+        "back": "电影好看吗"
+    },
+    {
+        "front": "Wǒ bìxū zǒu le.",
+        "back": "我必须走了"
+    },
+    {
+        "front": "wǒmen bìxū qù xuéxiào le.",
+        "back": "我们必须去学校了"
+    },
+    {
+        "front": "Zhǔnbèi hǎo le ma?",
+        "back": "准备好了吗"
+    },
+    {
+        "front": "Zhǔnbèi hǎo le ma?",
+        "back": "准备好了吗"
+    },
+    {
+        "front": "Wǒ wǎng xuéxiào qù. (also xiang4)",
+        "back": "我往学校去"
+    },
+    {
+        "front": "Yī rén shuō yī jù.",
+        "back": "一人说一句"
+    },
+    {
+        "front": "Wǒ xiǎng duì nǐ shuō jǐ jù huà. (also gen3, gei3) (also jiang3)",
+        "back": "我想对你说几句话"
+    },
+    {
+        "front": "Wǒ de tóngxué méi yǒu qián.",
+        "back": "我的同学没有钱"
+    },
+    {
+        "front": "Zhè yǒu hěn duō qián.",
+        "back": "这有很多钱"
+    },
+    {
+        "front": "tā yǒu hěn duō shì yào zuò. (also gai zuo de)",
+        "back": "她有很多事要做"
+    },
+    {
+        "front": "zuìhòu tā méiyǒu lái .",
+        "back": "最后她没有来"
+    },
+    {
+        "front": "Jiālǐ yǒu ma?<br />Méi yǒu.",
+        "back": "A家里有吗?<br/>B没有"
+    },
+    {
+        "front": "yǒu shénme shì shì wǒ gāi zuò de ma ?",
+        "back": "有什么事是我该做的吗"
+    },
+    {
+        "front": "tā gàosu wǒ shénme shíhou gāi shuō shì .",
+        "back": "他告诉我什么时候该说是"
+    },
+    {
+        "front": "nǐ néng gàosu wǒ zhè shì shénme ma ?",
+        "back": "你能告诉我这是什么吗"
+    },
+    {
+        "front": "Shénme shíhou kěyǐ gàosu wǒ? (ni ss neng gaosu wo)",
+        "back": "什么时候可以告诉我"
+    },
+    {
+        "front": "wǒ juéde nǐ de gōngzuò kěyǐ .",
+        "back": "我觉得你的工作可以"
+    },
+    {
+        "front": "Wǒ gàosu nǐ yī jiàn shì.",
+        "back": "我告诉你一件事"
+    },
+    {
+        "front": "wǒ juéde nǐ shuō de shì zhēn de .",
+        "back": "我觉得你说的是真的"
+    },
+    {
+        "front": "Dāngrán kěyǐ.",
+        "back": "当然可以"
+    },
+    {
+        "front": "Wǒ jīntiān huāle hěn duō qián.",
+        "back": "我今天花了很多钱"
+    },
+    {
+        "front": "Wǒ huílai le.",
+        "back": "我回来了"
+    },
+    {
+        "front": "Wǒ zhǐ xiǎng zhīdào nǐ shénme shíhou huílai.",
+        "back": "我只想知道你什么时候回来"
+    },
+    {
+        "front": "Wǒ xiǎng jiǎng jǐ jù huà. (also shuo, informal)",
+        "back": "我想讲几句话"
+    },
+    {
+        "front": "Nǐde gōngzuò nán ma?",
+        "back": "你的工作难吗"
+    },
+    {
+        "front": "Wǒde gōngzuò bù nán.",
+        "back": "我的工作不难"
+    },
+    {
+        "front": "Tāde gōngzuò bù nán.",
+        "back": "他的工作不难"
+    },
+    {
+        "front": "nǎ běn shì nǐ de shū ? (also na ben shu shi ni de?)",
+        "back": "哪本是你的书"
+    },
+    {
+        "front": "Wǒ liǎojiě tā.",
+        "back": "我了解她"
+    },
+    {
+        "front": "tā xiànzài chūqù le .",
+        "back": "他现在出去了"
+    },
+    {
+        "front": "Wǒ tīngshuō nǐ yào zhǎo gōngzuò.",
+        "back": "我听说你要找工作"
+    },
+    {
+        "front": "Wǒ zhèngzài tīng nǐ shuō.",
+        "back": "我正在听你说"
+    },
+    {
+        "front": "Tāmen zài dú yī běn shū.",
+        "back": "他们在读一本书"
+    },
+    {
+        "front": "wǒ fāxiàn dú zhè běn shū hěn nán .",
+        "back": "我发现读这本书很难"
+    },
+    {
+        "front": "Tāmen zài kǎoshì.",
+        "back": "他们在考试"
+    },
+    {
+        "front": "Kǎoshì kāishǐ le.",
+        "back": "考试开始了"
+    },
+    {
+        "front": "Xiànzài sān diǎn bàn.",
+        "back": "现在三点半"
+    },
+    {
+        "front": "Xiànzài shì sì diǎn bàn.",
+        "back": "现在是四点半"
+    },
+    {
+        "front": "Xiànzài shì liù diǎn.",
+        "back": "现在是六点"
+    },
+    {
+        "front": "nǐ juéde duìcǐ gāi zuò shénme ?",
+        "back": "你觉得对此该做什么"
+    },
+    {
+        "front": "Nǐ yào hē shénme?",
+        "back": "你要喝什么"
+    },
+    {
+        "front": "nǐ xiǎng yào shénme hē de ma ?",
+        "back": "你想要什么喝的吗"
+    },
+    {
+        "front": "wǒ shénme dōu bù xiǎng hē .",
+        "back": "我什么都不想喝"
+    },
+    {
+        "front": "wǒ qù bù liǎo, yě bù xiǎng qù .",
+        "back": "我去不了，也不想去"
+    },
+    {
+        "front": "&quot; nǐ wèishénme bù qù ?&quot;&quot; yīnwèi wǒ bù xiǎng qù .&quot;",
+        "back": "&quot;你为什么不去&quot;&quot;因为我不想去&quot;"
+    },
+    {
+        "front": "Wǒ xiǎng hē dōngxi.",
+        "back": "我想喝东西"
+    },
+    {
+        "front": "Tā xiǎng hē yī diǎn dōngxi.",
+        "back": "她想喝一点东西"
+    },
+    {
+        "front": "Wǒ xiǎng chī yī diǎn dōngxi.",
+        "back": "我想吃一点东西"
+    },
+    {
+        "front": "wǒ shì ge nánrén .",
+        "back": "我是个男人"
+    },
+    {
+        "front": "nánrén yīnggāi gōngzuò .",
+        "back": "男人应该工作"
+    },
+    {
+        "front": "xiànzài tā yīnggāi yǐjīng dào le. (also ta xianzai)",
+        "back": "现在他应该已经到了"
+    },
+    {
+        "front": "tā zhè gè shíhou gāi dào le. (also zhege shihou ta....)",
+        "back": "他这个时候该到了"
+    },
+    {
+        "front": "zhè bù kěnéng!",
+        "back": "这不可能"
+    },
+    {
+        "front": "nǐ zuì hǎo xiànzài jiù zǒu. (also xianzai zui hao)",
+        "back": "你最好现在就走"
+    },
+    {
+        "front": "Nǐde dàxué dà ma?",
+        "back": "你的大学大吗"
+    },
+    {
+        "front": "Tā shénme shíhòu shàng dàxué?",
+        "back": "他什么时候上大学"
+    },
+    {
+        "front": "wǒmen kànjiàn háizi shàng le chē .",
+        "back": "我们看见孩子上了车"
+    },
+    {
+        "front": "zhè xiē chē shì nǐ de ma ?\" shì de , shì wǒ de .",
+        "back": "“这些车是你的吗”“是的，是我的”"
+    },
+    {
+        "front": "nǐ de xuéxiào zài zhè gè chéngshì ma? (also zhe zuo4)",
+        "back": "你的学校在这个城市吗"
+    },
+    {
+        "front": "zhè duì tā méiyǒu yǐngxiǎng .",
+        "back": "这对他没有影响"
+    },
+    {
+        "front": "wǒ bù zài ài nǐ le .",
+        "back": "我不再爱你了"
+    },
+    {
+        "front": "Tā shì wǒ de érzi.",
+        "back": "他是我的儿子"
+    },
+    {
+        "front": "Zhè shì wǒ de érzi.",
+        "back": "这是我的儿子"
+    },
+    {
+        "front": "Wǒ érzi sānsuì le. (also you3)",
+        "back": "我儿子三岁了"
+    },
+    {
+        "front": "Jīhuì lái le.",
+        "back": "机会来了"
+    },
+    {
+        "front": "Wǒ tīng shuō nǐ shì lìshǐ lǎoshī.",
+        "back": "我听说你是历史老师"
+    },
+    {
+        "front": "Nǐ wèishénme xiǎng xué Zhōngguó lìshǐ?",
+        "back": "你为什么想学中国历史"
+    },
+    {
+        "front": "Nǐ yào xué ma?<br />Dāngrán yào xué.",
+        "back": "A你要学吗?<br/>B当然要学"
+    },
+    {
+        "front": "Xuéshengmen jǐdiǎn shàngxué?",
+        "back": "学生们几点上学"
+    },
+    {
+        "front": "Nǐ jǐdiǎn shàngxué?",
+        "back": "你几点上学"
+    },
+    {
+        "front": "Wǒ de xuésheng xué dōngxi kuài.",
+        "back": "我的学生学东西快"
+    },
+    {
+        "front": "Shuō Yīngyǔ bù nán.",
+        "back": "说英语不难"
+    },
+    {
+        "front": "Xué Yīngyǔ hěn nán.",
+        "back": "学英语很难"
+    },
+    {
+        "front": "Nǐ huì shuō Yīngyǔ ma?",
+        "back": "你会说英语吗"
+    },
+    {
+        "front": "Xuéshengmen xiǎng xué Yīngyǔ.",
+        "back": "学生们想学英语"
+    },
+    {
+        "front": "Nǐ shì zěnme xuéxí Yīngyǔ de?",
+        "back": "你是怎么学习英语的"
+    },
+    {
+        "front": "nǐ kāishǐ xuéxí yīngyǔ le ma?",
+        "back": "你开始学习英语了吗"
+    },
+    {
+        "front": "Nǎli kěyǐ xuéxí Yīngyǔ?",
+        "back": "哪里可以学习英语"
+    },
+    {
+        "front": "Nǐ wèishénme bù xǐhuan xuéxí Yīngyǔ?",
+        "back": "你为什么不喜欢学习英语"
+    },
+    {
+        "front": "wǒ xué yīngyǔ xué le 4 nián le. (also no xuele)",
+        "back": "我学英语学了4年了"
+    },
+    {
+        "front": "Nǎli kěyǐ mǎi Yīngyǔ shū?",
+        "back": "哪里可以买英语书"
+    },
+    {
+        "front": "Xiě Yīngyǔ bù nán.",
+        "back": "写英语不难"
+    },
+    {
+        "front": "Cóng xiànzài qǐ wǒ jiǎng Yīngyǔ.",
+        "back": "从现在起我讲英语"
+    },
+    {
+        "front": "wǒ mǎibùqǐ nà ge .",
+        "back": "我买不起那个"
+    },
+    {
+        "front": "yòng yīngyǔ shuō .",
+        "back": "用英语说"
+    },
+    {
+        "front": "tā bù zài shì yǐqián de nà ge tā le . (also no nage)",
+        "back": "他不再是以前的那个他了"
+    },
+    {
+        "front": "tā hěn nán xiě tā de míngzi .",
+        "back": "他很难写他的名字"
+    },
+    {
+        "front": "Nǐ jiào shénme míngzì?",
+        "back": "你叫什么名字"
+    },
+    {
+        "front": "Tā líkāi jiā qù xuéxiào. (also le)",
+        "back": "他离开家去学校"
+    },
+    {
+        "front": "tā hé wǒ yīyàng gāo .",
+        "back": "他和我一样高"
+    },
+    {
+        "front": "Māma hé háizimen yīqǐ wánr. (also gen1)",
+        "back": "妈妈和孩子们一起玩"
+    },
+    {
+        "front": "Nǐ yǒu yī mǐ gāo le.",
+        "back": "你有一米高了"
+    },
+    {
+        "front": "tā hé wǒ tóng suì .",
+        "back": "他和我同岁"
+    },
+    {
+        "front": "tā měi tiān qù xuéxiào xuéxí .",
+        "back": "他每天去学校学习"
+    },
+    {
+        "front": "tāmen měi tiān bìxū gōngzuò 8 xiǎoshí .",
+        "back": "他们每天必须工作8小时"
+    },
+    {
+        "front": "Tāmen wǒ dōu rènshi.",
+        "back": "他们我都认识"
+    },
+    {
+        "front": "wǒ rènshi tā liǎng nián le. (also ta, wo renshi ...)",
+        "back": "我认识她两年了"
+    },
+    {
+        "front": "ā , wǒ rènshi zhège nánrén !",
+        "back": "啊，我认识这个男人"
+    },
+    {
+        "front": "tā rènshi hěn duō rén .",
+        "back": "他认识很多人"
+    },
+    {
+        "front": "Nǐ zěnme rènshi tā de?",
+        "back": "你怎么认识他的"
+    },
+    {
+        "front": "Nǐ rènshi tā de lǎoshī ma?",
+        "back": "你认识他的老师吗"
+    },
+    {
+        "front": "Nǐ rènshi tā ma?",
+        "back": "你认识他吗"
+    },
+    {
+        "front": "Wǒ rènshi tā.",
+        "back": "我认识他"
+    },
+    {
+        "front": "Nǐ rènshi wǒde xuéshēng ma?",
+        "back": "你认识我的学生吗"
+    },
+    {
+        "front": "Nǐ rènshi tā ma?",
+        "back": "你认识他吗"
+    },
+    {
+        "front": "Nǐ zěnme rènshi tā?<br />Tā shì wǒ de tóngxué.",
+        "back": "A你怎么认识他?<br/>B他是我的同学"
+    },
+    {
+        "front": "Jīntiān wǒ rènshi le yīge xīn péngyou.",
+        "back": "今天我认识了一个新朋友"
+    },
+    {
+        "front": "Tāmen běnlái jiù rènshi.",
+        "back": "他们本来就认识"
+    },
+    {
+        "front": "Zhèxiē háizi dōu hěn kěài.",
+        "back": "这些孩子都很可爱"
+    },
+    {
+        "front": "nǐ bàba hěn gāo .",
+        "back": "你爸爸很高"
+    },
+    {
+        "front": "bàba chūqù le, dàn māma zài jiā .",
+        "back": "爸爸出去了，但妈妈在家"
+    },
+    {
+        "front": "Bàba bǐ wǒ gāo hěn duō.",
+        "back": "爸爸比我高很多"
+    },
+    {
+        "front": "Sam bǐ Tom xiǎo liǎng suì .",
+        "back": "Sam比Tom小两岁"
+    },
+    {
+        "front": "tā guòqù rènshi tā, dàn tāmen xiànzài bù zài shì péngyou le.",
+        "back": "他过去认识她，但他们现在不再是朋友了"
+    },
+    {
+        "front": "wǒ tīng le, dàn shénme yě méi tīng dào .",
+        "back": "我听了，但什么也没听到"
+    },
+    {
+        "front": "wǒmen yīnggāi zuòdào zuì hǎo .",
+        "back": "我们应该做到最好"
+    },
+    {
+        "front": "Shànghǎi rén hěn duō ma?",
+        "back": "上海人很多吗"
+    },
+    {
+        "front": "Shànghǎi rén hěn duō.",
+        "back": "上海人很多"
+    },
+    {
+        "front": "Wǒ  bù yào qù Shànghǎi.",
+        "back": "我不要去上海"
+    },
+    {
+        "front": "Tā wèishénme jīntiān yào huí Shànghǎi?",
+        "back": "她为什么今天要回上海"
+    },
+    {
+        "front": "Wǒmen huíjiā le.",
+        "back": "我们回家了"
+    },
+    {
+        "front": "Wǒ kěyǐ huí jiā ma?",
+        "back": "我可以回家吗"
+    },
+    {
+        "front": "Tā kěyǐ huí jiā.",
+        "back": "她可以回家"
+    },
+    {
+        "front": "Tā jǐdiǎn huí jiā?",
+        "back": "他几点回家"
+    },
+    {
+        "front": "Nǐ jǐdiǎn huí jiā?",
+        "back": "你几点回家"
+    },
+    {
+        "front": "nǐ huídá le shénme ?",
+        "back": "你回答了什么"
+    },
+    {
+        "front": "nǐ xǐhuān yīnyuè ma ?",
+        "back": "你喜欢音乐吗"
+    },
+    {
+        "front": "&quot; tā xǐhuān yīnyuè .&quot;&quot; wǒ yě shì .&quot;",
+        "back": "“她喜欢音乐”“我也是”"
+    },
+    {
+        "front": "Shuō yě nán ma?<br />Shuō bú tài nán.",
+        "back": "A说也难吗?<br/>B说不太难"
+    },
+    {
+        "front": "xiāngxìn wǒ . tā shuō .",
+        "back": "“相信我”他说"
+    },
+    {
+        "front": "Tāde Yīngyǔ shuōde hěn hǎo.",
+        "back": "他的英语说得很好"
+    },
+    {
+        "front": "Wǒ Yīngyǔ shuō de bú tài hǎo.<br />Wǒ yě shuō de bú tài hǎo.",
+        "back": "A我英语说得不太好<br/>B我也说得不太好"
+    },
+    {
+        "front": "Nǐ Yīngyǔ shuōde hěn hǎo.",
+        "back": "你英语说得很好"
+    },
+    {
+        "front": "dàjiā dōu zhīdào tā de yīngyǔ shuō de hěn hǎo. (also no 1st de)",
+        "back": "大家都知道她的英语说得很好"
+    },
+    {
+        "front": "Dàjiā kàn wǒ de juédìng duì ma?",
+        "back": "大家看我的决定对吗"
+    },
+    {
+        "front": "Nǐ míngbai le ma?",
+        "back": "你明白了吗"
+    },
+    {
+        "front": "wǒ bù tài míngbai tā shuō shénme. (also liaojie)",
+        "back": "我不太明白他说什么"
+    },
+    {
+        "front": "Wǒ zhōngyú míngbai le.",
+        "back": "我终于明白了"
+    },
+    {
+        "front": "Tā shì wǒ de nǚ'ér.",
+        "back": "她是我的女儿"
+    },
+    {
+        "front": "wǒmen yǒu liǎng ge nǚér .",
+        "back": "我们有两个女儿"
+    },
+    {
+        "front": "Tāmen de nǚ'ér hěn kě'ài.",
+        "back": "他们的女儿很可爱"
+    },
+    {
+        "front": "Tā xiǎng dāng lǎoshī.",
+        "back": "她想当老师"
+    },
+    {
+        "front": "Yīnyuè hěn hǎo tīng.<div>(Also ting hao ting) (Ting hao le means you listened well)</div>",
+        "back": "音乐很好听"
+    },
+    {
+        "front": "Tāmen yī gè zài zuò, lìng yī gè zài kàn.",
+        "back": "他们一个在做，另一个在看"
+    },
+    {
+        "front": "Nǐ yǒu qián ma?",
+        "back": "你有钱吗"
+    },
+    {
+        "front": "Wǒmen huì jīngguò nǐ jiā.",
+        "back": "我们会经过你家"
+    },
+    {
+        "front": "tā shì tā de yīqiè .",
+        "back": "她是他的一切"
+    },
+    {
+        "front": "nǐ shì wǒ de yīqiè .",
+        "back": "你是我的一切"
+    },
+    {
+        "front": "Yīqiè dōu méiyǒu wèntí.",
+        "back": "一切都没有问题"
+    },
+    {
+        "front": "wǒ xīwàng zuìhòu yīqiè dōuhǎo .",
+        "back": "我希望最后一切都好"
+    },
+    {
+        "front": "qítā de yīqiè dōuhǎo .",
+        "back": "其他的一切都好"
+    },
+    {
+        "front": "wǒ xīwàng rúcǐ .",
+        "back": "我希望如此"
+    },
+    {
+        "front": "Zhèxiē yīfu shì nǚ'ér de.",
+        "back": "这些衣服是女儿的"
+    },
+    {
+        "front": "Maria huā hěn duō qián mǎi yīfu .",
+        "back": "Maria花很多钱买衣服"
+    },
+    {
+        "front": "Wǒ xǐhuan mǎi yīfu.",
+        "back": "我喜欢买衣服"
+    },
+    {
+        "front": "Tā mǎile yī jiàn yīfu.",
+        "back": "她买了一件衣服"
+    },
+    {
+        "front": "Zhè jiàn yīfu duōshǎo qián?",
+        "back": "这件衣服多少钱"
+    },
+    {
+        "front": "Tā yǒu hěn duō àihào.",
+        "back": "她有很多爱好"
+    },
+    {
+        "front": "Nǐ yǒu hěn duō àihào ma?",
+        "back": "你有很多爱好吗"
+    },
+    {
+        "front": "wǒ huì qù jiē tā de.",
+        "back": "我会去接他的"
+    },
+    {
+        "front": "jiē diànhuà .",
+        "back": "接电话"
+    },
+    {
+        "front": "Qǐng jiē yīxià diànhuà. (also no yixia)",
+        "back": "请接一下电话"
+    },
+    {
+        "front": "Ràng wǒ jièshào yī xià wǒde tóngxué.",
+        "back": "让我介绍一下我的同学"
+    },
+    {
+        "front": "Wǒ yě lái jièshào yīxià!",
+        "back": "我也来介绍一下!"
+    },
+    {
+        "front": "Qǐng jièshào nǐ zìjǐ. (also qing ziwo jieshao yixia)",
+        "back": "请介绍你自己"
+    },
+    {
+        "front": "wǒ bù néng ràng zìjǐ zuò zhèyàng de shì. (also wo ziji)",
+        "back": "我不能让自己做这样的事"
+    },
+    {
+        "front": "wèntí shì nà tiān wǒmen de chē bù néng yòng. (also bu neng yong women de che)",
+        "back": "问题是那天我们的车不能用"
+    },
+    {
+        "front": "tāmen yǒu tāmén zìjǐ de wénhuà .",
+        "back": "他们有他们自己的文化"
+    },
+    {
+        "front": "Wǒ bú jìde le.",
+        "back": "我不记得了"
+    },
+    {
+        "front": "Wǒ jìde tā yǐqián zài wǒmen gōngsī gōngzuò.",
+        "back": "我记得他以前在我们公司工作"
+    },
+    {
+        "front": "Wǒ zài kàn Yīngwén shū. (also du)",
+        "back": "我在看英文书"
+    },
+    {
+        "front": "Zhǎo gōngzuò hěn róngyì.",
+        "back": "找工作很容易"
+    },
+    {
+        "front": "Wǒ bù huì xiě Zhōngwén.",
+        "back": "我不会写中文"
+    },
+    {
+        "front": "Wèntí jiějué le.",
+        "back": "问题解决了"
+    },
+    {
+        "front": "Tā hěn yǒu cáinéng.",
+        "back": "她很有才能"
+    },
+    {
+        "front": "Fāshēngle shénme shì? (also le at the end)",
+        "back": "发生了什么事"
+    },
+    {
+        "front": "wǒ xiǎng zhīdào tā fāshēng shénme shì le. (also chu1)",
+        "back": "我想知道她发生什么事了"
+    },
+    {
+        "front": "Xuéshēng xué dōngxi hěn kuài.",
+        "back": "学生学东西很快"
+    },
+    {
+        "front": "tā hěn kuài jiù huì huílai de .",
+        "back": "他很快就会回来的"
+    },
+    {
+        "front": "tā hěn kuài jiù huì huílai. (also de)&nbsp;(also no jiu)",
+        "back": "他很快就会回来"
+    },
+    {
+        "front": "wǒ wǔ diǎn dào nǐ jiā lái jiē nǐ . (also no lai)",
+        "back": "我五点到你家来接你"
+    },
+    {
+        "front": "Xiànzài de Zhōngguó, yīqiè dōu biàn le.",
+        "back": "现在的中国，一切都变了"
+    },
+    {
+        "front": "zhè shì nǐ de xìn.",
+        "back": "这是你的信"
+    },
+    {
+        "front": "Tā gēn wǒmen zhùde hěn yuǎn. (also he/li) (also ta zhu de li wo men hen yuan)",
+        "back": "他跟我们住的很远"
+    },
+    {
+        "front": "Xuéxiào lí wǒ jiā hěn yuǎn.",
+        "back": "学校离我家很远"
+    },
+    {
+        "front": "Wǒ jiā lí xuéxiào hěn jìn.",
+        "back": "我家离学校很近"
+    },
+    {
+        "front": "ràng wǒ zhīdào shìfǒu yǒu shénme wǒ néng zuò de .",
+        "back": "让我知道是否有什么我能做的"
+    },
+    {
+        "front": "Tāmen rènwéi tā shì xuéxiào lǐ zuì hǎode lǎoshī.",
+        "back": "他们认为她是学校里最好的老师"
+    },
+    {
+        "front": "nǐ bù zhème rènwéi ma?",
+        "back": "你不这么认为吗"
+    },
+    {
+        "front": "rúguǒ wǒ shì nǐ, wǒ yě huì zhème zuò. (also no hui)",
+        "back": "如果我是你，我也会这么做"
+    },
+    {
+        "front": "rúguǒ wǒmen bù chī, jiù huì sǐ.",
+        "back": "如果我们不吃，就会死"
+    },
+    {
+        "front": "Wǒ lái bāng nín.",
+        "back": "我来帮您"
+    },
+    {
+        "front": "wǒ méi péngyou bāng wǒ .",
+        "back": "我没朋友帮我"
+    },
+    {
+        "front": "bāng wǒ yīxià .",
+        "back": "帮我一下"
+    },
+    {
+        "front": "Tā bāng péngyou kān háizi. (also zai to mean \"now\")",
+        "back": "她帮朋友看孩子"
+    },
+    {
+        "front": "wǒ yǒu hěn duō péngyou bāng wǒ .",
+        "back": "我有很多朋友帮我"
+    },
+    {
+        "front": "nà méi rén bāng nǐ ma ?",
+        "back": "那没人帮你吗"
+    },
+    {
+        "front": "Qǐng jìxù shuō.",
+        "back": "请继续说"
+    },
+    {
+        "front": "Ràng wǒmen jìxù gōngzuò ba.",
+        "back": "让我们继续工作吧"
+    },
+    {
+        "front": "Qǐng nǐ jìxù shuō.",
+        "back": "请你继续说"
+    },
+    {
+        "front": "Jìxù ba!",
+        "back": "继续吧"
+    },
+    {
+        "front": "Zhè shì wǒ de fùqin.",
+        "back": "这是我的父亲"
+    },
+    {
+        "front": "Qǐngwèn, nǐ de xuésheng jiào shénme míngzi?",
+        "back": "请问,你的学生叫什么名字"
+    },
+    {
+        "front": "Qǐngwèn, xuéxiào zài nǎli?",
+        "back": "请问,学校在哪里"
+    },
+    {
+        "front": "Qǐngwèn, nǎlǐ kěyǐ mǎi Yīngyǔ shū?",
+        "back": "请问,哪里可以买英语书"
+    },
+    {
+        "front": "Qǐngwèn nín cóngshì shénme gōngzuò?",
+        "back": "请问您从事什么工作"
+    },
+    {
+        "front": "Tāmen zài tán shénme?",
+        "back": "他们在谈什么"
+    },
+    {
+        "front": "Nǐde shǒujī zài nǎli?",
+        "back": "你的手机在哪里"
+    },
+    {
+        "front": "Qǐngwèn, nǐ yǒu shǒujī ma?",
+        "back": "请问,你有手机吗"
+    },
+    {
+        "front": "Zhè shì shǒujī.",
+        "back": "这是手机"
+    },
+    {
+        "front": "Nǐ yǒu shǒujī ma?",
+        "back": "你有手机吗"
+    },
+    {
+        "front": "Shǒujī zài nǎli?",
+        "back": "手机在哪里"
+    },
+    {
+        "front": "Nǎli kěyǐ mǎi shǒujī?",
+        "back": "哪里可以买手机"
+    },
+    {
+        "front": "Wǒ yǒu shǒujī.",
+        "back": "我有手机"
+    },
+    {
+        "front": "Qīngchu le ma?",
+        "back": "清楚了吗"
+    },
+    {
+        "front": "Tā de zì xiě de hěn qīngchu. (also ta zi xie ...)",
+        "back": "他的字写得很清楚"
+    },
+    {
+        "front": "Tā gāng líkāi gōngsī.",
+        "back": "他刚离开公司"
+    },
+    {
+        "front": "tā gāng líkāi jiā .",
+        "back": "他刚离开家"
+    },
+    {
+        "front": "tā gāng huídào jiā .",
+        "back": "他刚回到家"
+    },
+    {
+        "front": "Tā hé nǐ yīyàng lái zì Zhōngguó. (also yiyang-&gt;liang ge dou)",
+        "back": "他和你一样来自中国"
+    },
+    {
+        "front": "Tā jǐdiǎn shàngbān?",
+        "back": "她几点上班"
+    },
+    {
+        "front": "Tā shì wǒmen bān zuì hǎode xuésheng.<div>(Also zai) (Also shang or li)</div>",
+        "back": "他是我们班最好的学生"
+    },
+    {
+        "front": "Nǐ zhǎo wǒ yǒu shì ma?",
+        "back": "你找我有事吗"
+    },
+    {
+        "front": "Dǎkāi nǐde shū.",
+        "back": "打开你的书"
+    },
+    {
+        "front": "wǒ chūqù de shíhou yǒu rén dǎ wǒ diànhuà ma ?",
+        "back": "我出去的时候有人打我电话吗"
+    },
+    {
+        "front": "Zhè gè wèntí hěn jiǎndān.",
+        "back": "这个问题很简单"
+    },
+    {
+        "front": "chúle zhèli, méi nàme jiǎndān.<div>(also mei you)</div>",
+        "back": "除了这里，没那么简单"
+    },
+    {
+        "front": "Lǎoshī jiāo wǒmen Yīngwén.",
+        "back": "老师教我们英文"
+    },
+    {
+        "front": "Wǒ zài dàxué jiāo Yīngwén.",
+        "back": "我在大学教英文"
+    },
+    {
+        "front": "Wǒ xiǎng jiāo lìshǐ.",
+        "back": "我想教历史"
+    },
+    {
+        "front": "Nǐ jiāo Yīngwén ma?",
+        "back": "你教英文吗"
+    },
+    {
+        "front": "Tā jiāo Zhōngwén.",
+        "back": "她教中文"
+    },
+    {
+        "front": "Wǒ jiāo Zhōngwén.",
+        "back": "我教中文"
+    },
+    {
+        "front": "Wǒde péngyou jiāo Zhōngwén.",
+        "back": "我的朋友教中文"
+    },
+    {
+        "front": "shì shéi jiāo tā zěnme shuō yīngyǔ de ?",
+        "back": "是谁教她怎么说英语的"
+    },
+    {
+        "front": "nǐ bìxū mǎshàng kāishǐ .",
+        "back": "你必须马上开始"
+    },
+    {
+        "front": "Mǎshàng yào jìnxíng kǎoshì. (also kaishi)",
+        "back": "马上要进行考试"
+    },
+    {
+        "front": "Māma zài yīyuàn gōngzuò.",
+        "back": "妈妈在医院工作"
+    },
+    {
+        "front": "qǐng nǐ bùyào kū .",
+        "back": "请你不要哭"
+    },
+    {
+        "front": "wǒ xiǎng kū .",
+        "back": "我想哭"
+    },
+    {
+        "front": "Wǒ zhíjiē gàosu nǐ ba!",
+        "back": "我直接告诉你吧"
+    },
+    {
+        "front": "Zuìjìn hǎo ma?",
+        "back": "最近好吗"
+    },
+    {
+        "front": "Nǐ yào xiāngxìn zìjǐ de nénglì.",
+        "back": "你要相信自己的能力"
+    },
+    {
+        "front": "Tā chénggōng le.",
+        "back": "他成功了"
+    },
+    {
+        "front": "tā xīwàng yǐjīng chénggōng le .",
+        "back": "他希望已经成功了"
+    },
+    {
+        "front": "wǒ kěndìng tā huì chénggōng de. (also que ding)",
+        "back": "我肯定他会成功的"
+    },
+    {
+        "front": "Māma hěn máng.",
+        "back": "妈妈很忙"
+    },
+    {
+        "front": "wǒ bàba hěn máng .",
+        "back": "我爸爸很忙"
+    },
+    {
+        "front": "nǐ jīntiān máng ma ?",
+        "back": "你今天忙吗"
+    },
+    {
+        "front": "Xūyào wǒ bāng nǐ de máng ma?",
+        "back": "需要我帮你的忙吗"
+    },
+    {
+        "front": "Tā xūyào bāngzhù.",
+        "back": "她需要帮助"
+    },
+    {
+        "front": "Wǒ ài wǒ de mǔqin.",
+        "back": "我爱我的母亲"
+    },
+    {
+        "front": "tā mǔqīn jiāng jìxù gōngzuò . (also yao4)",
+        "back": "她母亲将继续工作"
+    },
+    {
+        "front": "Nǐ yīnggāi nǔlì xuéxí.",
+        "back": "你应该努力学习"
+    },
+    {
+        "front": "Zhōngguórén gōngzuò hěn nǔlì.",
+        "back": "中国人工作很努力"
+    },
+    {
+        "front": "Tā bù nǔlì gōngzuò.",
+        "back": "他不努力工作"
+    },
+    {
+        "front": "tā nǔlì gōngzuò .",
+        "back": "他努力工作"
+    },
+    {
+        "front": "nǐ gōngzuò tài nǔlì le. (also ni tai nuli gongzuo le)",
+        "back": "你工作太努力了"
+    },
+    {
+        "front": "nǐ tài hǎo le .Willie huídá dào .",
+        "back": "“你太好了”Willie回答道"
+    },
+    {
+        "front": "Tāmen měi gè rén dōu hěn nǔlì.",
+        "back": "他们每个人都很努力"
+    },
+    {
+        "front": "Wǒ bù zhīdào zhè jiàn shì.",
+        "back": "我不知道这件事"
+    },
+    {
+        "front": "wǒ bùzhī dào , yě bù xiǎng zhīdào .",
+        "back": "我不知道，也不想知道"
+    },
+    {
+        "front": "nǐ zěnme huì bù zhīdào ?",
+        "back": "你怎么会不知道"
+    },
+    {
+        "front": "wǒ bùzhī dào wǒ hái yǒu méiyǒu .",
+        "back": "我不知道我还有没有"
+    },
+    {
+        "front": "wǒ hái yǒu qítā xuǎnzé ma? (also qita de)",
+        "back": "我还有其他选择吗"
+    },
+    {
+        "front": "wǒ zàiyě bù zhīdào gāi zuò shénme le.",
+        "back": "我再也不知道该做什么了"
+    },
+    {
+        "front": "Nǐ huì zài lái Zhōngguó ma?<br />Kěnéng.",
+        "back": "A你会再来中国吗<br/>B可能"
+    },
+    {
+        "front": "rúguǒ tā zài nǔlì yīdiǎn, jiù kěnéng yǐjīng chénggōng le .",
+        "back": "如果他再努力一点，就可能已经成功了"
+    },
+    {
+        "front": "tā kěnéng chū shénme shì le. (also fasheng)",
+        "back": "她可能出什么事了"
+    },
+    {
+        "front": "nǐ kěnéng tīngshuō guò .",
+        "back": "你可能听说过"
+    },
+    {
+        "front": "rúguǒ tā dāngshí zài nǔlì yīdiǎn, tā jiù chénggōng le.",
+        "back": "如果他当时再努力一点，他就成功了"
+    },
+    {
+        "front": "Qǐng lái wǒ de jiālǐ.",
+        "back": "请来我的家里"
+    },
+    {
+        "front": "Zhè dào tí hěn nán.",
+        "back": "这道题很难"
+    },
+    {
+        "front": "Dāngrán, méi wèntí!",
+        "back": "当然，没问题"
+    },
+    {
+        "front": "tā gàosu wǒ tā māma mǎi gěi tā le .",
+        "back": "她告诉我她妈妈买给她了"
+    },
+    {
+        "front": "Jīntiān jǐ yuè jǐ rì?",
+        "back": "今天几月几日"
+    },
+    {
+        "front": "Xià gè yuè shì jǐ yuè?",
+        "back": "下个月是几月"
+    },
+    {
+        "front": "Tā xià gè yuè shēng háizi.",
+        "back": "她下个月生孩子"
+    },
+    {
+        "front": "Nà jiā gōngsī dǎo le.",
+        "back": "那家公司倒了"
+    },
+    {
+        "front": "wǒ néng wèn yīxiē wèntí ma ?",
+        "back": "我能问一些问题吗"
+    },
+    {
+        "front": "děng tā huílai de shíhou wèn wèn tā .",
+        "back": "等她回来的时候问问她"
+    },
+    {
+        "front": "wǒ děng wǒ de yī ge péngyou děng le yī xiǎoshí .",
+        "back": "我等我的一个朋友等了一小时"
+    },
+    {
+        "front": "wǒ zhǐ néng děng le. (also zhihao)",
+        "back": "我只能等了"
+    },
+    {
+        "front": "Měiguó lìshǐ méi yǒu yìsi.",
+        "back": "美国历史没有意思"
+    },
+    {
+        "front": "wǒ xiǎng zhīdào zhèjùhuà de yìsi .",
+        "back": "我想知道这句话的意思"
+    },
+    {
+        "front": "Zhè běn xiǎoshuō méi yǒu yìsi.",
+        "back": "这本小说没有意思"
+    },
+    {
+        "front": "Nǐmen míngbai wǒ de yìsi le ma? (no le ok)",
+        "back": "你们明白我的意思了吗"
+    },
+    {
+        "front": "Wǒ gěi nǐmen jiǎng yī gè gùshi.",
+        "back": "我给你们讲一个故事"
+    },
+    {
+        "front": "méi yǒu rén lǐjiě wǒ .",
+        "back": "没有人理解我"
+    },
+    {
+        "front": "Wǒ zài gāozhōng jiāo Yīngwén.",
+        "back": "我在高中教英文"
+    },
+    {
+        "front": "Wǒ yǐjīng wèn guò měi yī gè rén le.",
+        "back": "我已经问过每一个人了"
+    },
+    {
+        "front": "nàr, chúle wǒ, yī gè rén dōu méiyǒu .",
+        "back": "那儿除了我，一个人都没有"
+    },
+    {
+        "front": "nǐ de zài nàr ne.",
+        "back": "你的在那儿呢"
+    },
+    {
+        "front": "wǒ yǒu hǎojǐ dá&nbsp;ne .",
+        "back": "我有好几打呢"
+    },
+    {
+        "front": "gāi yóu nǐ lái juédìng wǒmen qù bù qù nàr .",
+        "back": "该由你来决定我们去不去那儿"
+    },
+    {
+        "front": "Wǒ zhǐ xiǎng hǎohǎo ài yī gè rén.",
+        "back": "我只想好好儿爱一个人"
+    },
+    {
+        "front": "hǎohǎo nǔlì, nǐ jiù néng tōngguò kǎoshì .",
+        "back": "好好努力，你就能通过考试"
+    },
+    {
+        "front": "Zhè shì wǒ de fángjiān.",
+        "back": "这是我的房间"
+    },
+    {
+        "front": "bùyào wǎng wǒ fángjiān lǐ kàn. (also xiang4)",
+        "back": "不要往我房间里看"
+    },
+    {
+        "front": "wǒ yào huí fángjiān le, zài nàr wǒ kěyǐ xuéxí.",
+        "back": "我要回房间了，在那儿我可以学习"
+    },
+    {
+        "front": "wǒ de fángjiān hào shì duōshao?",
+        "back": "我的房间号是多少"
+    },
+    {
+        "front": "Tā rènshi zhè wèi lǎoshī.",
+        "back": "他认识这位老师"
+    },
+    {
+        "front": "Nǐ rènshi zhèwèi lǎoshī ma?",
+        "back": "你认识这位老师吗"
+    },
+    {
+        "front": "wǒ xiǎng kàn zhè bù diànyǐng .",
+        "back": "我想看这部电影"
+    },
+    {
+        "front": "Tā yào qù mǎi diànshì.",
+        "back": "他要去买电视"
+    },
+    {
+        "front": "Nǐ xǐhuan kàn diànshì ma?",
+        "back": "你喜欢看电视吗"
+    },
+    {
+        "front": "Wǒ bù xǐhuan kàn diànshì.",
+        "back": "我不喜欢看电视"
+    },
+    {
+        "front": "méiyǒurén xiāngxìn wǒ shuō dehuà .",
+        "back": "没有人相信我说的话"
+    },
+    {
+        "front": "Zhè shì nǐ de diànnǎo.",
+        "back": "这是你的电脑"
+    },
+    {
+        "front": "Zhè shì shéi de diànnǎo?",
+        "back": "这是谁的电脑"
+    },
+    {
+        "front": "Zhè shì cìyào de wèntí.",
+        "back": "这是次要的问题"
+    },
+    {
+        "front": "tā shì yīshēng. (also yi wèi/míng)",
+        "back": "她是医生"
+    },
+    {
+        "front": "Nǐ shì yīshēng ma?<br />Bú shì. Wǒ shì lǎoshī.",
+        "back": "A你是医生吗?<br/>B不是我是老师"
+    },
+    {
+        "front": "wǒmen hěn kuài jiù dào zhèr le, bù shì ma?",
+        "back": "我们很快就到这儿了，不是吗"
+    },
+    {
+        "front": "nǐ kěyǐ mǎi nǐ xǐhuān de nà ge , ér bù shì liǎng ge dōu mǎi .",
+        "back": "你可以买你喜欢的那个，而不是两个都买"
+    },
+    {
+        "front": "rúguǒ wǒ zǎo zhīdào nǐ zài zhèr dehuà, wǒ mǎshàng jiù lái le.<div>(also wo jiu mashang...)</div>",
+        "back": "如果我早知道你在这儿的话，我马上就来了"
+    },
+    {
+        "front": "rúguǒ wǒ zǎo zhīdào, wǒ bù huì gēn tā shuō zhèzhǒng huà .",
+        "back": "如果我早知道，我不会跟她说这种话"
+    },
+    {
+        "front": "Nǐ yòng shénme fāngfǎ xuéxí?",
+        "back": "你用什么方法学习"
+    },
+    {
+        "front": "Ràng wǒ jièshào yīxià wǒ de hǎopéngyou.",
+        "back": "让我介绍一下我的好朋友"
+    },
+    {
+        "front": "Tā huòdé le yī gè jīhuì.",
+        "back": "他获得了一个机会"
+    },
+    {
+        "front": "Tā gāng mǎile yī liàng chē.",
+        "back": "她刚买了一辆车"
+    },
+    {
+        "front": "Xià gè yuè shì èryuè.",
+        "back": "下个月是二月"
+    },
+    {
+        "front": "lǎoshī bù kěnéng shuō guò zhè yàng de shì .",
+        "back": "老师不可能说过这样的事"
+    },
+    {
+        "front": "Zhè gè wèntí, qǐng dàjiā yánjiū yīxià.",
+        "back": "这个问题，请大家研究一下"
+    },
+    {
+        "front": "Zuótiān tā líkāi Běijīng qù Shànghǎi le.",
+        "back": "昨天他离开北京去上海了"
+    },
+    {
+        "front": "Tāmen zuótiān kàn diànyǐng le.",
+        "back": "他们昨天看电影了"
+    },
+    {
+        "front": "Ken zuótiān zài jiā ma ?",
+        "back": "Ken昨天在家吗"
+    },
+    {
+        "front": "tā zuótiān kànjiàn yī ge gāodà de nánrén .",
+        "back": "她昨天看见一个高大的男人"
+    },
+    {
+        "front": "Qǐng zuò.",
+        "back": "请坐"
+    },
+    {
+        "front": "Tā xǐhuan xiǎo gǒu.",
+        "back": "她喜欢小狗"
+    },
+    {
+        "front": "Nà zhī gǒu hěn kě'ài.",
+        "back": "那只狗很可爱"
+    },
+    {
+        "front": "Wǒ yǒu yī zhī xiǎo gǒu.",
+        "back": "我有一只小狗"
+    },
+    {
+        "front": "Ken de gǒu hěn dà .",
+        "back": "Ken的狗很大"
+    },
+    {
+        "front": "Zhè liǎng zhī xiǎo gǒu zhēn kě'ài. (no zhexie, because you know it's 2)",
+        "back": "这两只小狗真可爱"
+    },
+    {
+        "front": "Tā jīnnián jǐ suì le?",
+        "back": "她今年几岁了"
+    },
+    {
+        "front": "Tāmen qù kàn le yī bù àiqíng diànyǐng.",
+        "back": "他们去看了一部爱情电影"
+    },
+    {
+        "front": "dàjiā dōu wán àiqíng yóuxì .",
+        "back": "大家都玩爱情游戏"
+    },
+    {
+        "front": "Xièxie nín.",
+        "back": "谢谢您"
+    },
+    {
+        "front": "Xièxie nín de huídá.",
+        "back": "谢谢您的回答"
+    },
+    {
+        "front": "Xièxie nín de bāngzhù.",
+        "back": "谢谢您的帮助"
+    },
+    {
+        "front": "xièxie nǐ bāng le wǒ. méi shénme.",
+        "back": "“谢谢你帮了我”“没什么”"
+    },
+    {
+        "front": "méiyǒu nǐ, wǒ wúfǎ zuòdào, xièxie .",
+        "back": "没有你我无法做到，谢谢"
+    },
+    {
+        "front": "wǒ wúfǎ xiāngxìn zìjǐ de yǎnjing .",
+        "back": "我无法相信自己的眼睛"
+    },
+    {
+        "front": "Zhè zhǒng bànfǎ wúfǎ jiějué zhè gè wèntí.",
+        "back": "这种办法无法解决这个问题"
+    },
+    {
+        "front": "Tā shì jiàoshòu.",
+        "back": "他是教授"
+    },
+    {
+        "front": "ràng wǒ zhīdào wǒ shìfǒu xūyào gǎibiàn .",
+        "back": "让我知道我是否需要改变"
+    },
+    {
+        "front": "Wǒ bù dǒng Zhōngwén.",
+        "back": "我不懂中文"
+    },
+    {
+        "front": "Wǒ tīng bù dǒng lǎoshī shuōde huà.",
+        "back": "我听不懂老师说的话"
+    },
+    {
+        "front": "Wǒ tīng bù dǒng tā shuōde huà.",
+        "back": "我听不懂他说的话"
+    },
+    {
+        "front": "Wǒ dǒng le.",
+        "back": "我懂了"
+    },
+    {
+        "front": "Wǒ dǒng le.",
+        "back": "我懂了"
+    },
+    {
+        "front": "wǒ dàgài dǒng le. (also ming bai)",
+        "back": "我大概懂了"
+    },
+    {
+        "front": "Yǒu rén jìnqù le.",
+        "back": "有人进去了"
+    },
+    {
+        "front": "ràng wǒ jìnqù .",
+        "back": "让我进去"
+    },
+    {
+        "front": "Wǒde qián diào le.",
+        "back": "我的钱掉了"
+    },
+    {
+        "front": "Nǐ dàodǐ qù bu qù?",
+        "back": "你到底去不去"
+    },
+    {
+        "front": "Zhè jiàn shìqing dàodǐ shì jiějué le.",
+        "back": "这件事情到底是解决了"
+    },
+    {
+        "front": "Zhǐ yǒu liǎngge rén zhīdào zhèjiàn shìqing.",
+        "back": "只有两个人知道这件事情"
+    },
+    {
+        "front": "Tā pǎo de hěn kuài.",
+        "back": "他跑得很快"
+    },
+    {
+        "front": "nà ge xuésheng pǎo de hěn kuài, bù shì ma ?",
+        "back": "那个学生跑得很快，不是吗"
+    },
+    {
+        "front": "Tā pǎo de zhēn kuài.",
+        "back": "他跑得真快"
+    },
+    {
+        "front": "Bill pǎo de bǐ Bob kuài .",
+        "back": "Bill跑得比Bob快"
+    },
+    {
+        "front": "zhè gǒu pǎo de duō kuài ā !",
+        "back": "这狗跑得多快啊"
+    },
+    {
+        "front": "tā pǎo de néng yǒu duō kuài jiù yǒu duō kuài .",
+        "back": "他跑得能有多快就有多快"
+    },
+    {
+        "front": "Wǒ pǎole sān lǐlù.",
+        "back": "我跑了3里路"
+    },
+    {
+        "front": "Tā pǎo le yī duàn lù.",
+        "back": "她跑了一段路"
+    }
+]

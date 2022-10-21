@@ -1,0 +1,2002 @@
+[
+    {
+        "front": "All right.",
+        "back": "U redu."
+    },
+    {
+        "front": "I don't know.",
+        "back": "Ne znam."
+    },
+    {
+        "front": "That's right.",
+        "back": "Tako je."
+    },
+    {
+        "front": "Thank you.",
+        "back": "Hvala ti."
+    },
+    {
+        "front": "How are you?",
+        "back": "Kako si?"
+    },
+    {
+        "front": "Please.",
+        "back": "Molim te."
+    },
+    {
+        "front": "I can't.",
+        "back": "Ne mogu."
+    },
+    {
+        "front": "Good night.",
+        "back": "Laku noæ."
+    },
+    {
+        "front": "I love you.",
+        "back": "Volim te."
+    },
+    {
+        "front": "I'm fine.",
+        "back": "Dobro sam."
+    },
+    {
+        "front": "Good morning.",
+        "back": "Dobro jutro."
+    },
+    {
+        "front": "It's good.",
+        "back": "Dobro je."
+    },
+    {
+        "front": "See you.",
+        "back": "Vidimo se."
+    },
+    {
+        "front": "No, thank you.",
+        "back": "Ne, hvala."
+    },
+    {
+        "front": "You know what?",
+        "back": "Znaš šta?"
+    },
+    {
+        "front": "What is it?",
+        "back": "Što je?"
+    },
+    {
+        "front": "And you?",
+        "back": "A ti?"
+    },
+    {
+        "front": "Isn't it?",
+        "back": "Zar ne?"
+    },
+    {
+        "front": "Calm down.",
+        "back": "Smiri se."
+    },
+    {
+        "front": "What are you doing?",
+        "back": "Šta radiš?"
+    },
+    {
+        "front": "Yes, of course.",
+        "back": "Da, naravno."
+    },
+    {
+        "front": "Yes, yes.",
+        "back": "Da, da."
+    },
+    {
+        "front": "Where is he?",
+        "back": "Gde je?"
+    },
+    {
+        "front": "Here it is.",
+        "back": "Evo ga."
+    },
+    {
+        "front": "Oh, yes.",
+        "back": "O, da."
+    },
+    {
+        "front": "Is it?",
+        "back": "Je li?"
+    },
+    {
+        "front": "Oh, my God.",
+        "back": "O, Bože."
+    },
+    {
+        "front": "Good afternoon.",
+        "back": "Dobar dan."
+    },
+    {
+        "front": "Wait a minute.",
+        "back": "Èekaj malo."
+    },
+    {
+        "front": "I don't understand.",
+        "back": "Ne razumem."
+    },
+    {
+        "front": "Yes, I know.",
+        "back": "Da, znam."
+    },
+    {
+        "front": "I am.",
+        "back": "Ja sam."
+    },
+    {
+        "front": "No way.",
+        "back": "Nema šanse."
+    },
+    {
+        "front": "Not really.",
+        "back": "Ne baš."
+    },
+    {
+        "front": "Just a little.",
+        "back": "Samo malo."
+    },
+    {
+        "front": "Oh, yes.",
+        "back": "Oh, da."
+    },
+    {
+        "front": "It's over.",
+        "back": "Gotovo je."
+    },
+    {
+        "front": "What do you think?",
+        "back": "Šta misliš?"
+    },
+    {
+        "front": "Where are you?",
+        "back": "Gde si?"
+    },
+    {
+        "front": "Relax.",
+        "back": "Opusti se."
+    },
+    {
+        "front": "What do you want?",
+        "back": "Šta hoæeš?"
+    },
+    {
+        "front": "I will.",
+        "back": "Ja æu."
+    },
+    {
+        "front": "No, it is not.",
+        "back": "Ne, nije."
+    },
+    {
+        "front": "So what?",
+        "back": "Pa šta?"
+    },
+    {
+        "front": "I agree.",
+        "back": "Slažem se."
+    },
+    {
+        "front": "I apologize.",
+        "back": "Izvinjavam se."
+    },
+    {
+        "front": "What's up?",
+        "back": "Šta ima?"
+    },
+    {
+        "front": "How is it?",
+        "back": "Kako je?"
+    },
+    {
+        "front": "For what?",
+        "back": "Zbog èega?"
+    },
+    {
+        "front": "How's it going?",
+        "back": "Kako ide?"
+    },
+    {
+        "front": "Come on.",
+        "back": "Ma daj."
+    },
+    {
+        "front": "How is that?",
+        "back": "Kako to?"
+    },
+    {
+        "front": "Neither do I.",
+        "back": "Ni ja."
+    },
+    {
+        "front": "How do you know?",
+        "back": "Kako znaš?"
+    },
+    {
+        "front": "Good, good.",
+        "back": "Dobro, dobro."
+    },
+    {
+        "front": "Trust me.",
+        "back": "Veruj mi."
+    },
+    {
+        "front": "I have to go.",
+        "back": "Moram iæi."
+    },
+    {
+        "front": "All right.",
+        "back": "У реду."
+    },
+    {
+        "front": "No, I didn't.",
+        "back": "Ne, nisam."
+    },
+    {
+        "front": "Just a moment.",
+        "back": "Samo trenutak."
+    },
+    {
+        "front": "Look at this.",
+        "back": "Pogledaj ovo."
+    },
+    {
+        "front": "Who is it?",
+        "back": "Ko je?"
+    },
+    {
+        "front": "I hope so.",
+        "back": "Nadam se."
+    },
+    {
+        "front": "Yes, I did.",
+        "back": "Da, jesam."
+    },
+    {
+        "front": "What do you say?",
+        "back": "Šta kažeš?"
+    },
+    {
+        "front": "Not yet.",
+        "back": "Ne još."
+    },
+    {
+        "front": "Tell me.",
+        "back": "Reci mi."
+    },
+    {
+        "front": "About what?",
+        "back": "O èemu?"
+    },
+    {
+        "front": "Yes, it is.",
+        "back": "Da, jeste."
+    },
+    {
+        "front": "Where are you going?",
+        "back": "Gde ideš?"
+    },
+    {
+        "front": "Are you sure?",
+        "back": "Siguran si?"
+    },
+    {
+        "front": "Exactly.",
+        "back": "Upravo tako."
+    },
+    {
+        "front": "Let's see.",
+        "back": "Da vidimo."
+    },
+    {
+        "front": "It's true.",
+        "back": "Istina je."
+    },
+    {
+        "front": "I have it.",
+        "back": "Imam ga."
+    },
+    {
+        "front": "Go ahead.",
+        "back": "Samo napred."
+    },
+    {
+        "front": "I know that.",
+        "back": "Znam to."
+    },
+    {
+        "front": "See this.",
+        "back": "Vidi ovo."
+    },
+    {
+        "front": "Where is he?",
+        "back": "Gdje je?"
+    },
+    {
+        "front": "Can I?",
+        "back": "Mogu li?"
+    },
+    {
+        "front": "Did you?",
+        "back": "Jesi li?"
+    },
+    {
+        "front": "I don't know.",
+        "back": "Не знам."
+    },
+    {
+        "front": "Anything else?",
+        "back": "Još nešto?"
+    },
+    {
+        "front": "Hold on.",
+        "back": "Drži se."
+    },
+    {
+        "front": "Thank you, sir.",
+        "back": "Hvala, gospodine."
+    },
+    {
+        "front": "Good idea.",
+        "back": "Dobra ideja."
+    },
+    {
+        "front": "I swear.",
+        "back": "Kunem se."
+    },
+    {
+        "front": "Here we are.",
+        "back": "Evo nas."
+    },
+    {
+        "front": "Thank God.",
+        "back": "Hvala Bogu."
+    },
+    {
+        "front": "Take it easy.",
+        "back": "Samo polako."
+    },
+    {
+        "front": "I'm here.",
+        "back": "Ovde sam."
+    },
+    {
+        "front": "What do you want?",
+        "back": "Šta želiš?"
+    },
+    {
+        "front": "Let me see.",
+        "back": "Da vidim."
+    },
+    {
+        "front": "Exactly.",
+        "back": "Baš tako."
+    },
+    {
+        "front": "You know what?",
+        "back": "Znate šta?"
+    },
+    {
+        "front": "Where are you going?",
+        "back": "Gde æeš?"
+    },
+    {
+        "front": "Wait a minute.",
+        "back": "Stani malo."
+    },
+    {
+        "front": "I knew it.",
+        "back": "Znao sam."
+    },
+    {
+        "front": "Whatever.",
+        "back": "Kako god."
+    },
+    {
+        "front": "Turn around.",
+        "back": "Okreni se."
+    },
+    {
+        "front": "You're right.",
+        "back": "Imaš pravo."
+    },
+    {
+        "front": "Yes, thank you.",
+        "back": "Da, hvala."
+    },
+    {
+        "front": "Remember?",
+        "back": "Seæaš se?"
+    },
+    {
+        "front": "Let's get out of here.",
+        "back": "Idemo odavde."
+    },
+    {
+        "front": "Calm down.",
+        "back": "Smirite se."
+    },
+    {
+        "front": "I have an idea.",
+        "back": "Imam ideju."
+    },
+    {
+        "front": "I know, I know.",
+        "back": "Znam, znam."
+    },
+    {
+        "front": "It's here.",
+        "back": "Ovde je."
+    },
+    {
+        "front": "No need.",
+        "back": "Nema potrebe."
+    },
+    {
+        "front": "And you?",
+        "back": "A vi?"
+    },
+    {
+        "front": "Hello, baby.",
+        "back": "Zdravo, dušo."
+    },
+    {
+        "front": "Where are we going?",
+        "back": "Gde idemo?"
+    },
+    {
+        "front": "Let him go.",
+        "back": "Pusti ga."
+    },
+    {
+        "front": "Did I?",
+        "back": "Jesam li?"
+    },
+    {
+        "front": "It's late.",
+        "back": "Kasno je."
+    },
+    {
+        "front": "Here you go.",
+        "back": "Evo ti."
+    },
+    {
+        "front": "Don't you?",
+        "back": "Ma nemoj?"
+    },
+    {
+        "front": "Are you sure?",
+        "back": "Sigurna si?"
+    },
+    {
+        "front": "Look at you.",
+        "back": "Pogledaj se."
+    },
+    {
+        "front": "Take this.",
+        "back": "Uzmi ovo."
+    },
+    {
+        "front": "Ah, yes.",
+        "back": "A, da."
+    },
+    {
+        "front": "Where are you?",
+        "back": "Gdje si?"
+    },
+    {
+        "front": "Not now.",
+        "back": "Ne sada."
+    },
+    {
+        "front": "Where are they?",
+        "back": "Gde su?"
+    },
+    {
+        "front": "You can't.",
+        "back": "Ne možeš."
+    },
+    {
+        "front": "You know that.",
+        "back": "Znaš to."
+    },
+    {
+        "front": "Do it.",
+        "back": "Uradi to."
+    },
+    {
+        "front": "Forgive me.",
+        "back": "Oprosti mi."
+    },
+    {
+        "front": "There you are.",
+        "back": "Tu si."
+    },
+    {
+        "front": "What do you want?",
+        "back": "Šta želite?"
+    },
+    {
+        "front": "Thank you very much.",
+        "back": "Hvala puno."
+    },
+    {
+        "front": "And you.",
+        "back": "I ti."
+    },
+    {
+        "front": "I'm here.",
+        "back": "Tu sam."
+    },
+    {
+        "front": "Very nice.",
+        "back": "Baš lepo."
+    },
+    {
+        "front": "But why?",
+        "back": "Ali zašto?"
+    },
+    {
+        "front": "I got you.",
+        "back": "Imam te."
+    },
+    {
+        "front": "Not true.",
+        "back": "Nije istina."
+    },
+    {
+        "front": "I'm serious.",
+        "back": "Ozbiljan sam."
+    },
+    {
+        "front": "Who knows?",
+        "back": "Ko zna?"
+    },
+    {
+        "front": "Good job.",
+        "back": "Dobar posao."
+    },
+    {
+        "front": "I'll be right there.",
+        "back": "Odmah dolazim."
+    },
+    {
+        "front": "Stay here.",
+        "back": "Ostani ovde."
+    },
+    {
+        "front": "Not anymore.",
+        "back": "Ne više."
+    },
+    {
+        "front": "No, you didn't.",
+        "back": "Ne, nisi."
+    },
+    {
+        "front": "Not good.",
+        "back": "Nije dobro."
+    },
+    {
+        "front": "Wait, wait.",
+        "back": "Èekaj, èekaj."
+    },
+    {
+        "front": "What are you doing?",
+        "back": "Šta radite?"
+    },
+    {
+        "front": "What else?",
+        "back": "Šta još?"
+    },
+    {
+        "front": "What does it look like?",
+        "back": "Kako izgleda?"
+    },
+    {
+        "front": "It's there.",
+        "back": "Tamo je."
+    },
+    {
+        "front": "I don't want to.",
+        "back": "Ne želim."
+    },
+    {
+        "front": "How long?",
+        "back": "Koliko dugo?"
+    },
+    {
+        "front": "What do you have?",
+        "back": "Šta imaš?"
+    },
+    {
+        "front": "And why?",
+        "back": "A zašto?"
+    },
+    {
+        "front": "Are you sure?",
+        "back": "Sigurni ste?"
+    },
+    {
+        "front": "Trust me.",
+        "back": "Vjeruj mi."
+    },
+    {
+        "front": "Where are you from?",
+        "back": "Odakle si?"
+    },
+    {
+        "front": "I'm sure.",
+        "back": "Siguran sam."
+    },
+    {
+        "front": "A little more.",
+        "back": "Još malo."
+    },
+    {
+        "front": "Anything.",
+        "back": "Bilo šta."
+    },
+    {
+        "front": "I get it.",
+        "back": "Shvatio sam."
+    },
+    {
+        "front": "Stay there.",
+        "back": "Ostani tu."
+    },
+    {
+        "front": "Here they are.",
+        "back": "Evo ih."
+    },
+    {
+        "front": "Where are you going?",
+        "back": "Kuda ideš?"
+    },
+    {
+        "front": "I did not.",
+        "back": "Ja nisam."
+    },
+    {
+        "front": "Do you understand?",
+        "back": "Razumeš li?"
+    },
+    {
+        "front": "I did.",
+        "back": "Ja jesam."
+    },
+    {
+        "front": "I didn't know.",
+        "back": "Nisam znao."
+    },
+    {
+        "front": "It's time.",
+        "back": "Vreme je."
+    },
+    {
+        "front": "I'm ready.",
+        "back": "Spreman sam."
+    },
+    {
+        "front": "Well, yes.",
+        "back": "Pa, da."
+    },
+    {
+        "front": "What now?",
+        "back": "Šta sada?"
+    },
+    {
+        "front": "Where are we?",
+        "back": "Gde smo?"
+    },
+    {
+        "front": "Hello, Dad.",
+        "back": "Zdravo, tata."
+    },
+    {
+        "front": "I don't understand.",
+        "back": "Ne shvatam."
+    },
+    {
+        "front": "Go home.",
+        "back": "Idi kuæi."
+    },
+    {
+        "front": "Yes, you did.",
+        "back": "Da, jesi."
+    },
+    {
+        "front": "And this?",
+        "back": "A ovo?"
+    },
+    {
+        "front": "Yes, good.",
+        "back": "Da, dobro."
+    },
+    {
+        "front": "What do I look like?",
+        "back": "Kako izgledam?"
+    },
+    {
+        "front": "It's important.",
+        "back": "Važno je."
+    },
+    {
+        "front": "So somehow.",
+        "back": "Tako nekako."
+    },
+    {
+        "front": "No need.",
+        "back": "Ne treba."
+    },
+    {
+        "front": "He is good.",
+        "back": "Dobar je."
+    },
+    {
+        "front": "I knew it.",
+        "back": "Znala sam."
+    },
+    {
+        "front": "There he is.",
+        "back": "Eto ga."
+    },
+    {
+        "front": "You look good.",
+        "back": "Dobro izgledaš."
+    },
+    {
+        "front": "For me?",
+        "back": "Za mene?"
+    },
+    {
+        "front": "Very good.",
+        "back": "Veoma dobro."
+    },
+    {
+        "front": "Will you?",
+        "back": "Hoæeš li?"
+    },
+    {
+        "front": "For what?",
+        "back": "Za što?"
+    },
+    {
+        "front": "You don't know?",
+        "back": "Ne znaš?"
+    },
+    {
+        "front": "What are you talking about?",
+        "back": "Šta prièaš?"
+    },
+    {
+        "front": "With pleasure.",
+        "back": "Sa zadovoljstvom."
+    },
+    {
+        "front": "From what?",
+        "back": "Od èega?"
+    },
+    {
+        "front": "I know.",
+        "back": "Ja znam."
+    },
+    {
+        "front": "Let's go home.",
+        "back": "Idemo kuæi."
+    },
+    {
+        "front": "From whom?",
+        "back": "Od koga?"
+    },
+    {
+        "front": "I appreciate that.",
+        "back": "Cenim to."
+    },
+    {
+        "front": "I heard.",
+        "back": "Èuo sam."
+    },
+    {
+        "front": "And me?",
+        "back": "A ja?"
+    },
+    {
+        "front": "Let her go.",
+        "back": "Pusti je."
+    },
+    {
+        "front": "I forgot.",
+        "back": "Zaboravio sam."
+    },
+    {
+        "front": "Close the door.",
+        "back": "Zatvori vrata."
+    },
+    {
+        "front": "What does he say?",
+        "back": "Šta kaže?"
+    },
+    {
+        "front": "I don't.",
+        "back": "Ja ne."
+    },
+    {
+        "front": "Nothing special.",
+        "back": "Ništa posebno."
+    },
+    {
+        "front": "As you wish.",
+        "back": "Kako hoæeš."
+    },
+    {
+        "front": "Than what.",
+        "back": "Nego šta."
+    },
+    {
+        "front": "I'm going.",
+        "back": "Idem ja."
+    },
+    {
+        "front": "You don't understand.",
+        "back": "Ne razumeš."
+    },
+    {
+        "front": "One more time.",
+        "back": "Još jednom."
+    },
+    {
+        "front": "Answer.",
+        "back": "Javi se."
+    },
+    {
+        "front": "He's gone.",
+        "back": "Nema ga."
+    },
+    {
+        "front": "Close your eyes.",
+        "back": "Zatvori oèi."
+    },
+    {
+        "front": "Who is it?",
+        "back": "Tko je?"
+    },
+    {
+        "front": "There it is.",
+        "back": "Tu je."
+    },
+    {
+        "front": "I understand, sir.",
+        "back": "Razumem, gospodine."
+    },
+    {
+        "front": "Right?",
+        "back": "Jel tako?"
+    },
+    {
+        "front": "I believe you.",
+        "back": "Verujem ti."
+    },
+    {
+        "front": "Look at him.",
+        "back": "Pogledaj ga."
+    },
+    {
+        "front": "Good then.",
+        "back": "Dobro onda."
+    },
+    {
+        "front": "Then what?",
+        "back": "Šta onda?"
+    },
+    {
+        "front": "She will be fine.",
+        "back": "Biæe dobro."
+    },
+    {
+        "front": "I'm hungry.",
+        "back": "Gladan sam."
+    },
+    {
+        "front": "You know why?",
+        "back": "Znaš zašto?"
+    },
+    {
+        "front": "What do you think?",
+        "back": "Šta mislite?"
+    },
+    {
+        "front": "How do you know?",
+        "back": "Otkud znaš?"
+    },
+    {
+        "front": "Thank you, Mr.",
+        "back": "Hvala, g."
+    },
+    {
+        "front": "Take it.",
+        "back": "Uzmi ga."
+    },
+    {
+        "front": "And it is.",
+        "back": "I jeste."
+    },
+    {
+        "front": "All right, let's go.",
+        "back": "Dobro, idemo."
+    },
+    {
+        "front": "What do you mean?",
+        "back": "Kako misliš?"
+    },
+    {
+        "front": "Here we are.",
+        "back": "Tu smo."
+    },
+    {
+        "front": "For now.",
+        "back": "Za sada."
+    },
+    {
+        "front": "Good question.",
+        "back": "Dobro pitanje."
+    },
+    {
+        "front": "He disappeared.",
+        "back": "Nestao je."
+    },
+    {
+        "front": "What is it?",
+        "back": "Шта је?"
+    },
+    {
+        "front": "And then?",
+        "back": "I onda?"
+    },
+    {
+        "front": "I'm busy.",
+        "back": "Imam posla."
+    },
+    {
+        "front": "Look, look.",
+        "back": "Vidi, vidi."
+    },
+    {
+        "front": "Yes, of course.",
+        "back": "Da, svakako."
+    },
+    {
+        "front": "I'm going home.",
+        "back": "Idem kuæi."
+    },
+    {
+        "front": "Who cares?",
+        "back": "Koga briga?"
+    },
+    {
+        "front": "Can you?",
+        "back": "Možeš li?"
+    },
+    {
+        "front": "Just go ahead.",
+        "back": "Samo izvoli."
+    },
+    {
+        "front": "We have to go.",
+        "back": "Moramo iæi."
+    },
+    {
+        "front": "Show me.",
+        "back": "Pokaži mi."
+    },
+    {
+        "front": "Sounds good.",
+        "back": "Zvuèi dobro."
+    },
+    {
+        "front": "Why do you ask?",
+        "back": "Zašto pitaš?"
+    },
+    {
+        "front": "Not so.",
+        "back": "Nije tako."
+    },
+    {
+        "front": "It's not that.",
+        "back": "Nije to."
+    },
+    {
+        "front": "What do you say?",
+        "back": "Šta kažete?"
+    },
+    {
+        "front": "Ah, yes.",
+        "back": "Ah, da."
+    },
+    {
+        "front": "That's right.",
+        "back": "Tako treba."
+    },
+    {
+        "front": "Let's get out of here.",
+        "back": "Hajdemo odavde."
+    },
+    {
+        "front": "Oh, good.",
+        "back": "Oh, dobro."
+    },
+    {
+        "front": "Yes.",
+        "back": "Ma da."
+    },
+    {
+        "front": "Just go.",
+        "back": "Samo idi."
+    },
+    {
+        "front": "Have a nice day.",
+        "back": "Prijatan dan."
+    },
+    {
+        "front": "She's good.",
+        "back": "Dobra je."
+    },
+    {
+        "front": "Where am I?",
+        "back": "Gde sam?"
+    },
+    {
+        "front": "Let's do it.",
+        "back": "Uradimo to."
+    },
+    {
+        "front": "Let it go.",
+        "back": "Pusti to."
+    },
+    {
+        "front": "Welcome.",
+        "back": "Dobro došli."
+    },
+    {
+        "front": "What do you see?",
+        "back": "Šta vidiš?"
+    },
+    {
+        "front": "Look at this.",
+        "back": "Gledaj ovo."
+    },
+    {
+        "front": "It's great.",
+        "back": "Super je."
+    },
+    {
+        "front": "Follow me.",
+        "back": "Za mnom."
+    },
+    {
+        "front": "You are.",
+        "back": "Ti si."
+    },
+    {
+        "front": "Where are we going?",
+        "back": "Kuda idemo?"
+    },
+    {
+        "front": "You don't have to.",
+        "back": "Ne moraš."
+    },
+    {
+        "front": "I'm pregnant.",
+        "back": "Trudna sam."
+    },
+    {
+        "front": "Something like that.",
+        "back": "Tako nešto."
+    },
+    {
+        "front": "It's beautiful.",
+        "back": "Lepo je."
+    },
+    {
+        "front": "Oh, man.",
+        "back": "Oh, èoveèe."
+    },
+    {
+        "front": "Thanks, Dad.",
+        "back": "Hvala, tata."
+    },
+    {
+        "front": "We have him.",
+        "back": "Imamo ga."
+    },
+    {
+        "front": "She's gone.",
+        "back": "Otišla je."
+    },
+    {
+        "front": "Watch out.",
+        "back": "Pazi se."
+    },
+    {
+        "front": "Not much.",
+        "back": "Ne mnogo."
+    },
+    {
+        "front": "What's he doing?",
+        "back": "Šta radi?"
+    },
+    {
+        "front": "Well, good.",
+        "back": "Pa, dobro."
+    },
+    {
+        "front": "Yes, Mr.",
+        "back": "Da, g."
+    },
+    {
+        "front": "Let's move on.",
+        "back": "Idemo dalje."
+    },
+    {
+        "front": "Yes, please.",
+        "back": "Da, molim."
+    },
+    {
+        "front": "It's wonderful.",
+        "back": "Divno je."
+    },
+    {
+        "front": "No.",
+        "back": "Ma ne."
+    },
+    {
+        "front": "No offense.",
+        "back": "Bez uvrede."
+    },
+    {
+        "front": "Hi, guys.",
+        "back": "Zdravo, momci."
+    },
+    {
+        "front": "Like what?",
+        "back": "Kao šta?"
+    },
+    {
+        "front": "Be still.",
+        "back": "Budi miran."
+    },
+    {
+        "front": "With whom?",
+        "back": "S kim?"
+    },
+    {
+        "front": "How do you know?",
+        "back": "Kako znate?"
+    },
+    {
+        "front": "We are fine.",
+        "back": "Dobro smo."
+    },
+    {
+        "front": "He's right.",
+        "back": "Ima pravo."
+    },
+    {
+        "front": "Take it easy, take it easy.",
+        "back": "Polako, polako."
+    },
+    {
+        "front": "I'm sure.",
+        "back": "Sigurna sam."
+    },
+    {
+        "front": "Not true.",
+        "back": "Nije taèno."
+    },
+    {
+        "front": "Move.",
+        "back": "Pomeri se."
+    },
+    {
+        "front": "Oh, thank you.",
+        "back": "Oh, hvala."
+    },
+    {
+        "front": "See this?",
+        "back": "Vidiš ovo?"
+    },
+    {
+        "front": "Relax.",
+        "back": "Opustite se."
+    },
+    {
+        "front": "He is.",
+        "back": "On je."
+    },
+    {
+        "front": "I already did.",
+        "back": "Veæ jesam."
+    },
+    {
+        "front": "What do we have?",
+        "back": "Šta imamo?"
+    },
+    {
+        "front": "Come here.",
+        "back": "Dodji ovamo."
+    },
+    {
+        "front": "I'm trying.",
+        "back": "Trudim se."
+    },
+    {
+        "front": "I'm ready.",
+        "back": "Spremna sam."
+    },
+    {
+        "front": "Yes, I will.",
+        "back": "Da, hoæu."
+    },
+    {
+        "front": "Hey, guys.",
+        "back": "Hej, momci."
+    },
+    {
+        "front": "For example?",
+        "back": "Na primer?"
+    },
+    {
+        "front": "How much longer?",
+        "back": "Koliko još?"
+    },
+    {
+        "front": "Is it?",
+        "back": "Je l'?"
+    },
+    {
+        "front": "Thank you, honey.",
+        "back": "Hvala, dušo."
+    },
+    {
+        "front": "You're good.",
+        "back": "Dobar si."
+    },
+    {
+        "front": "Rest.",
+        "back": "Odmori se."
+    },
+    {
+        "front": "I'm just saying.",
+        "back": "Samo kažem."
+    },
+    {
+        "front": "Tell him.",
+        "back": "Reci mu."
+    },
+    {
+        "front": "I love him.",
+        "back": "Volim ga."
+    },
+    {
+        "front": "It makes sense.",
+        "back": "Ima smisla."
+    },
+    {
+        "front": "I wouldn't.",
+        "back": "Ne bih."
+    },
+    {
+        "front": "I see him.",
+        "back": "Vidim ga."
+    },
+    {
+        "front": "No, I won't.",
+        "back": "Ne, neæu."
+    },
+    {
+        "front": "It's beautiful.",
+        "back": "Predivno je."
+    },
+    {
+        "front": "Nothing more.",
+        "back": "Ništa više."
+    },
+    {
+        "front": "For whom?",
+        "back": "Za koga?"
+    },
+    {
+        "front": "Second time.",
+        "back": "Drugi put."
+    },
+    {
+        "front": "She is beautiful.",
+        "back": "Lepa je."
+    },
+    {
+        "front": "Let him go.",
+        "back": "Pustite ga."
+    },
+    {
+        "front": "It's simple.",
+        "back": "Jednostavno je."
+    },
+    {
+        "front": "But how?",
+        "back": "Ali kako?"
+    },
+    {
+        "front": "Want some?",
+        "back": "Hoæeš malo?"
+    },
+    {
+        "front": "It happens.",
+        "back": "Dešava se."
+    },
+    {
+        "front": "Absolutely not.",
+        "back": "Apsolutno ne."
+    },
+    {
+        "front": "Go ahead.",
+        "back": "Samo naprijed."
+    },
+    {
+        "front": "Do you see?",
+        "back": "Vidiš li?"
+    },
+    {
+        "front": "It's here.",
+        "back": "Ovdje je."
+    },
+    {
+        "front": "I didn't know.",
+        "back": "Nisam znala."
+    },
+    {
+        "front": "Look at that.",
+        "back": "Pogledaj to."
+    },
+    {
+        "front": "I forgot.",
+        "back": "Zaboravila sam."
+    },
+    {
+        "front": "Just a second.",
+        "back": "Samo sekund."
+    },
+    {
+        "front": "That's what it looks like.",
+        "back": "Tako izgleda."
+    },
+    {
+        "front": "Thank you.",
+        "back": "Хвала ти."
+    },
+    {
+        "front": "Say something.",
+        "back": "Reci nešto."
+    },
+    {
+        "front": "What are you looking at?",
+        "back": "Šta gledaš?"
+    },
+    {
+        "front": "Hi, honey.",
+        "back": "Æao, dušo."
+    },
+    {
+        "front": "She is beautiful.",
+        "back": "Divna je."
+    },
+    {
+        "front": "Are you coming?",
+        "back": "Ideš li?"
+    },
+    {
+        "front": "And now?",
+        "back": "A sada?"
+    },
+    {
+        "front": "I tried.",
+        "back": "Pokušao sam."
+    },
+    {
+        "front": "A long story.",
+        "back": "Duga prièa."
+    },
+    {
+        "front": "No, you won't.",
+        "back": "Ne, neæeš."
+    },
+    {
+        "front": "Thank you, Mom.",
+        "back": "Hvala, mama."
+    },
+    {
+        "front": "Do you?",
+        "back": "Da li?"
+    },
+    {
+        "front": "Hello, Mr.",
+        "back": "Zdravo, g."
+    },
+    {
+        "front": "Where are they?",
+        "back": "Gdje su?"
+    },
+    {
+        "front": "Hello everyone.",
+        "back": "Zdravo svima."
+    },
+    {
+        "front": "It should.",
+        "back": "Trebalo bi."
+    },
+    {
+        "front": "What are you looking for?",
+        "back": "Šta tražiš?"
+    },
+    {
+        "front": "Not me.",
+        "back": "Ne ja."
+    },
+    {
+        "front": "There she is.",
+        "back": "Eno je."
+    },
+    {
+        "front": "Hold this.",
+        "back": "Drži ovo."
+    },
+    {
+        "front": "Hey, baby.",
+        "back": "Hej, dušo."
+    },
+    {
+        "front": "They left.",
+        "back": "Otišli su."
+    },
+    {
+        "front": "It's yours.",
+        "back": "Tvoj je."
+    },
+    {
+        "front": "No, they won't.",
+        "back": "Ne, neæe."
+    },
+    {
+        "front": "Give it to me.",
+        "back": "Daj mi."
+    },
+    {
+        "front": "As you wish.",
+        "back": "Kako želiš."
+    },
+    {
+        "front": "Five minutes.",
+        "back": "Pet minuta."
+    },
+    {
+        "front": "No, why?",
+        "back": "Ne, zašto?"
+    },
+    {
+        "front": "Not working.",
+        "back": "Ne radi."
+    },
+    {
+        "front": "We'll see.",
+        "back": "Vidjet æemo."
+    },
+    {
+        "front": "Yes, we are.",
+        "back": "Da, jesmo."
+    },
+    {
+        "front": "I saw.",
+        "back": "Video sam."
+    },
+    {
+        "front": "Do you know him?",
+        "back": "Poznaješ ga?"
+    },
+    {
+        "front": "Come on, man.",
+        "back": "Hajde, èoveèe."
+    },
+    {
+        "front": "Not here.",
+        "back": "Ne ovde."
+    },
+    {
+        "front": "Watch this.",
+        "back": "Pazi ovo."
+    },
+    {
+        "front": "I love her.",
+        "back": "Volim je."
+    },
+    {
+        "front": "Oh, really?",
+        "back": "O, stvarno?"
+    },
+    {
+        "front": "Don't go.",
+        "back": "Ne idi."
+    },
+    {
+        "front": "How are you?",
+        "back": "Како си?"
+    },
+    {
+        "front": "Just keep going.",
+        "back": "Samo nastavi."
+    },
+    {
+        "front": "Please.",
+        "back": "Молим те."
+    },
+    {
+        "front": "Yes, perhaps.",
+        "back": "Da, možda."
+    },
+    {
+        "front": "Much better.",
+        "back": "Mnogo bolje."
+    },
+    {
+        "front": "Come on, guys.",
+        "back": "Hajde, momci."
+    },
+    {
+        "front": "It may be.",
+        "back": "Može biti."
+    },
+    {
+        "front": "And to you.",
+        "back": "I tebi."
+    },
+    {
+        "front": "Listen to this.",
+        "back": "Slušaj ovo."
+    },
+    {
+        "front": "As you wish.",
+        "back": "Kako želite."
+    },
+    {
+        "front": "He will come.",
+        "back": "Doæi æe."
+    },
+    {
+        "front": "Yes, for sure.",
+        "back": "Da, sigurno."
+    },
+    {
+        "front": "It's easy.",
+        "back": "Lako je."
+    },
+    {
+        "front": "Not today.",
+        "back": "Ne danas."
+    },
+    {
+        "front": "Let me go.",
+        "back": "Pusti mene."
+    },
+    {
+        "front": "It'll be fun.",
+        "back": "Biæe zabavno."
+    },
+    {
+        "front": "I understand you.",
+        "back": "Razumem te."
+    },
+    {
+        "front": "Hi, Dad.",
+        "back": "Æao, tata."
+    },
+    {
+        "front": "Be good.",
+        "back": "Budi dobar."
+    },
+    {
+        "front": "What are we going to do?",
+        "back": "Šta æemo?"
+    },
+    {
+        "front": "Yes, my lord.",
+        "back": "Da, gospodaru."
+    },
+    {
+        "front": "Just like that.",
+        "back": "Samo tako."
+    },
+    {
+        "front": "She is gone.",
+        "back": "Nema je."
+    },
+    {
+        "front": "I'm busy.",
+        "back": "Zauzet sam."
+    },
+    {
+        "front": "It won't work.",
+        "back": "Neæe moæi."
+    },
+    {
+        "front": "I know you.",
+        "back": "Znam te."
+    },
+    {
+        "front": "At three.",
+        "back": "Na tri."
+    },
+    {
+        "front": "It's mine.",
+        "back": "Moj je."
+    },
+    {
+        "front": "Thank you, thank you.",
+        "back": "Hvala, hvala."
+    },
+    {
+        "front": "Don't ask.",
+        "back": "Ne pitaj."
+    },
+    {
+        "front": "Look at her.",
+        "back": "Pogledaj je."
+    },
+    {
+        "front": "Get dressed.",
+        "back": "Obuci se."
+    },
+    {
+        "front": "Yes, indeed.",
+        "back": "Da, stvarno."
+    },
+    {
+        "front": "I don't see.",
+        "back": "Ne vidim."
+    },
+    {
+        "front": "Or what?",
+        "back": "Ili šta?"
+    },
+    {
+        "front": "What does it say?",
+        "back": "Šta piše?"
+    },
+    {
+        "front": "I'm just asking.",
+        "back": "Samo pitam."
+    },
+    {
+        "front": "Who says?",
+        "back": "Ko kaže?"
+    },
+    {
+        "front": "Good try.",
+        "back": "Dobar pokušaj."
+    },
+    {
+        "front": "I'm done.",
+        "back": "Završio sam."
+    },
+    {
+        "front": "It looks good.",
+        "back": "Izgleda dobro."
+    },
+    {
+        "front": "I had to.",
+        "back": "Morao sam."
+    },
+    {
+        "front": "Ah, no.",
+        "back": "A, ne."
+    },
+    {
+        "front": "Nothing at all.",
+        "back": "Baš ništa."
+    },
+    {
+        "front": "I can't.",
+        "back": "Не могу."
+    },
+    {
+        "front": "Excuse us.",
+        "back": "Izvinite nas."
+    },
+    {
+        "front": "Thank you.",
+        "back": "Hvala tebi."
+    },
+    {
+        "front": "He was.",
+        "back": "Bio je."
+    },
+    {
+        "front": "You can't.",
+        "back": "Ne možete."
+    },
+    {
+        "front": "Hi, Mom.",
+        "back": "Æao, mama."
+    },
+    {
+        "front": "Yes, that's right.",
+        "back": "Da, taèno."
+    },
+    {
+        "front": "On what?",
+        "back": "Na èemu?"
+    },
+    {
+        "front": "All right then.",
+        "back": "Onda dobro."
+    },
+    {
+        "front": "Not you.",
+        "back": "Ne ti."
+    },
+    {
+        "front": "Take him.",
+        "back": "Vodite ga."
+    },
+    {
+        "front": "Yes, Dad.",
+        "back": "Da, tata."
+    },
+    {
+        "front": "Yes, I think so.",
+        "back": "Da, mislim."
+    },
+    {
+        "front": "Yes, I have.",
+        "back": "Da, imam."
+    },
+    {
+        "front": "Yes, I understand.",
+        "back": "Da, razumem."
+    },
+    {
+        "front": "No, don't.",
+        "back": "Ne, nemoj."
+    },
+    {
+        "front": "He's cute.",
+        "back": "Sladak je."
+    },
+    {
+        "front": "My father.",
+        "back": "Moj otac."
+    },
+    {
+        "front": "Thank you, Doctor.",
+        "back": "Hvala, doktore."
+    },
+    {
+        "front": "I'll come.",
+        "back": "Doæi æu."
+    },
+    {
+        "front": "Yes, exactly.",
+        "back": "Da, baš."
+    },
+    {
+        "front": "I was.",
+        "back": "Bio sam."
+    },
+    {
+        "front": "She disappeared.",
+        "back": "Nestala je."
+    },
+    {
+        "front": "You know him?",
+        "back": "Znaš ga?"
+    },
+    {
+        "front": "We have work to do.",
+        "back": "Imamo posla."
+    },
+    {
+        "front": "Anyone else?",
+        "back": "Još neko?"
+    },
+    {
+        "front": "Open your eyes.",
+        "back": "Otvori oèi."
+    },
+    {
+        "front": "Look at them.",
+        "back": "Pogledaj ih."
+    },
+    {
+        "front": "Wait here.",
+        "back": "Èekaj ovde."
+    },
+    {
+        "front": "Not required.",
+        "back": "Nije potrebno."
+    },
+    {
+        "front": "Where are we?",
+        "back": "Gdje smo?"
+    },
+    {
+        "front": "They are here.",
+        "back": "Ovde su."
+    },
+    {
+        "front": "No purpose.",
+        "back": "Nema svrhe."
+    },
+    {
+        "front": "Open your mouth.",
+        "back": "Otvori usta."
+    },
+    {
+        "front": "He is wonderful.",
+        "back": "Divan je."
+    },
+    {
+        "front": "I hear you.",
+        "back": "Èujem te."
+    },
+    {
+        "front": "Maybe later.",
+        "back": "Možda kasnije."
+    },
+    {
+        "front": "Sleep well.",
+        "back": "Lepo spavaj."
+    },
+    {
+        "front": "Not again.",
+        "back": "Ne opet."
+    },
+    {
+        "front": "Do you know?",
+        "back": "Znaš li?"
+    },
+    {
+        "front": "Are you ready?",
+        "back": "Spreman si?"
+    },
+    {
+        "front": "Never better.",
+        "back": "Nikad bolje."
+    },
+    {
+        "front": "You did it.",
+        "back": "Uspeo si."
+    },
+    {
+        "front": "I'm holding you.",
+        "back": "Držim te."
+    },
+    {
+        "front": "Pretty good.",
+        "back": "Prilièno dobro."
+    },
+    {
+        "front": "He returned.",
+        "back": "Vratio se."
+    },
+    {
+        "front": "Oh, thank you.",
+        "back": "O, hvala."
+    },
+    {
+        "front": "It's great.",
+        "back": "Odlièno je."
+    },
+    {
+        "front": "No, of course.",
+        "back": "Ne, naravno."
+    },
+    {
+        "front": "To what?",
+        "back": "Na šta?"
+    },
+    {
+        "front": "Come on.",
+        "back": "Saberi se."
+    },
+    {
+        "front": "Hey, man.",
+        "back": "Hej, èoveèe."
+    },
+    {
+        "front": "I can feel it.",
+        "back": "Oseæam to."
+    },
+    {
+        "front": "Just that.",
+        "back": "Samo to."
+    },
+    {
+        "front": "I see that.",
+        "back": "Vidim to."
+    },
+    {
+        "front": "But what?",
+        "back": "Ali šta?"
+    },
+    {
+        "front": "What does he want?",
+        "back": "Šta hoæe?"
+    },
+    {
+        "front": "Get in touch.",
+        "back": "Javite se."
+    },
+    {
+        "front": "Hey, Dad.",
+        "back": "Hej, tata."
+    },
+    {
+        "front": "Are you serious?",
+        "back": "Ozbiljan si?"
+    },
+    {
+        "front": "But I didn't.",
+        "back": "Ali nisam."
+    },
+    {
+        "front": "I have an appointment.",
+        "back": "Imam sastanak."
+    },
+    {
+        "front": "There is more.",
+        "back": "Ima još."
+    },
+    {
+        "front": "That's right.",
+        "back": "Tako znaèi."
+    },
+    {
+        "front": "And this.",
+        "back": "I ovo."
+    },
+    {
+        "front": "Yes, I can.",
+        "back": "Da, mogu."
+    },
+    {
+        "front": "I'm fine.",
+        "back": "Добро сам."
+    },
+    {
+        "front": "Yes, you can.",
+        "back": "Da, možeš."
+    },
+    {
+        "front": "And what?",
+        "back": "I šta?"
+    },
+    {
+        "front": "Who is that?",
+        "back": "Ko to?"
+    },
+    {
+        "front": "Good girl.",
+        "back": "Dobra devojka."
+    },
+    {
+        "front": "Just a minute.",
+        "back": "Samo minut."
+    },
+    {
+        "front": "No, not at all.",
+        "back": "Ne, nikako."
+    },
+    {
+        "front": "What is he like?",
+        "back": "Kakav je?"
+    }
+]

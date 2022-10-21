@@ -1,0 +1,2002 @@
+[
+    {
+        "front": "Thank you.",
+        "back": "Teşekkür ederim."
+    },
+    {
+        "front": "Is that so?",
+        "back": "Öyle mi?"
+    },
+    {
+        "front": "What happened?",
+        "back": "Ne oldu?"
+    },
+    {
+        "front": "Sorry.",
+        "back": "Özür dilerim."
+    },
+    {
+        "front": "Really?",
+        "back": "Gerçekten mi?"
+    },
+    {
+        "front": "What are you doing?",
+        "back": "Ne yapıyorsun?"
+    },
+    {
+        "front": "What's going on?",
+        "back": "Neler oluyor?"
+    },
+    {
+        "front": "Oh my God.",
+        "back": "Aman Tanrım."
+    },
+    {
+        "front": "What is it?",
+        "back": "Ne var?"
+    },
+    {
+        "front": "I love you.",
+        "back": "Seni seviyorum."
+    },
+    {
+        "front": "Thank you.",
+        "back": "Sağ ol."
+    },
+    {
+        "front": "Where are you going?",
+        "back": "Nereye gidiyorsun?"
+    },
+    {
+        "front": "Are you sure?",
+        "back": "Emin misin?"
+    },
+    {
+        "front": "Stay calm.",
+        "back": "Sakin ol."
+    },
+    {
+        "front": "Do you understand?",
+        "back": "Anladın mı?"
+    },
+    {
+        "front": "Really?",
+        "back": "Sahi mi?"
+    },
+    {
+        "front": "Did you see that?",
+        "back": "Gördün mü?"
+    },
+    {
+        "front": "Right?",
+        "back": "Değil mi?"
+    },
+    {
+        "front": "Nothing.",
+        "back": "Hiçbir şey."
+    },
+    {
+        "front": "What do you want?",
+        "back": "Ne istiyorsun?"
+    },
+    {
+        "front": "Wait a minute.",
+        "back": "Bir dakika."
+    },
+    {
+        "front": "Go ahead.",
+        "back": "Devam et."
+    },
+    {
+        "front": "Come here.",
+        "back": "Buraya gel."
+    },
+    {
+        "front": "You know what?",
+        "back": "Biliyor musun?"
+    },
+    {
+        "front": "Of course.",
+        "back": "Tabii ki."
+    },
+    {
+        "front": "What's going on?",
+        "back": "Ne oluyor?"
+    },
+    {
+        "front": "Yes, yes.",
+        "back": "Evet, evet."
+    },
+    {
+        "front": "Are you ready?",
+        "back": "Hazır mısın?"
+    },
+    {
+        "front": "Me?",
+        "back": "Ben mi?"
+    },
+    {
+        "front": "How is it going?",
+        "back": "Nasıl gidiyor?"
+    },
+    {
+        "front": "Look at that.",
+        "back": "Şuna bak."
+    },
+    {
+        "front": "For what?",
+        "back": "Ne için?"
+    },
+    {
+        "front": "Who is she?",
+        "back": "Kim o?"
+    },
+    {
+        "front": "Very good.",
+        "back": "Çok iyi."
+    },
+    {
+        "front": "I'm fine.",
+        "back": "Ben iyiyim."
+    },
+    {
+        "front": "Goodbye.",
+        "back": "Güle güle."
+    },
+    {
+        "front": "What about you?",
+        "back": "Ya sen?"
+    },
+    {
+        "front": "Come on.",
+        "back": "Hadi ama."
+    },
+    {
+        "front": "Yes, it is.",
+        "back": "Evet, öyle."
+    },
+    {
+        "front": "How so?",
+        "back": "Nasıl yani?"
+    },
+    {
+        "front": "That's right.",
+        "back": "Bu doğru."
+    },
+    {
+        "front": "What's this?",
+        "back": "Bu ne?"
+    },
+    {
+        "front": "What is this?",
+        "back": "Nedir bu?"
+    },
+    {
+        "front": "When?",
+        "back": "Ne zaman?"
+    },
+    {
+        "front": "Let's go.",
+        "back": "Hadi gidelim."
+    },
+    {
+        "front": "What do you think?",
+        "back": "Ne düşünüyorsun?"
+    },
+    {
+        "front": "Who are you?",
+        "back": "Kimsin sen?"
+    },
+    {
+        "front": "What did you say?",
+        "back": "Ne dedin?"
+    },
+    {
+        "front": "Wow.",
+        "back": "Vay canına."
+    },
+    {
+        "front": "Yes, I know.",
+        "back": "Evet, biliyorum."
+    },
+    {
+        "front": "Do you understand?",
+        "back": "Anlıyor musun?"
+    },
+    {
+        "front": "I promise.",
+        "back": "Söz veriyorum."
+    },
+    {
+        "front": "That's all.",
+        "back": "Hepsi bu."
+    },
+    {
+        "front": "This is great.",
+        "back": "Bu harika."
+    },
+    {
+        "front": "I am satisfied.",
+        "back": "Memnun oldum."
+    },
+    {
+        "front": "See you later.",
+        "back": "Sonra görüşürüz."
+    },
+    {
+        "front": "Are you serious?",
+        "back": "Ciddi misin?"
+    },
+    {
+        "front": "What happened?",
+        "back": "Ne olmuş?"
+    },
+    {
+        "front": "That's right.",
+        "back": "Aynen öyle."
+    },
+    {
+        "front": "Is that clear?",
+        "back": "Anlaşıldı mı?"
+    },
+    {
+        "front": "Wait a second.",
+        "back": "Bir saniye."
+    },
+    {
+        "front": "Thank you very much.",
+        "back": "Çok teşekkürler."
+    },
+    {
+        "front": "What are you saying?",
+        "back": "Ne diyorsun?"
+    },
+    {
+        "front": "Where is she?",
+        "back": "Nerede o?"
+    },
+    {
+        "front": "What are you talking about?",
+        "back": "Neden bahsediyorsun?"
+    },
+    {
+        "front": "What will you do?",
+        "back": "Ne yapacaksın?"
+    },
+    {
+        "front": "Be careful.",
+        "back": "Dikkatli ol."
+    },
+    {
+        "front": "What are we going to do?",
+        "back": "Ne yapacağız?"
+    },
+    {
+        "front": "How much?",
+        "back": "Ne kadar?"
+    },
+    {
+        "front": "Like what?",
+        "back": "Ne gibi?"
+    },
+    {
+        "front": "Whatever.",
+        "back": "Her neyse."
+    },
+    {
+        "front": "What is that?",
+        "back": "Nedir o?"
+    },
+    {
+        "front": "How do you know?",
+        "back": "Nereden biliyorsun?"
+    },
+    {
+        "front": "Listen to me.",
+        "back": "Beni dinle."
+    },
+    {
+        "front": "Look at me.",
+        "back": "Bana bak."
+    },
+    {
+        "front": "What's your name?",
+        "back": "Adın ne?"
+    },
+    {
+        "front": "What are you doing?",
+        "back": "Ne yapıyorsunuz?"
+    },
+    {
+        "front": "No?",
+        "back": "Hayır mı?"
+    },
+    {
+        "front": "Where are we going?",
+        "back": "Nereye gidiyoruz?"
+    },
+    {
+        "front": "What do you say?",
+        "back": "Ne dersin?"
+    },
+    {
+        "front": "What did he say?",
+        "back": "Ne dedi?"
+    },
+    {
+        "front": "Sorry.",
+        "back": "Kusura bakma."
+    },
+    {
+        "front": "Yeah, right.",
+        "back": "Evet, doğru."
+    },
+    {
+        "front": "Goodbye.",
+        "back": "Hoşça kalın."
+    },
+    {
+        "front": "Continue.",
+        "back": "Devam edin."
+    },
+    {
+        "front": "You're welcome.",
+        "back": "Rica ederim."
+    },
+    {
+        "front": "Not yet.",
+        "back": "Henüz değil."
+    },
+    {
+        "front": "Did you hear that?",
+        "back": "Duydun mu?"
+    },
+    {
+        "front": "I'm leaving.",
+        "back": "Ben gidiyorum."
+    },
+    {
+        "front": "Let's see.",
+        "back": "Hadi bakalım."
+    },
+    {
+        "front": "Thank you.",
+        "back": "Sağ olun."
+    },
+    {
+        "front": "I'll take care of it.",
+        "back": "Ben hallederim."
+    },
+    {
+        "front": "Is it true?",
+        "back": "Doğru mu?"
+    },
+    {
+        "front": "I don't think so.",
+        "back": "Hiç sanmıyorum."
+    },
+    {
+        "front": "Oh, yes.",
+        "back": "Oh, evet."
+    },
+    {
+        "front": "That's it.",
+        "back": "Bu kadar."
+    },
+    {
+        "front": "Oh, God.",
+        "back": "Oh, Tanrım."
+    },
+    {
+        "front": "Yes, sure.",
+        "back": "Evet, tabii."
+    },
+    {
+        "front": "I'm coming right now.",
+        "back": "Hemen geliyorum."
+    },
+    {
+        "front": "I swear.",
+        "back": "Yemin ederim."
+    },
+    {
+        "front": "I can't do that.",
+        "back": "Bunu yapamam."
+    },
+    {
+        "front": "I have to go.",
+        "back": "Gitmem gerek."
+    },
+    {
+        "front": "Come with me.",
+        "back": "Benimle gel."
+    },
+    {
+        "front": "What did you do?",
+        "back": "Ne yaptın?"
+    },
+    {
+        "front": "No, it's not.",
+        "back": "Hayır, değil."
+    },
+    {
+        "front": "Not really.",
+        "back": "Pek sayılmaz."
+    },
+    {
+        "front": "Now?",
+        "back": "Şimdi mi?"
+    },
+    {
+        "front": "Hold on.",
+        "back": "Dur biraz."
+    },
+    {
+        "front": "See you tomorrow.",
+        "back": "Yarın görüşürüz."
+    },
+    {
+        "front": "What's that?",
+        "back": "O ne?"
+    },
+    {
+        "front": "Trust me.",
+        "back": "Güven bana."
+    },
+    {
+        "front": "What time is it?",
+        "back": "Saat kaç?"
+    },
+    {
+        "front": "This is it.",
+        "back": "Bu o."
+    },
+    {
+        "front": "Yes, of course.",
+        "back": "Evet, elbette."
+    },
+    {
+        "front": "About what?",
+        "back": "Ne hakkında?"
+    },
+    {
+        "front": "This is good.",
+        "back": "Bu iyi."
+    },
+    {
+        "front": "No need.",
+        "back": "Gerek yok."
+    },
+    {
+        "front": "Did you see that?",
+        "back": "Gördünüz mü?"
+    },
+    {
+        "front": "Keep calm.",
+        "back": "Sakin olun."
+    },
+    {
+        "front": "Yes, I'm fine.",
+        "back": "Evet, iyiyim."
+    },
+    {
+        "front": "Is this it?",
+        "back": "Bu mu?"
+    },
+    {
+        "front": "Do you remember?",
+        "back": "Hatırladın mı?"
+    },
+    {
+        "front": "Wow.",
+        "back": "Vay be."
+    },
+    {
+        "front": "Seriously?",
+        "back": "Cidden mi?"
+    },
+    {
+        "front": "Do you like it?",
+        "back": "Beğendin mi?"
+    },
+    {
+        "front": "Got it?",
+        "back": "Anladınız mı?"
+    },
+    {
+        "front": "Are you ready?",
+        "back": "Hazır mısınız?"
+    },
+    {
+        "front": "Very nice.",
+        "back": "Çok hoş."
+    },
+    {
+        "front": "Got a deal?",
+        "back": "Anlaştık mı?"
+    },
+    {
+        "front": "Where did he go?",
+        "back": "Nereye gitti?"
+    },
+    {
+        "front": "Who is he?",
+        "back": "O kim?"
+    },
+    {
+        "front": "Of course.",
+        "back": "Tabi ki."
+    },
+    {
+        "front": "Who are you?",
+        "back": "Siz kimsiniz?"
+    },
+    {
+        "front": "What's his name?",
+        "back": "Adı ne?"
+    },
+    {
+        "front": "Don't you understand?",
+        "back": "Anlamıyor musun?"
+    },
+    {
+        "front": "What's up?",
+        "back": "N'aber?"
+    },
+    {
+        "front": "What do you want?",
+        "back": "Ne istiyorsunuz?"
+    },
+    {
+        "front": "Do you see?",
+        "back": "Görüyor musun?"
+    },
+    {
+        "front": "Would it be?",
+        "back": "Olur mu?"
+    },
+    {
+        "front": "Welcome.",
+        "back": "Hoş geldiniz."
+    },
+    {
+        "front": "I know that.",
+        "back": "Bunu biliyorum."
+    },
+    {
+        "front": "I think so.",
+        "back": "Bence de."
+    },
+    {
+        "front": "Who is this?",
+        "back": "Bu kim?"
+    },
+    {
+        "front": "Ah, yes.",
+        "back": "Ah, evet."
+    },
+    {
+        "front": "What is he doing?",
+        "back": "Ne yapıyor?"
+    },
+    {
+        "front": "Who knows?",
+        "back": "Kim bilir?"
+    },
+    {
+        "front": "All the time.",
+        "back": "Her zaman."
+    },
+    {
+        "front": "Sorry.",
+        "back": "Kusura bakmayın."
+    },
+    {
+        "front": "You look great.",
+        "back": "Harika görünüyorsun."
+    },
+    {
+        "front": "Come on.",
+        "back": "Hadi gel."
+    },
+    {
+        "front": "Not here.",
+        "back": "Burada değil."
+    },
+    {
+        "front": "Merry Christmas.",
+        "back": "Mutlu Noeller."
+    },
+    {
+        "front": "What is that?",
+        "back": "Neymiş o?"
+    },
+    {
+        "front": "Here?",
+        "back": "Burada mı?"
+    },
+    {
+        "front": "How nice.",
+        "back": "Ne güzel."
+    },
+    {
+        "front": "Good for you.",
+        "back": "Aferin sana."
+    },
+    {
+        "front": "Where is he?",
+        "back": "O nerede?"
+    },
+    {
+        "front": "Again?",
+        "back": "Yine mi?"
+    },
+    {
+        "front": "So be it.",
+        "back": "Öyle olsun."
+    },
+    {
+        "front": "Is it over?",
+        "back": "Bitti mi?"
+    },
+    {
+        "front": "Get out of here.",
+        "back": "Git buradan."
+    },
+    {
+        "front": "You too.",
+        "back": "Sen de."
+    },
+    {
+        "front": "You?",
+        "back": "Sen mi?"
+    },
+    {
+        "front": "Where are you going?",
+        "back": "Nereye gidiyorsunuz?"
+    },
+    {
+        "front": "Not really.",
+        "back": "Pek değil."
+    },
+    {
+        "front": "Nice to meet you.",
+        "back": "Tanıştığımıza sevindim."
+    },
+    {
+        "front": "I know, I know.",
+        "back": "Biliyorum, biliyorum."
+    },
+    {
+        "front": "Yes, there is.",
+        "back": "Evet, var."
+    },
+    {
+        "front": "Be quiet.",
+        "back": "Sessiz ol."
+    },
+    {
+        "front": "Do you hear?",
+        "back": "Duyuyor musun?"
+    },
+    {
+        "front": "Wait here.",
+        "back": "Burada bekle."
+    },
+    {
+        "front": "Welcome.",
+        "back": "Hoş geldin."
+    },
+    {
+        "front": "You know that.",
+        "back": "Bunu biliyorsun."
+    },
+    {
+        "front": "Let me see.",
+        "back": "Bir bakayım."
+    },
+    {
+        "front": "No, there isn't.",
+        "back": "Hayır, yok."
+    },
+    {
+        "front": "Let him go.",
+        "back": "Bırak onu."
+    },
+    {
+        "front": "Is that it?",
+        "back": "O mu?"
+    },
+    {
+        "front": "But why?",
+        "back": "Ama neden?"
+    },
+    {
+        "front": "Are you hungry?",
+        "back": "Aç mısın?"
+    },
+    {
+        "front": "I think so.",
+        "back": "Sanırım öyle."
+    },
+    {
+        "front": "Yes, you are right.",
+        "back": "Evet, haklısın."
+    },
+    {
+        "front": "Wait a bit.",
+        "back": "Bekle biraz."
+    },
+    {
+        "front": "It looks that way.",
+        "back": "Öyle görünüyor."
+    },
+    {
+        "front": "Breathe.",
+        "back": "Nefes al."
+    },
+    {
+        "front": "Stay here.",
+        "back": "Burada kal."
+    },
+    {
+        "front": "What is this?",
+        "back": "Ne bu?"
+    },
+    {
+        "front": "How are you?",
+        "back": "Sen nasılsın?"
+    },
+    {
+        "front": "Not now.",
+        "back": "Şimdi olmaz."
+    },
+    {
+        "front": "What does it say?",
+        "back": "Ne diyor?"
+    },
+    {
+        "front": "So what?",
+        "back": "Ne yani?"
+    },
+    {
+        "front": "Do you remember?",
+        "back": "Hatırlıyor musun?"
+    },
+    {
+        "front": "Quite right.",
+        "back": "Çok doğru."
+    },
+    {
+        "front": "You are beautiful.",
+        "back": "Çok güzelsin."
+    },
+    {
+        "front": "What am I going to do?",
+        "back": "Ne yapacağım?"
+    },
+    {
+        "front": "Maybe.",
+        "back": "Belki de."
+    },
+    {
+        "front": "How do you feel?",
+        "back": "Nasıl hissediyorsun?"
+    },
+    {
+        "front": "Are you there?",
+        "back": "Orada mısın?"
+    },
+    {
+        "front": "Whatever you want.",
+        "back": "Nasıl istersen."
+    },
+    {
+        "front": "Are you coming?",
+        "back": "Geliyor musun?"
+    },
+    {
+        "front": "I'll be right back.",
+        "back": "Hemen döneceğim."
+    },
+    {
+        "front": "Don't you know?",
+        "back": "Bilmiyor musun?"
+    },
+    {
+        "front": "Yes, it's me.",
+        "back": "Evet, benim."
+    },
+    {
+        "front": "You tell me.",
+        "back": "Sen söyle."
+    },
+    {
+        "front": "Open the door.",
+        "back": "Kapıyı aç."
+    },
+    {
+        "front": "Yes sir.",
+        "back": "Emredersiniz efendim."
+    },
+    {
+        "front": "Did it happen?",
+        "back": "Oldu mu?"
+    },
+    {
+        "front": "Yes, please.",
+        "back": "Evet, lütfen."
+    },
+    {
+        "front": "Come on, let's see.",
+        "back": "Gel bakalım."
+    },
+    {
+        "front": "Shall we go?",
+        "back": "Gidelim mi?"
+    },
+    {
+        "front": "Tell me.",
+        "back": "Söyle bana."
+    },
+    {
+        "front": "Everything is fine.",
+        "back": "Herşey yolunda."
+    },
+    {
+        "front": "Not anymore.",
+        "back": "Artık değil."
+    },
+    {
+        "front": "Who was that?",
+        "back": "Kimdi o?"
+    },
+    {
+        "front": "Yes, absolutely.",
+        "back": "Evet, kesinlikle."
+    },
+    {
+        "front": "How old are you?",
+        "back": "Kaç yaşındasın?"
+    },
+    {
+        "front": "Are you?",
+        "back": "Sen misin?"
+    },
+    {
+        "front": "Yeah.",
+        "back": "Tabii ya."
+    },
+    {
+        "front": "What's up?",
+        "back": "Ne haber?"
+    },
+    {
+        "front": "This is amazing.",
+        "back": "Bu inanılmaz."
+    },
+    {
+        "front": "Promise?",
+        "back": "Söz mü?"
+    },
+    {
+        "front": "That's me.",
+        "back": "O benim."
+    },
+    {
+        "front": "I'll do it.",
+        "back": "Ben yaparım."
+    },
+    {
+        "front": "Not yet.",
+        "back": "Daha değil."
+    },
+    {
+        "front": "You know what?",
+        "back": "Biliyor musunuz?"
+    },
+    {
+        "front": "Thank you.",
+        "back": "Teşekkür ederiz."
+    },
+    {
+        "front": "He's fine.",
+        "back": "O iyi."
+    },
+    {
+        "front": "Wait, let's see.",
+        "back": "Dur bakalım."
+    },
+    {
+        "front": "How is he?",
+        "back": "O nasıl?"
+    },
+    {
+        "front": "Bon appetit.",
+        "back": "Afiyet olsun."
+    },
+    {
+        "front": "Stand up.",
+        "back": "Ayağa kalk."
+    },
+    {
+        "front": "It's your turn.",
+        "back": "Sıra sende."
+    },
+    {
+        "front": "I'll get it.",
+        "back": "Ben bakarım."
+    },
+    {
+        "front": "What was that?",
+        "back": "Neydi o?"
+    },
+    {
+        "front": "Enough is enough.",
+        "back": "Yeter artık."
+    },
+    {
+        "front": "Nobody.",
+        "back": "Hiç kimse."
+    },
+    {
+        "front": "Talk to me.",
+        "back": "Konuş benimle."
+    },
+    {
+        "front": "Good God.",
+        "back": "Yüce Tanrım."
+    },
+    {
+        "front": "Wait, wait.",
+        "back": "Bekle, bekle."
+    },
+    {
+        "front": "What did you find?",
+        "back": "Ne buldun?"
+    },
+    {
+        "front": "How is he doing?",
+        "back": "Durumu nasıl?"
+    },
+    {
+        "front": "Thank you.",
+        "back": "Şükürler olsun."
+    },
+    {
+        "front": "Congratulations.",
+        "back": "Tebrik ederim."
+    },
+    {
+        "front": "What happened?",
+        "back": "Neler oldu?"
+    },
+    {
+        "front": "Who cares?",
+        "back": "Kimin umurunda?"
+    },
+    {
+        "front": "I saw it.",
+        "back": "Onu gördüm."
+    },
+    {
+        "front": "Thank God.",
+        "back": "Tanrıya şükür."
+    },
+    {
+        "front": "Pretty good.",
+        "back": "Gayet iyi."
+    },
+    {
+        "front": "What was his name?",
+        "back": "Adı neydi?"
+    },
+    {
+        "front": "Why did you ask?",
+        "back": "Neden sordun?"
+    },
+    {
+        "front": "Are you happy?",
+        "back": "Mutlu musun?"
+    },
+    {
+        "front": "We'll talk later.",
+        "back": "Sonra konuşuruz."
+    },
+    {
+        "front": "No, it won't.",
+        "back": "Hayır, olmaz."
+    },
+    {
+        "front": "Why is that?",
+        "back": "Nedenmiş o?"
+    },
+    {
+        "front": "I know you.",
+        "back": "Seni tanıyorum."
+    },
+    {
+        "front": "I love him.",
+        "back": "Onu seviyorum."
+    },
+    {
+        "front": "Absolutely not.",
+        "back": "Kesinlikle hayır."
+    },
+    {
+        "front": "You are so cute.",
+        "back": "Çok tatlısın."
+    },
+    {
+        "front": "No, I'm not.",
+        "back": "Hayır, değilim."
+    },
+    {
+        "front": "You can't do that.",
+        "back": "Bunu yapamazsın."
+    },
+    {
+        "front": "Look over there.",
+        "back": "Şuraya bak."
+    },
+    {
+        "front": "I told you.",
+        "back": "Sana söylemiştim."
+    },
+    {
+        "front": "Better.",
+        "back": "Daha iyi."
+    },
+    {
+        "front": "How did it go?",
+        "back": "Nasıl gitti?"
+    },
+    {
+        "front": "What do you see?",
+        "back": "Ne görüyorsun?"
+    },
+    {
+        "front": "Are you going?",
+        "back": "Gidiyor musun?"
+    },
+    {
+        "front": "Happy birthday.",
+        "back": "Mutlu yıllar."
+    },
+    {
+        "front": "Why are you here?",
+        "back": "Neden buradasın?"
+    },
+    {
+        "front": "I'm sure it is.",
+        "back": "Eminim öyledir."
+    },
+    {
+        "front": "Please take a seat.",
+        "back": "Lütfen oturun."
+    },
+    {
+        "front": "It suits me.",
+        "back": "Bana uyar."
+    },
+    {
+        "front": "I like it.",
+        "back": "Hoşuma gitti."
+    },
+    {
+        "front": "Right.",
+        "back": "Doğru ya."
+    },
+    {
+        "front": "Can we talk?",
+        "back": "Konuşabilir miyiz?"
+    },
+    {
+        "front": "Good luck.",
+        "back": "Bol şans."
+    },
+    {
+        "front": "What are you?",
+        "back": "Nesin sen?"
+    },
+    {
+        "front": "Yes, thank you.",
+        "back": "Evet, teşekkürler."
+    },
+    {
+        "front": "Hold on tight.",
+        "back": "Sıkı tutun."
+    },
+    {
+        "front": "So it is.",
+        "back": "Demek öyle."
+    },
+    {
+        "front": "Really?",
+        "back": "Sahiden mi?"
+    },
+    {
+        "front": "Take it easy.",
+        "back": "Keyfine bak."
+    },
+    {
+        "front": "Is it mine?",
+        "back": "Benim mi?"
+    },
+    {
+        "front": "Very interesting.",
+        "back": "Çok ilginç."
+    },
+    {
+        "front": "You go.",
+        "back": "Sen git."
+    },
+    {
+        "front": "What are you looking at?",
+        "back": "Neye bakıyorsun?"
+    },
+    {
+        "front": "Turn your back.",
+        "back": "Arkanı dön."
+    },
+    {
+        "front": "It was beautiful.",
+        "back": "Çok güzeldi."
+    },
+    {
+        "front": "What should I do?",
+        "back": "Ne yapmalıyım?"
+    },
+    {
+        "front": "I know.",
+        "back": "Ben biliyorum."
+    },
+    {
+        "front": "Is it nice?",
+        "back": "Güzel mi?"
+    },
+    {
+        "front": "Where is he going?",
+        "back": "Nereye gidiyor?"
+    },
+    {
+        "front": "See you soon.",
+        "back": "Görüşmek üzere."
+    },
+    {
+        "front": "Yes, sure.",
+        "back": "Evet, tabi."
+    },
+    {
+        "front": "It's simple.",
+        "back": "Çok basit."
+    },
+    {
+        "front": "I told you.",
+        "back": "Sana söyledim."
+    },
+    {
+        "front": "What are we doing?",
+        "back": "Ne yapıyoruz?"
+    },
+    {
+        "front": "I can do that.",
+        "back": "Bunu yapabilirim."
+    },
+    {
+        "front": "Get in the car.",
+        "back": "Arabaya bin."
+    },
+    {
+        "front": "Can I come in?",
+        "back": "Girebilir miyim?"
+    },
+    {
+        "front": "I'm serious.",
+        "back": "Ben ciddiyim."
+    },
+    {
+        "front": "You are late.",
+        "back": "Geç kaldın."
+    },
+    {
+        "front": "How do I look?",
+        "back": "Nasıl görünüyorum?"
+    },
+    {
+        "front": "Everything.",
+        "back": "Her şeyi."
+    },
+    {
+        "front": "Let's get out of here.",
+        "back": "Gidelim buradan."
+    },
+    {
+        "front": "What are you waiting for?",
+        "back": "Ne bekliyorsun?"
+    },
+    {
+        "front": "We?",
+        "back": "Biz mi?"
+    },
+    {
+        "front": "Let it go.",
+        "back": "Bırak gitsin."
+    },
+    {
+        "front": "I can't breathe.",
+        "back": "Nefes alamıyorum."
+    },
+    {
+        "front": "I trust you.",
+        "back": "Sana güveniyorum."
+    },
+    {
+        "front": "What about you?",
+        "back": "Ya siz?"
+    },
+    {
+        "front": "How come?",
+        "back": "Nasıl olur?"
+    },
+    {
+        "front": "You are very kind.",
+        "back": "Çok naziksiniz."
+    },
+    {
+        "front": "It's late.",
+        "back": "Geç oldu."
+    },
+    {
+        "front": "Take it slow.",
+        "back": "Yavaş ol."
+    },
+    {
+        "front": "How is this?",
+        "back": "Bu nasıl?"
+    },
+    {
+        "front": "I exist.",
+        "back": "Ben varım."
+    },
+    {
+        "front": "Did you hear that?",
+        "back": "Duydunuz mu?"
+    },
+    {
+        "front": "It was very good.",
+        "back": "Çok iyiydi."
+    },
+    {
+        "front": "It's here.",
+        "back": "O burada."
+    },
+    {
+        "front": "Not at all?",
+        "back": "Hiç mi?"
+    },
+    {
+        "front": "Is it here?",
+        "back": "Burası mı?"
+    },
+    {
+        "front": "Where am I?",
+        "back": "Neredeyim ben?"
+    },
+    {
+        "front": "Yes, I understand.",
+        "back": "Evet, anlıyorum."
+    },
+    {
+        "front": "Very cute.",
+        "back": "Çok tatlı."
+    },
+    {
+        "front": "I'll call you.",
+        "back": "Seni ararım."
+    },
+    {
+        "front": "I'm here.",
+        "back": "Ben geldim."
+    },
+    {
+        "front": "Come here.",
+        "back": "Buraya gelin."
+    },
+    {
+        "front": "Is it like this?",
+        "back": "Böyle mi?"
+    },
+    {
+        "front": "No, I don't think so.",
+        "back": "Hayır, sanmıyorum."
+    },
+    {
+        "front": "I'll get it.",
+        "back": "Ben alırım."
+    },
+    {
+        "front": "So far.",
+        "back": "Buraya kadar."
+    },
+    {
+        "front": "Am I right?",
+        "back": "Haksız mıyım?"
+    },
+    {
+        "front": "Give me that.",
+        "back": "Ver şunu."
+    },
+    {
+        "front": "What is that?",
+        "back": "Ne o?"
+    },
+    {
+        "front": "I believe you.",
+        "back": "Sana inanıyorum."
+    },
+    {
+        "front": "Good, good.",
+        "back": "Güzel, güzel."
+    },
+    {
+        "front": "Hello dad.",
+        "back": "Merhaba baba."
+    },
+    {
+        "front": "Hold it.",
+        "back": "Tut şunu."
+    },
+    {
+        "front": "Ok, got it.",
+        "back": "Tamam, anladım."
+    },
+    {
+        "front": "On what subject?",
+        "back": "Hangi konuda?"
+    },
+    {
+        "front": "Don't you remember?",
+        "back": "Hatırlamıyor musun?"
+    },
+    {
+        "front": "I am starving.",
+        "back": "Açlıktan ölüyorum."
+    },
+    {
+        "front": "You know.",
+        "back": "Sen bilirsin."
+    },
+    {
+        "front": "I don't know.",
+        "back": "Bilmem ki."
+    },
+    {
+        "front": "Take your time.",
+        "back": "Acele etme."
+    },
+    {
+        "front": "Tell me.",
+        "back": "Anlat bana."
+    },
+    {
+        "front": "Yes?",
+        "back": "Evet mi?"
+    },
+    {
+        "front": "Tonight.",
+        "back": "Bu gece."
+    },
+    {
+        "front": "Very impressive.",
+        "back": "Çok etkileyici."
+    },
+    {
+        "front": "Relax.",
+        "back": "Rahat ol."
+    },
+    {
+        "front": "Stay there.",
+        "back": "Orada kal."
+    },
+    {
+        "front": "How did it happen?",
+        "back": "Nasıl oldu?"
+    },
+    {
+        "front": "What can I do?",
+        "back": "Ne yapabilirim?"
+    },
+    {
+        "front": "No, thank you.",
+        "back": "Hayır, sağol."
+    },
+    {
+        "front": "Right here.",
+        "back": "Tam burada."
+    },
+    {
+        "front": "I'll go.",
+        "back": "Ben giderim."
+    },
+    {
+        "front": "Thank you sir.",
+        "back": "Teşekkürler efendim."
+    },
+    {
+        "front": "Not me.",
+        "back": "Ben değil."
+    },
+    {
+        "front": "No, please.",
+        "back": "Hayır, lütfen."
+    },
+    {
+        "front": "What did you see?",
+        "back": "Ne gördün?"
+    },
+    {
+        "front": "What should I do?",
+        "back": "Ne yapayım?"
+    },
+    {
+        "front": "Hi guys.",
+        "back": "Selam çocuklar."
+    },
+    {
+        "front": "I'll be there.",
+        "back": "Orada olacağım."
+    },
+    {
+        "front": "Hello honey.",
+        "back": "Merhaba tatlım."
+    },
+    {
+        "front": "What are you saying?",
+        "back": "Ne diyorsunuz?"
+    },
+    {
+        "front": "What do you think?",
+        "back": "Ne düşünüyorsunuz?"
+    },
+    {
+        "front": "I'm coming with you.",
+        "back": "Seninle geliyorum."
+    },
+    {
+        "front": "And then?",
+        "back": "Ya sonra?"
+    },
+    {
+        "front": "Take it.",
+        "back": "Al bunu."
+    },
+    {
+        "front": "Listen to me.",
+        "back": "Beni dinleyin."
+    },
+    {
+        "front": "I did it.",
+        "back": "Ben yaptım."
+    },
+    {
+        "front": "Of course not.",
+        "back": "Elbette hayır."
+    },
+    {
+        "front": "Not true.",
+        "back": "Doğru değil."
+    },
+    {
+        "front": "For you.",
+        "back": "Senin için."
+    },
+    {
+        "front": "What do you mean.",
+        "back": "Ne demek."
+    },
+    {
+        "front": "Are you married?",
+        "back": "Evli misin?"
+    },
+    {
+        "front": "How should I know?",
+        "back": "Nereden bileyim?"
+    },
+    {
+        "front": "You heard me.",
+        "back": "Beni duydun."
+    },
+    {
+        "front": "I am here.",
+        "back": "Ben buradayım."
+    },
+    {
+        "front": "I know him.",
+        "back": "Onu tanıyorum."
+    },
+    {
+        "front": "But what?",
+        "back": "Ama ne?"
+    },
+    {
+        "front": "Any questions?",
+        "back": "Sorusu olan?"
+    },
+    {
+        "front": "Can I have it?",
+        "back": "Alabilir miyim?"
+    },
+    {
+        "front": "It's easy.",
+        "back": "Çok kolay."
+    },
+    {
+        "front": "Don't you see?",
+        "back": "Görmüyor musun?"
+    },
+    {
+        "front": "Let's continue.",
+        "back": "Devam edelim."
+    },
+    {
+        "front": "Very important.",
+        "back": "Çok önemli."
+    },
+    {
+        "front": "Right now.",
+        "back": "Hemen şimdi."
+    },
+    {
+        "front": "I agree.",
+        "back": "Kabul ediyorum."
+    },
+    {
+        "front": "It should be.",
+        "back": "Öyle olmalı."
+    },
+    {
+        "front": "What did he do?",
+        "back": "Ne yaptı?"
+    },
+    {
+        "front": "Yes, I'm sure.",
+        "back": "Evet, eminim."
+    },
+    {
+        "front": "What about me?",
+        "back": "Ya ben?"
+    },
+    {
+        "front": "What did he say?",
+        "back": "Ne söyledi?"
+    },
+    {
+        "front": "He's right.",
+        "back": "O haklı."
+    },
+    {
+        "front": "Hi honey.",
+        "back": "Selam tatlım."
+    },
+    {
+        "front": "As you wish.",
+        "back": "Nasıl isterseniz."
+    },
+    {
+        "front": "Can you do it?",
+        "back": "Yapabilir misin?"
+    },
+    {
+        "front": "A little more.",
+        "back": "Biraz daha."
+    },
+    {
+        "front": "Not now.",
+        "back": "Şimdi değil."
+    },
+    {
+        "front": "Exactly.",
+        "back": "Kesinlikle öyle."
+    },
+    {
+        "front": "Who said?",
+        "back": "Kim demiş?"
+    },
+    {
+        "front": "I understand you.",
+        "back": "Seni anlıyorum."
+    },
+    {
+        "front": "What are they doing?",
+        "back": "Ne yapıyorlar?"
+    },
+    {
+        "front": "I am ready.",
+        "back": "Ben hazırım."
+    },
+    {
+        "front": "This is me.",
+        "back": "Bu benim."
+    },
+    {
+        "front": "Hello mom.",
+        "back": "Merhaba anne."
+    },
+    {
+        "front": "This cannot happen.",
+        "back": "Bu olamaz."
+    },
+    {
+        "front": "Get out.",
+        "back": "Dışarı çık."
+    },
+    {
+        "front": "Hello guys.",
+        "back": "Merhaba çocuklar."
+    },
+    {
+        "front": "Are we ready?",
+        "back": "Hazır mıyız?"
+    },
+    {
+        "front": "Do you have?",
+        "back": "Var mı?"
+    },
+    {
+        "front": "Look at these.",
+        "back": "Şunlara bak."
+    },
+    {
+        "front": "Please don't.",
+        "back": "Lütfen yapma."
+    },
+    {
+        "front": "Where is everyone?",
+        "back": "Herkes nerede?"
+    },
+    {
+        "front": "No more.",
+        "back": "Yok artık."
+    },
+    {
+        "front": "What does it look like?",
+        "back": "Neye benziyor?"
+    },
+    {
+        "front": "Can I sit down?",
+        "back": "Oturabilir miyim?"
+    },
+    {
+        "front": "What is this place?",
+        "back": "Burası neresi?"
+    },
+    {
+        "front": "How many?",
+        "back": "Kaç tane?"
+    },
+    {
+        "front": "Follow me.",
+        "back": "Beni izle."
+    },
+    {
+        "front": "One more time.",
+        "back": "Bir daha."
+    },
+    {
+        "front": "You won.",
+        "back": "Sen kazandın."
+    },
+    {
+        "front": "Come with me.",
+        "back": "Benimle gelin."
+    },
+    {
+        "front": "What happened?",
+        "back": "N'oldu?"
+    },
+    {
+        "front": "This is real.",
+        "back": "Bu gerçek."
+    },
+    {
+        "front": "Close it.",
+        "back": "Kapat şunu."
+    },
+    {
+        "front": "What will happen?",
+        "back": "Ne olacak?"
+    },
+    {
+        "front": "You are very good.",
+        "back": "Çok iyisin."
+    },
+    {
+        "front": "What did you say?",
+        "back": "Ne dediniz?"
+    },
+    {
+        "front": "Ah, no.",
+        "back": "Ah, hayır."
+    },
+    {
+        "front": "You're welcome.",
+        "back": "Birşey değil."
+    },
+    {
+        "front": "I'm going home.",
+        "back": "Eve gidiyorum."
+    },
+    {
+        "front": "I've never heard of it.",
+        "back": "Hiç duymadım."
+    },
+    {
+        "front": "How old is she?",
+        "back": "Kaç yaşında?"
+    },
+    {
+        "front": "Did you know?",
+        "back": "Biliyor muydun?"
+    },
+    {
+        "front": "Just in time.",
+        "back": "Tam zamanında."
+    },
+    {
+        "front": "I would love to.",
+        "back": "Çok isterim."
+    },
+    {
+        "front": "Yes, it was.",
+        "back": "Evet, öyleydi."
+    },
+    {
+        "front": "No, you are not.",
+        "back": "Hayır, değilsin."
+    },
+    {
+        "front": "Call me.",
+        "back": "Ara beni."
+    },
+    {
+        "front": "I think you're right.",
+        "back": "Sanırım haklısın."
+    },
+    {
+        "front": "Keep it up.",
+        "back": "Üstü kalsın."
+    },
+    {
+        "front": "Close your eyes.",
+        "back": "Gözlerini kapat."
+    },
+    {
+        "front": "So why?",
+        "back": "Peki neden?"
+    },
+    {
+        "front": "The time has come.",
+        "back": "Zamanı geldi."
+    },
+    {
+        "front": "Come on from there.",
+        "back": "Hadi oradan."
+    },
+    {
+        "front": "It is beautiful.",
+        "back": "Çok güzelmiş."
+    },
+    {
+        "front": "Everything.",
+        "back": "Her şey."
+    },
+    {
+        "front": "Take this.",
+        "back": "Bunu al."
+    },
+    {
+        "front": "I have to talk to you.",
+        "back": "Seninle konuşmalıyım."
+    },
+    {
+        "front": "Where have you been?",
+        "back": "Nerede kaldın?"
+    },
+    {
+        "front": "It's over now.",
+        "back": "Artık bitti."
+    },
+    {
+        "front": "They are very beautiful.",
+        "back": "Çok güzeller."
+    },
+    {
+        "front": "I don't think so.",
+        "back": "Hiç sanmam."
+    },
+    {
+        "front": "I hope so.",
+        "back": "Umarım öyledir."
+    },
+    {
+        "front": "Try again.",
+        "back": "Tekrar dene."
+    },
+    {
+        "front": "Where were we?",
+        "back": "Nerede kalmıştık?"
+    },
+    {
+        "front": "Will you see?",
+        "back": "Bakar mısınız?"
+    },
+    {
+        "front": "Where did they go?",
+        "back": "Nereye gittiler?"
+    },
+    {
+        "front": "I am very happy.",
+        "back": "Çok mutluyum."
+    },
+    {
+        "front": "Go to your house.",
+        "back": "Evine git."
+    },
+    {
+        "front": "What are you looking for?",
+        "back": "Ne arıyorsun?"
+    },
+    {
+        "front": "See you there.",
+        "back": "Orada görüşürüz."
+    },
+    {
+        "front": "Where is the girl?",
+        "back": "Kız nerede?"
+    },
+    {
+        "front": "But how?",
+        "back": "Ama nasıl?"
+    },
+    {
+        "front": "No, I don't know.",
+        "back": "Hayır, bilmiyorum."
+    },
+    {
+        "front": "Why then?",
+        "back": "Neden peki?"
+    },
+    {
+        "front": "Come in.",
+        "back": "Gir içeri."
+    },
+    {
+        "front": "Tomorrow?",
+        "back": "Yarın mı?"
+    },
+    {
+        "front": "What do you know?",
+        "back": "Ne biliyorsun?"
+    },
+    {
+        "front": "Have you got it?",
+        "back": "Aldın mı?"
+    },
+    {
+        "front": "No, I can't.",
+        "back": "Hayır, yapamam."
+    },
+    {
+        "front": "It would be great.",
+        "back": "Harika olur."
+    },
+    {
+        "front": "I am very impressed.",
+        "back": "Çok etkilendim."
+    },
+    {
+        "front": "Please, please.",
+        "back": "Lütfen, lütfen."
+    },
+    {
+        "front": "Not that.",
+        "back": "O değil."
+    },
+    {
+        "front": "Too much.",
+        "back": "Çok fazla."
+    },
+    {
+        "front": "Close the door.",
+        "back": "Kapıyı kapat."
+    },
+    {
+        "front": "Accepted.",
+        "back": "Kabul edildi."
+    },
+    {
+        "front": "Come on, go.",
+        "back": "Hadi git."
+    },
+    {
+        "front": "The police?",
+        "back": "Polis mi?"
+    },
+    {
+        "front": "Kiss me.",
+        "back": "Öp beni."
+    },
+    {
+        "front": "Ah, God.",
+        "back": "Ah, Tanrım."
+    },
+    {
+        "front": "Do you know?",
+        "back": "Tanıyor musun?"
+    },
+    {
+        "front": "Yeah, great.",
+        "back": "Evet, harika."
+    },
+    {
+        "front": "Get yourself.",
+        "back": "Kendine gel."
+    },
+    {
+        "front": "That's good.",
+        "back": "Böyle iyi."
+    },
+    {
+        "front": "Stay with me.",
+        "back": "Benimle kal."
+    },
+    {
+        "front": "I'm late.",
+        "back": "Geç kaldım."
+    },
+    {
+        "front": "He's telling the truth.",
+        "back": "Doğru söylüyor."
+    },
+    {
+        "front": "How did it go?",
+        "back": "Nasıl geçti?"
+    },
+    {
+        "front": "Hi guys.",
+        "back": "Selam millet."
+    },
+    {
+        "front": "See you soon.",
+        "back": "Yakında görüşürüz."
+    },
+    {
+        "front": "Give it to me.",
+        "back": "Bana ver."
+    },
+    {
+        "front": "Am I right?",
+        "back": "Haklı mıyım?"
+    },
+    {
+        "front": "Long story.",
+        "back": "Uzun hikaye."
+    },
+    {
+        "front": "How did you know?",
+        "back": "Nereden bildin?"
+    },
+    {
+        "front": "No, it can't.",
+        "back": "Hayır, olamaz."
+    },
+    {
+        "front": "What is the situation?",
+        "back": "Durum nedir?"
+    },
+    {
+        "front": "Take a look at this.",
+        "back": "Şuna baksana."
+    }
+]

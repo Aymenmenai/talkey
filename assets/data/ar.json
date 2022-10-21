@@ -1,0 +1,2002 @@
+[
+    {
+        "front": "Who is it?",
+        "back": "من"
+    },
+    {
+        "front": "Who am I?",
+        "back": "من أنا"
+    },
+    {
+        "front": "What's this?",
+        "back": "ما هذا"
+    },
+    {
+        "front": "Why not?",
+        "back": "لم لا"
+    },
+    {
+        "front": "Why?",
+        "back": "لم"
+    },
+    {
+        "front": "What's that?",
+        "back": "ما ذلك"
+    },
+    {
+        "front": "Who is he?",
+        "back": "من هو"
+    },
+    {
+        "front": "Fine. And you?",
+        "back": "و "
+    },
+    {
+        "front": "Who are you?",
+        "back": "من "
+    },
+    {
+        "front": "That wasn't him.",
+        "back": "هذا ليس هو."
+    },
+    {
+        "front": "Who's there?",
+        "back": "من هناك"
+    },
+    {
+        "front": "Tom is out there.",
+        "back": "توم هناك."
+    },
+    {
+        "front": "This way.",
+        "back": "من هنا."
+    },
+    {
+        "front": "Why is he here?",
+        "back": "لم هو هنا"
+    },
+    {
+        "front": "Not here!",
+        "back": "ليس هنا!"
+    },
+    {
+        "front": "What?",
+        "back": "ماذا"
+    },
+    {
+        "front": "What about Tom?",
+        "back": "ماذا عن \"توم\""
+    },
+    {
+        "front": "Never mind!",
+        "back": "لا عليك!"
+    },
+    {
+        "front": "Don't worry.",
+        "back": "لا عليك."
+    },
+    {
+        "front": "Where do you come from?",
+        "back": "من أين "
+    },
+    {
+        "front": "Where does he come from?",
+        "back": "مِن أَيْن هُو"
+    },
+    {
+        "front": "Where am I?",
+        "back": "أين أنا"
+    },
+    {
+        "front": "Where are you?",
+        "back": "أين "
+    },
+    {
+        "front": "Where have you been?",
+        "back": "أين كنت"
+    },
+    {
+        "front": "Where is he?",
+        "back": "أين هو"
+    },
+    {
+        "front": "Where is she?",
+        "back": "أين هي"
+    },
+    {
+        "front": "Is that yours?",
+        "back": "هل هذا لكَ"
+    },
+    {
+        "front": "This is for you.",
+        "back": "هذا لك."
+    },
+    {
+        "front": "How's Tom?",
+        "back": "كيف توم"
+    },
+    {
+        "front": "Then what?",
+        "back": "ماذا بعد ذلك"
+    },
+    {
+        "front": "I've been here before.",
+        "back": "كنت هنا من قبل."
+    },
+    {
+        "front": "Once upon a time",
+        "back": "كان يا ما كان"
+    },
+    {
+        "front": "I'm not from here.",
+        "back": "أنا لست من هنا."
+    },
+    {
+        "front": "No, you may not.",
+        "back": "لا ، لا يمكنك."
+    },
+    {
+        "front": "Is this book yours?",
+        "back": "هل هذا الكتاب لك"
+    },
+    {
+        "front": "This book is yours.",
+        "back": "هذا الكتاب لك."
+    },
+    {
+        "front": "This book is mine.",
+        "back": "هذا الكتاب لي."
+    },
+    {
+        "front": "What do you want now?",
+        "back": "ماذا تريد الآن"
+    },
+    {
+        "front": "What else do you want?",
+        "back": "ماذا تريد بعد"
+    },
+    {
+        "front": "What do you want then?",
+        "back": "ماذا تريد بعد ذلك"
+    },
+    {
+        "front": "What do you want?",
+        "back": "ماذا تريد"
+    },
+    {
+        "front": "Eat whatever you like.",
+        "back": "كُلْ ما تريد."
+    },
+    {
+        "front": "I don't know.",
+        "back": "لا أعرف."
+    },
+    {
+        "front": "I know.",
+        "back": "أعرف."
+    },
+    {
+        "front": "I don't even know what that is.",
+        "back": "أنا حتى لا أعرف ما ذلك."
+    },
+    {
+        "front": "I don't know.",
+        "back": "لا أعرف‏.‏‏"
+    },
+    {
+        "front": "I know everything.",
+        "back": "أعرف كل شيء."
+    },
+    {
+        "front": "How should I know?",
+        "back": "و كيف لي أن أعرف"
+    },
+    {
+        "front": "I know nothing yet.",
+        "back": "لا أعرف شيئاً بعد."
+    },
+    {
+        "front": "I don't know anything.",
+        "back": "لا أعرف شيئاً."
+    },
+    {
+        "front": "How should I know?",
+        "back": "كيف لي أن أعرف"
+    },
+    {
+        "front": "I don't like school.",
+        "back": "لا أحب المدرسة."
+    },
+    {
+        "front": "How was school today?",
+        "back": "كيفَ كانت المدرسة اليوم"
+    },
+    {
+        "front": "I'm not in the school.",
+        "back": "أنا لست في المدرسة."
+    },
+    {
+        "front": "Where is the school?",
+        "back": "أين المدرسة"
+    },
+    {
+        "front": "It was at school.",
+        "back": "كان في المدرسة."
+    },
+    {
+        "front": "Why me?",
+        "back": "لماذا أنا"
+    },
+    {
+        "front": "Why?",
+        "back": "لماذا"
+    },
+    {
+        "front": "Why were you there?",
+        "back": "لماذا كنت هناك"
+    },
+    {
+        "front": "I can't.",
+        "back": "لا أستطيع."
+    },
+    {
+        "front": "Really?",
+        "back": "حقاً"
+    },
+    {
+        "front": "Really? Why?",
+        "back": "حقاً لماذا"
+    },
+    {
+        "front": "No, not really.",
+        "back": "لا ليس حقا."
+    },
+    {
+        "front": "I have to go now.",
+        "back": "علي الذهاب الآن."
+    },
+    {
+        "front": "You may go there.",
+        "back": "يمكنك الذهاب إلى هناك."
+    },
+    {
+        "front": "You don't need to go.",
+        "back": "ليس عليك الذهاب."
+    },
+    {
+        "front": "You may go.",
+        "back": "يمكنك الذهاب."
+    },
+    {
+        "front": "You must go.",
+        "back": "عليك الذهاب."
+    },
+    {
+        "front": "Father, where are you?",
+        "back": "أبي, أين أنتَ"
+    },
+    {
+        "front": "You are my father.",
+        "back": "أنت أبي."
+    },
+    {
+        "front": "I am in the house.",
+        "back": "أنا في المنزل."
+    },
+    {
+        "front": "I know only this.",
+        "back": "لا أعرف إلّا هذا."
+    },
+    {
+        "front": "This house is not mine.",
+        "back": "هذا البيت ليس لي."
+    },
+    {
+        "front": "Tom isn't at home.",
+        "back": "توم ليس في البيت."
+    },
+    {
+        "front": "Who is in the house?",
+        "back": "من في البيت"
+    },
+    {
+        "front": "I'm at home.",
+        "back": "أنا في البيت."
+    },
+    {
+        "front": "Are you at home?",
+        "back": "هل أنت في البيت"
+    },
+    {
+        "front": "Tom is in the house.",
+        "back": "توم في البيت."
+    },
+    {
+        "front": "This watch is superior to that one.",
+        "back": "هذه الساعة أفضل من تلك."
+    },
+    {
+        "front": "What time is it?",
+        "back": "ما الساعة الآن"
+    },
+    {
+        "front": "I don't want to work.",
+        "back": "لا أريد العمل."
+    },
+    {
+        "front": "How many people?",
+        "back": "كم شخص.."
+    },
+    {
+        "front": "What is the time?",
+        "back": "كَم الساعة"
+    },
+    {
+        "front": "Are you here with anyone?",
+        "back": "هل أنت هنا مع أي شخص"
+    },
+    {
+        "front": "What time is it?",
+        "back": "كم الساعة"
+    },
+    {
+        "front": "Nobody was home.",
+        "back": "لم يكن أحد في البيت."
+    },
+    {
+        "front": "Nobody was home.",
+        "back": "لم يكن أحد في المنزل."
+    },
+    {
+        "front": "No one was present.",
+        "back": "لم يكن هناك أحد."
+    },
+    {
+        "front": "Tom didn't have to leave.",
+        "back": "لم يكن على توم الذهاب."
+    },
+    {
+        "front": "This car is my father's.",
+        "back": "هذه سيارة أبي."
+    },
+    {
+        "front": "This is a car.",
+        "back": "هذه سيارة."
+    },
+    {
+        "front": "When did you go there?",
+        "back": "متى ذهبت إلى هناك"
+    },
+    {
+        "front": "How many times have you gone?",
+        "back": "كم من مرة ذهبت"
+    },
+    {
+        "front": "I didn't go to school.",
+        "back": "ما ذهبت إلى المدرسة."
+    },
+    {
+        "front": "She had gone to school.",
+        "back": "كانت قد ذهبت إلى المدرسة."
+    },
+    {
+        "front": "Where did you go?",
+        "back": "إلى أين ذهبت"
+    },
+    {
+        "front": "Where did you go?",
+        "back": "أين ذهبت"
+    },
+    {
+        "front": "I went there yesterday.",
+        "back": "ذهبت هناك البارحة."
+    },
+    {
+        "front": "What do you like?",
+        "back": "ماذا تحب"
+    },
+    {
+        "front": "Do you like it?",
+        "back": "هل تحب ذلك"
+    },
+    {
+        "front": "I came here yesterday.",
+        "back": "كنت هنا البارحة."
+    },
+    {
+        "front": "She loves Tom.",
+        "back": "إنها تحب توم."
+    },
+    {
+        "front": "I can't.",
+        "back": "لا يمكنني."
+    },
+    {
+        "front": "Tom wasn't here yesterday.",
+        "back": "لم يكن توم هنا البارحة."
+    },
+    {
+        "front": "He will be at home tomorrow.",
+        "back": "سوف يكون في البيت غداً."
+    },
+    {
+        "front": "I don't have time.",
+        "back": "ليس لدي وقت."
+    },
+    {
+        "front": "Once again.",
+        "back": "مرة أخرى."
+    },
+    {
+        "front": "School isn't for me.",
+        "back": "المدرسة ليست لي."
+    },
+    {
+        "front": "I am pressed for time.",
+        "back": "ليس لديّ وقت."
+    },
+    {
+        "front": "You are my mother.",
+        "back": "أنتِ أُمّي."
+    },
+    {
+        "front": "That can't be!",
+        "back": "غير يمكن!"
+    },
+    {
+        "front": "Tom might not like that.",
+        "back": "قد لا يحب توم ذلك."
+    },
+    {
+        "front": "My father loves my mother.",
+        "back": "أبي يحب أمي."
+    },
+    {
+        "front": "But why?",
+        "back": "و لكن لماذا"
+    },
+    {
+        "front": "But why?",
+        "back": "لكن لماذا"
+    },
+    {
+        "front": "No, I don't have it with me.",
+        "back": "لا ليس معي."
+    },
+    {
+        "front": "Who am I talking with?",
+        "back": "من معي"
+    },
+    {
+        "front": "I don't like Alice.",
+        "back": "لا أحب أليس."
+    },
+    {
+        "front": "He isn't here, is he?",
+        "back": "إنه ليس هنا ، أليس كذلك"
+    },
+    {
+        "front": "Isn't it so?",
+        "back": "أليس كذلك"
+    },
+    {
+        "front": "Thank you!",
+        "back": "شكراً لك!"
+    },
+    {
+        "front": "Do you have a car?",
+        "back": "هل لديك سيارة"
+    },
+    {
+        "front": "No, thank you.",
+        "back": "لا، شكراً لك."
+    },
+    {
+        "front": "Do you have everything?",
+        "back": "هل لديك كل شيء"
+    },
+    {
+        "front": "Thanks, that's all.",
+        "back": "شكراً، هذا كل شيء."
+    },
+    {
+        "front": "Thanks!",
+        "back": "شكراً!"
+    },
+    {
+        "front": "Mary likes Japan, doesn't she?",
+        "back": "ماري تحب اليابان، أليس كذلك"
+    },
+    {
+        "front": "I would like to go to Japan.",
+        "back": "أريد الذهاب إلى اليابان."
+    },
+    {
+        "front": "How do you know?",
+        "back": "و كيف لك أن تعرف"
+    },
+    {
+        "front": "How do you know this?",
+        "back": "كيف تعرف هذا"
+    },
+    {
+        "front": "How do you know that?",
+        "back": "من أينَ تعرف هذا"
+    },
+    {
+        "front": "How do you know that?",
+        "back": "أنتَ كيف تعرف هذا"
+    },
+    {
+        "front": "You really don't want to know.",
+        "back": "أنتَ حقاً لا تريد أن تعرف."
+    },
+    {
+        "front": "Why do you want to know that?",
+        "back": "لماذا تريد أن تعرف ذلك"
+    },
+    {
+        "front": "No, I suppose not.",
+        "back": "لا ، لا أعتقد ذلك."
+    },
+    {
+        "front": "I think so.",
+        "back": "أعتقد ذلك."
+    },
+    {
+        "front": "Do you know who she is?",
+        "back": "هل تعرف من هي"
+    },
+    {
+        "front": "Do you know who he is?",
+        "back": "هل تعرف من يكون"
+    },
+    {
+        "front": "Is this book yours?",
+        "back": "هل ذاك الكتاب لك"
+    },
+    {
+        "front": "That house belongs to him.",
+        "back": "ذاك البيت له."
+    },
+    {
+        "front": "This car is mine.",
+        "back": "هذه السيارة لي."
+    },
+    {
+        "front": "When shall we go?",
+        "back": "متى علينا الذهاب"
+    },
+    {
+        "front": "Hurry up.",
+        "back": "بسرعة."
+    },
+    {
+        "front": "You like English, don't you?",
+        "back": "أنت تحب اللغة الإنجليزية ، أليس كذلك"
+    },
+    {
+        "front": "You're better than me.",
+        "back": "أنت أفضل مني."
+    },
+    {
+        "front": "Hurry up, Tom.",
+        "back": "بسرعة يا توم"
+    },
+    {
+        "front": "How much money do you want?",
+        "back": "كم من المال تريد"
+    },
+    {
+        "front": "He told me everything.",
+        "back": "قال لي كل شيء."
+    },
+    {
+        "front": "Haven't you got any money?",
+        "back": "أليس لديك بعض المال"
+    },
+    {
+        "front": "Money is not everything.",
+        "back": "المال ليس كل شيء."
+    },
+    {
+        "front": "Who said that?",
+        "back": "من قال هذا"
+    },
+    {
+        "front": "I want some money.",
+        "back": "أريد بعض المال."
+    },
+    {
+        "front": "What did he say?",
+        "back": "ماذا قال"
+    },
+    {
+        "front": "You can go wherever you want.",
+        "back": "يمكنك الذهاب إلى أي مكان تريد."
+    },
+    {
+        "front": "Where's the money?",
+        "back": "أين المال"
+    },
+    {
+        "front": "How much money do you have?",
+        "back": "كم من المال لديك"
+    },
+    {
+        "front": "What is over there?",
+        "back": "ماذا يوجد هناك"
+    },
+    {
+        "front": "There's nothing there.",
+        "back": "لا يوجد شيء هناك."
+    },
+    {
+        "front": "There's nobody home.",
+        "back": "لا يوجد أحد في المنزل."
+    },
+    {
+        "front": "There's nobody home.",
+        "back": "لا يوجد أحد في البيت."
+    },
+    {
+        "front": "I will go.",
+        "back": "سوف أذهب."
+    },
+    {
+        "front": "I go to school.",
+        "back": "أذهب إلى المدرسة."
+    },
+    {
+        "front": "I have to go now.",
+        "back": "يجب علي أن أذهب الآن."
+    },
+    {
+        "front": "Would you like anything else?",
+        "back": "هل تريد شيئا آخر"
+    },
+    {
+        "front": "She will always be with you.",
+        "back": "هي سوف تكون دائماً معكِ"
+    },
+    {
+        "front": "I would rather not go.",
+        "back": "أفضل أن لا أذهب."
+    },
+    {
+        "front": "I have to go.",
+        "back": "يجب أن أذهب."
+    },
+    {
+        "front": "I want to go to Japan.",
+        "back": "أريد أن أذهب إلى اليابان."
+    },
+    {
+        "front": "I don't want to go to school.",
+        "back": "لا أريد أن أذهب إلى المدرسة."
+    },
+    {
+        "front": "I'm with you.",
+        "back": "أنا معك."
+    },
+    {
+        "front": "I want to go to school.",
+        "back": "أريد أن أذهب إلى المدرسة."
+    },
+    {
+        "front": "I have to go home now.",
+        "back": "يجب أن أذهب إلى البيت الآن."
+    },
+    {
+        "front": "I want to go with you.",
+        "back": "أريد الذهاب معك."
+    },
+    {
+        "front": "Who is that man?",
+        "back": "من ذاك الرجل"
+    },
+    {
+        "front": "Now I'm here with you.",
+        "back": "أنا معك هنا الآن"
+    },
+    {
+        "front": "I'm not going to go to school today.",
+        "back": "لن أذهب إلى المدرسة اليوم."
+    },
+    {
+        "front": "No, today I'm not going to school.",
+        "back": "لا، لن أذهب اليوم إلى المدرسة."
+    },
+    {
+        "front": "I don't have time.",
+        "back": "ليس عندي وقت."
+    },
+    {
+        "front": "I don't have time.",
+        "back": "ما عندي وقت."
+    },
+    {
+        "front": "Who are you talking about?",
+        "back": "عن من تتحدث"
+    },
+    {
+        "front": "What's wrong with you?",
+        "back": "ما الأمر معك"
+    },
+    {
+        "front": "You have to go.",
+        "back": "عليك أن تذهب."
+    },
+    {
+        "front": "You may go anywhere.",
+        "back": "يمكنك أن تذهب إلى أي مكان تريد."
+    },
+    {
+        "front": "Who do you want to talk to?",
+        "back": "مع من تريد أن تتحدث"
+    },
+    {
+        "front": "You should not go there.",
+        "back": "عليك ألا تذهب إلى هناك."
+    },
+    {
+        "front": "Do you want to go there?",
+        "back": "هل تريد تذهب إلى هناك"
+    },
+    {
+        "front": "You shouldn't go.",
+        "back": "عليك ألا تذهب."
+    },
+    {
+        "front": "You've got to go.",
+        "back": "يجب أن تذهب"
+    },
+    {
+        "front": "Hey, what are you talking about?",
+        "back": "عن ماذا تتحدث"
+    },
+    {
+        "front": "You have only to go there.",
+        "back": "ما عليك إلا أن تذهب."
+    },
+    {
+        "front": "It is necessary for you to go there.",
+        "back": "يجب أن تذهب."
+    },
+    {
+        "front": "I want you to go with me.",
+        "back": "أُرِيدُ أَن تَذهَبَ مَعي."
+    },
+    {
+        "front": "What's the matter?",
+        "back": "ما الأمر"
+    },
+    {
+        "front": "Where are you going?",
+        "back": "أين تذهب"
+    },
+    {
+        "front": "He has a lot of money.",
+        "back": "لديه الكثير من المال."
+    },
+    {
+        "front": "I'm from America.",
+        "back": "أنا من أمريكا."
+    },
+    {
+        "front": "He has a car.",
+        "back": "لديه سيارة."
+    },
+    {
+        "front": "I don't know.",
+        "back": "لا أعلم."
+    },
+    {
+        "front": "I know.",
+        "back": "أعلم ذلك."
+    },
+    {
+        "front": "You like English, don't you?",
+        "back": "إنك تحب الإنجليزية، أليس كذلك"
+    },
+    {
+        "front": "I don't know where I am.",
+        "back": "لا أعلم أين أنا."
+    },
+    {
+        "front": "No, I don't. What's he like?",
+        "back": "لا، لا أعلم. كيف يبدو"
+    },
+    {
+        "front": "How should I know?",
+        "back": "و كيف لي أن أعلم"
+    },
+    {
+        "front": "I knew it was you.",
+        "back": "كنت أعلم أنه أنت."
+    },
+    {
+        "front": "This car is bigger than that one.",
+        "back": "هذه السيارة أكبر من تلك."
+    },
+    {
+        "front": "Is this the real truth?",
+        "back": "هل هذه هي حقا الحقيقة"
+    },
+    {
+        "front": "I think that she knows the truth.",
+        "back": "أعتقد أنها تعرف الحقيقة."
+    },
+    {
+        "front": "I can't do it either.",
+        "back": "أنا أيضا لا أستطيع فعل هذا."
+    },
+    {
+        "front": "Why can he never do anything?",
+        "back": "لماذا لا يستطيع أبدا فعل شيء"
+    },
+    {
+        "front": "Tom was also there.",
+        "back": "كان توم هنا أيضاً."
+    },
+    {
+        "front": "I also went.",
+        "back": "ذهبت أيضاً."
+    },
+    {
+        "front": "I also went there.",
+        "back": "ذهبت إلى هناك أيضاً."
+    },
+    {
+        "front": "You should have done so.",
+        "back": "كان عليك فعل ذلك."
+    },
+    {
+        "front": "I can't do it.",
+        "back": "لا يمكنني فعل ذلك."
+    },
+    {
+        "front": "You shouldn't have done that.",
+        "back": "لم يكن عليك فعل هذا."
+    },
+    {
+        "front": "He shouldn't have done that.",
+        "back": "لم يكن عليه فعل هذا."
+    },
+    {
+        "front": "You might not want to do that.",
+        "back": "أنتَ قد لا تُريد فِعل ذلك."
+    },
+    {
+        "front": "Me, too.",
+        "back": "أنا أيضاً."
+    },
+    {
+        "front": "You too.",
+        "back": "و أنت أيضا"
+    },
+    {
+        "front": "I didn't have to do anything.",
+        "back": "لم يكن عليّ فعل شيء."
+    },
+    {
+        "front": "What does he want?",
+        "back": "ماذا يريد"
+    },
+    {
+        "front": "I've seen that.",
+        "back": "لقد رأيت ذلك من قبل."
+    },
+    {
+        "front": "Where did you see Tom?",
+        "back": "أين رأيت توم"
+    },
+    {
+        "front": "No one wants to go there.",
+        "back": "لا أحد يريد الذهاب إلى هناك."
+    },
+    {
+        "front": "You had better go.",
+        "back": "من الأفضل لك الذهاب."
+    },
+    {
+        "front": "You had better go.",
+        "back": "من الأفضل لك أن تذهب."
+    },
+    {
+        "front": "You'd better not go there.",
+        "back": "من الأفضل ألا تذهب إلى هناك."
+    },
+    {
+        "front": "You'd better not go.",
+        "back": "من الأفضل لك ألا تذهب."
+    },
+    {
+        "front": "You had better go now.",
+        "back": "من الأفضل لك أن تذهب الآن."
+    },
+    {
+        "front": "You should go.",
+        "back": "من الأفضل أن تذهب."
+    },
+    {
+        "front": "I want to know.",
+        "back": "أود أن أعرف."
+    },
+    {
+        "front": "How do you know that?",
+        "back": "أنتَ من أينَ تعلم هذا"
+    },
+    {
+        "front": "Do you have one?",
+        "back": "هل لديك واحدة"
+    },
+    {
+        "front": "Do you know?",
+        "back": "هل أنت تعلم"
+    },
+    {
+        "front": "Do you know what time it is?",
+        "back": "هل تعلم كم الساعة"
+    },
+    {
+        "front": "I'd like to go.",
+        "back": "أود الذهاب."
+    },
+    {
+        "front": "Do you know why I'm here?",
+        "back": "هل تعلم لماذا انا هنا"
+    },
+    {
+        "front": "Do you know who I am?",
+        "back": "هل تعلم من أنا "
+    },
+    {
+        "front": "Do you know what he has done?",
+        "back": "هل تعلم ماذا فعل"
+    },
+    {
+        "front": "I want one, too.",
+        "back": "أنا أريد واحدة، أيضا."
+    },
+    {
+        "front": "Maybe she really won't be there?",
+        "back": "ربما لن تكون هناك حقا."
+    },
+    {
+        "front": "Do you speak French?",
+        "back": "هل تتحدث الفرنسية"
+    },
+    {
+        "front": "Perhaps not.",
+        "back": "ربما لا."
+    },
+    {
+        "front": "Has something happened?",
+        "back": "هل حدث أي شيء"
+    },
+    {
+        "front": "What the hell just happened?",
+        "back": "ما الذي حدث!"
+    },
+    {
+        "front": "That's not what happened here.",
+        "back": "ليس هذا ما حدث هنا."
+    },
+    {
+        "front": "None of that actually happened.",
+        "back": "لا شيء من هذا حدث."
+    },
+    {
+        "front": "Do you like French?",
+        "back": "هل تحب الفرنسية"
+    },
+    {
+        "front": "What happened here?",
+        "back": "ما الذي حدث هنا"
+    },
+    {
+        "front": "What happened?",
+        "back": "ماذا حدث"
+    },
+    {
+        "front": "Maybe Tom knows something.",
+        "back": "ربما توم يعرف شيئاً."
+    },
+    {
+        "front": "No one will know.",
+        "back": "لن يعرف أحد."
+    },
+    {
+        "front": "Everybody knows that.",
+        "back": "الجميع يعرف ذلك."
+    },
+    {
+        "front": "I don't need anything.",
+        "back": "لا أحتاج شيئاً."
+    },
+    {
+        "front": "He doesn't know a lot about Japan.",
+        "back": "إنه لا يعرف الكثير عن اليابان."
+    },
+    {
+        "front": "There were a lot of people in the room.",
+        "back": "كان هناك الكثير من الناس في الغرفة."
+    },
+    {
+        "front": "Where is the problem?",
+        "back": "أين المشكلة"
+    },
+    {
+        "front": "Therein lies the problem.",
+        "back": "هنا المشكلة."
+    },
+    {
+        "front": "I'm not the problem.",
+        "back": "أنا لست المشكلة."
+    },
+    {
+        "front": "Life is beautiful.",
+        "back": "الحياة جميلة."
+    },
+    {
+        "front": "Mary looks beautiful.",
+        "back": "تبدو ماري جميلة."
+    },
+    {
+        "front": "Who doesn't know this problem?!",
+        "back": "من لا يعرف هذه المشكلة!"
+    },
+    {
+        "front": "She is very beautiful.",
+        "back": "إنها جميلة جداً."
+    },
+    {
+        "front": "I think that the problem is here.",
+        "back": "أعتقد أن المشكلة هنا."
+    },
+    {
+        "front": "What is the problem?",
+        "back": "ما المشكلة"
+    },
+    {
+        "front": "There's no one in the room.",
+        "back": "لا أحد في الغرفة."
+    },
+    {
+        "front": "There was no one in the room.",
+        "back": "لم يكن هناك أحد في الغرفة."
+    },
+    {
+        "front": "It isn't new.",
+        "back": "ليست جديدة."
+    },
+    {
+        "front": "It's brand new.",
+        "back": "إنها جديدة."
+    },
+    {
+        "front": "There is a time for all things.",
+        "back": "هناك وقت لكل شيء."
+    },
+    {
+        "front": "Don't worry about it!",
+        "back": "لا تقلق!"
+    },
+    {
+        "front": "Can you tell me what this is?",
+        "back": "هل بإمكانك أن تقول لي ما هذا"
+    },
+    {
+        "front": "Don't worry.",
+        "back": "لا تقلق."
+    },
+    {
+        "front": "You can say whatever you want to.",
+        "back": "يمكنك أنت تقول أي شيء تريد."
+    },
+    {
+        "front": "Don't worry about me.",
+        "back": "لا تقلق عليّ."
+    },
+    {
+        "front": "You should tell the truth.",
+        "back": "عليك أن تقول الحقيقة."
+    },
+    {
+        "front": "You can say whatever you want.",
+        "back": "يُمكِنَك أن تقول ما تريد."
+    },
+    {
+        "front": "How could you not say something?",
+        "back": "كيف يمكن أن لا تقول شيئاً"
+    },
+    {
+        "front": "Now that I am here, you don't have to worry.",
+        "back": "لا تقلق ، أنا هنا الآن."
+    },
+    {
+        "front": "What're you saying?",
+        "back": "ماذا تقول"
+    },
+    {
+        "front": "How do you say...?",
+        "back": "كيف تقول......"
+    },
+    {
+        "front": "How can you say that?",
+        "back": "كيف لك أن تقول ذلك"
+    },
+    {
+        "front": "You're worried.",
+        "back": "تقلق."
+    },
+    {
+        "front": "Why do you say that?",
+        "back": "لماذا تقول ذلك"
+    },
+    {
+        "front": "I know you're going to say no.",
+        "back": "أعرف أنك تقول لا."
+    },
+    {
+        "front": "You say that every time.",
+        "back": "أنتَ تقولُ ذلك كل مرة."
+    },
+    {
+        "front": "Why do you say it's a verb?",
+        "back": "لماذا تقول إنه فعل"
+    },
+    {
+        "front": "Do you come here every day?",
+        "back": "هل تأتي إلى هنا كل يوم"
+    },
+    {
+        "front": "Don't you ever come here again!",
+        "back": "لا تأتي هنا أبداً مرة أخرى!"
+    },
+    {
+        "front": "What happened last night?",
+        "back": "ماذا حدث بالأمس"
+    },
+    {
+        "front": "This is not true.",
+        "back": "هذا غير صحيح."
+    },
+    {
+        "front": "She might come tomorrow.",
+        "back": "ربما تأتي غدًا."
+    },
+    {
+        "front": "You don't have to come tomorrow.",
+        "back": "ليس عليك أن تأتي غدًا."
+    },
+    {
+        "front": "I think so.",
+        "back": "أظن ذلك."
+    },
+    {
+        "front": "You have to come with me.",
+        "back": "عليك أن تأتي معي."
+    },
+    {
+        "front": "She went there yesterday.",
+        "back": "ذهبت إلى هناك بالأمس."
+    },
+    {
+        "front": "This is true.",
+        "back": "إن ذلك صحيح."
+    },
+    {
+        "front": "I don't think so.",
+        "back": "لا أظن ذلك."
+    },
+    {
+        "front": "I think that's what happened.",
+        "back": "أظنّ أن هذا ما حدث."
+    },
+    {
+        "front": "As you already know.",
+        "back": "كما تعرف."
+    },
+    {
+        "front": "He will always be with you.",
+        "back": "هو سيكون دائماً معك."
+    },
+    {
+        "front": "He will always be with you.",
+        "back": "هو سيكون دائماً معكِ."
+    },
+    {
+        "front": "I don't know when he'll be here.",
+        "back": "لا أعرف متى سيكون هنا."
+    },
+    {
+        "front": "It's up to you.",
+        "back": "كما تريد."
+    },
+    {
+        "front": "What do you want to talk about?",
+        "back": "ما الذي تريد أن تتحدث عنه"
+    },
+    {
+        "front": "What are you talking about?",
+        "back": "ما الذي تتحدث عنه"
+    },
+    {
+        "front": "I didn't go to school last month.",
+        "back": "لم أذهب إلى المدرسة الشهر الماضي."
+    },
+    {
+        "front": "What happened last night?",
+        "back": "ما الذي حصل البارحة"
+    },
+    {
+        "front": "Where do you work?",
+        "back": "أين تعمل"
+    },
+    {
+        "front": "Do you know what happened?",
+        "back": "هل تعرف ما الذي حصل"
+    },
+    {
+        "front": "That wasn't the truth.",
+        "back": "لم تكن تلك هي الحقيقة."
+    },
+    {
+        "front": "She's been working all day long.",
+        "back": "كانت تعمل طوال اليوم."
+    },
+    {
+        "front": "So what?",
+        "back": "و ماذا لو حصل ذلك"
+    },
+    {
+        "front": "Where did he go?",
+        "back": "أين ذهب"
+    },
+    {
+        "front": "Everyone went there, didn't they?",
+        "back": "ذهب الجميع إلى هناك، أليس كذلك"
+    },
+    {
+        "front": "What's your job?",
+        "back": "ماذا تعمل"
+    },
+    {
+        "front": "She works at the school.",
+        "back": "هي تعمل في المدرسة."
+    },
+    {
+        "front": "What happened to him?",
+        "back": "ما الذي حصل له"
+    },
+    {
+        "front": "Has something happened?",
+        "back": "هل حصل شيء ما"
+    },
+    {
+        "front": "Where is the station?",
+        "back": "أين المحطة"
+    },
+    {
+        "front": "It's very big.",
+        "back": "إنها كبيرة جداً."
+    },
+    {
+        "front": "Why are you working here?",
+        "back": "لمَ تعمل هنا"
+    },
+    {
+        "front": "Why weren't you here yesterday?",
+        "back": "لماذا لم تكن هنا بالأمس"
+    },
+    {
+        "front": "They weren't at home yesterday.",
+        "back": "لم تكن في المنزل البارحة."
+    },
+    {
+        "front": "Is it true that you weren't here yesterday?",
+        "back": "هل صحيح أنك لم تكن هنا البارحة"
+    },
+    {
+        "front": "What's happening?",
+        "back": "ماذا حصل"
+    },
+    {
+        "front": "If only I knew!",
+        "back": "لو أنّني كنت أعرف!"
+    },
+    {
+        "front": "What happened here?",
+        "back": "ماذا حصل هنا"
+    },
+    {
+        "front": "What happened?",
+        "back": "ما الذي حصل"
+    },
+    {
+        "front": "These books belong to me.",
+        "back": "هذه الكتب لي."
+    },
+    {
+        "front": "Dude, she's hot!",
+        "back": "إنها جميلة يا رجل!"
+    },
+    {
+        "front": "You have many books.",
+        "back": "لديك الكثير من الكتب."
+    },
+    {
+        "front": "You have some books.",
+        "back": "لديك بعض الكتب."
+    },
+    {
+        "front": "Allah is great!",
+        "back": "الله أكبر!"
+    },
+    {
+        "front": "I'm a man.",
+        "back": "أنا رجل."
+    },
+    {
+        "front": "I'm a man.",
+        "back": "أنا رجلٌ."
+    },
+    {
+        "front": "Where is the book?",
+        "back": "أين الكتب"
+    },
+    {
+        "front": "He is only a man.",
+        "back": "هو فقط رجل."
+    },
+    {
+        "front": "These books are new.",
+        "back": "هذه الكتب جديدة."
+    },
+    {
+        "front": "She has a lot of books.",
+        "back": "لديها الكثير من الكتب."
+    },
+    {
+        "front": "Only God knows.",
+        "back": "الله أعلم."
+    },
+    {
+        "front": "He knows the city well.",
+        "back": "هو يعرف المدينة جيداً."
+    },
+    {
+        "front": "This is beautiful, and that is also beautiful.",
+        "back": "هذا جميل ، و ذلك أيضاً جميل."
+    },
+    {
+        "front": "Come along with me.",
+        "back": "تعال معي."
+    },
+    {
+        "front": "It's on the table.",
+        "back": "إنها علي الطاولة."
+    },
+    {
+        "front": "Come here.",
+        "back": "تعال إلى هنا."
+    },
+    {
+        "front": "Come quickly!",
+        "back": "تعالَ بسرعة!"
+    },
+    {
+        "front": "Come tomorrow.",
+        "back": "تعالَ غداً."
+    },
+    {
+        "front": "The book is on the table.",
+        "back": "الكتاب علي الطاولة."
+    },
+    {
+        "front": "You are right.",
+        "back": "الحق معك"
+    },
+    {
+        "front": "That house is big.",
+        "back": "ذاك البيت كبير."
+    },
+    {
+        "front": "I'm better than you.",
+        "back": "أنا أفضل منك."
+    },
+    {
+        "front": "The house is big.",
+        "back": "البيت كبير."
+    },
+    {
+        "front": "The money is on the table.",
+        "back": "المال على الطاولة."
+    },
+    {
+        "front": "Come here.",
+        "back": "تعال هنا."
+    },
+    {
+        "front": "It's a nice day.",
+        "back": "إنه يوم جميل."
+    },
+    {
+        "front": "Come quick!",
+        "back": "تعال بسرعة."
+    },
+    {
+        "front": "Please come.",
+        "back": "من فضلك تعال."
+    },
+    {
+        "front": "I have to go to sleep.",
+        "back": "عليّ الذهاب إلى النوم."
+    },
+    {
+        "front": "You should sleep.",
+        "back": "عليك النوم."
+    },
+    {
+        "front": "Come with me, will you?",
+        "back": "تعال معي إذا سمحت."
+    },
+    {
+        "front": "I didn't know Tom very well.",
+        "back": "لم أكن أعرف توم جيّدا."
+    },
+    {
+        "front": "I wasn't there.",
+        "back": "لم أَكُنْ هُناكْ."
+    },
+    {
+        "front": "This is my brother.",
+        "back": "هذا أخي."
+    },
+    {
+        "front": "I don't want to sleep.",
+        "back": "لا أريد النوم"
+    },
+    {
+        "front": "Are you talking to me?",
+        "back": "هل تتكلم معي"
+    },
+    {
+        "front": "Who are you talking with?",
+        "back": "مع من كنت تتكلم"
+    },
+    {
+        "front": "Do you speak... English?",
+        "back": "هل تتكلم ... الإنجليزية"
+    },
+    {
+        "front": "Do you speak English?",
+        "back": "هل تتكلم اللغة الإنجليزية"
+    },
+    {
+        "front": "Beyond that I cannot help you.",
+        "back": "لا يمكنني مساعدتك أكثر من ذلك."
+    },
+    {
+        "front": "Can you speak French?",
+        "back": "أيمكنك أن تتكلم اللغة الفرنسية"
+    },
+    {
+        "front": "I heard it from you.",
+        "back": "سمعت ذلك منك."
+    },
+    {
+        "front": "You don't know who I am.",
+        "back": "إنك لا تعرف من أكون."
+    },
+    {
+        "front": "You talk too much.",
+        "back": "إنك تتكلم كثيراً."
+    },
+    {
+        "front": "Can you speak English?",
+        "back": "هل تتكلم الإنجليزية"
+    },
+    {
+        "front": "I wanted to go there.",
+        "back": "أردت الذهاب إلى هناك."
+    },
+    {
+        "front": "She talks a lot.",
+        "back": "إنها تتكلم كثيراً."
+    },
+    {
+        "front": "Shall I help you?",
+        "back": "هل يمكنني مساعدتك"
+    },
+    {
+        "front": "You're talking fast.",
+        "back": "أنت تتكلّم بسرعة."
+    },
+    {
+        "front": "I don't need your help.",
+        "back": "لا أحتاج إلى مساعدتك."
+    },
+    {
+        "front": "I need your help.",
+        "back": "أحتاج مساعدتك."
+    },
+    {
+        "front": "I need your help.",
+        "back": "أحتاج إلى مساعدتك."
+    },
+    {
+        "front": "Who loves war?",
+        "back": "من يحب الحرب"
+    },
+    {
+        "front": "Who loves war?",
+        "back": "من يريد الحرب"
+    },
+    {
+        "front": "Are you happy?",
+        "back": "هل أنت سعيد"
+    },
+    {
+        "front": "I'm at a loss for words.",
+        "back": "لا أعرف ماذا أقول."
+    },
+    {
+        "front": "I'm telling the truth.",
+        "back": "أنا أقول الحقيقة."
+    },
+    {
+        "front": "Mary can speak Japanese.",
+        "back": "تستطيع ماري أن تتكلم اليابانية."
+    },
+    {
+        "front": "I don't like coffee.",
+        "back": "لا أحب القهوة."
+    },
+    {
+        "front": "Are you happy with that?",
+        "back": "هل أنتَ سعيد مع ذلك"
+    },
+    {
+        "front": "Did he learn Japanese as well?",
+        "back": "هل تَعَلَمَ اليابانية أيضاً"
+    },
+    {
+        "front": "Tom would want me to say that.",
+        "back": "توم يريد مِني أن أقول ذلك."
+    },
+    {
+        "front": "Try it again.",
+        "back": "حاول مرة أخرى."
+    },
+    {
+        "front": "I think he's happy.",
+        "back": "أظن أنه سعيد."
+    },
+    {
+        "front": "I'm very happy now.",
+        "back": "أنا سعيد جداً الآن."
+    },
+    {
+        "front": "I didn't want to tell you this.",
+        "back": "لم أكن أريد أن أقول لك هذا."
+    },
+    {
+        "front": "I didn't want to say anything.",
+        "back": "لم أكن أريد أن أقول شيئا."
+    },
+    {
+        "front": "I'm very happy.",
+        "back": "أنا سعيد جداً."
+    },
+    {
+        "front": "He said that he was happy.",
+        "back": "لقد قال أنه سعيد."
+    },
+    {
+        "front": "I like Japanese very much.",
+        "back": "أنا أحب اللغة اليابانية كثيراً."
+    },
+    {
+        "front": "I know that you like coffee.",
+        "back": "أعلم أنّك تحبّ القهوة."
+    },
+    {
+        "front": "I want to say something to you.",
+        "back": "أريد أن أقول لك شيئاً."
+    },
+    {
+        "front": "More coffee, please.",
+        "back": "أكثر من القهوة, من فضلك."
+    },
+    {
+        "front": "I prefer coffee.",
+        "back": "أفضل القهوة."
+    },
+    {
+        "front": "I go every year.",
+        "back": "أذهب كل سنة."
+    },
+    {
+        "front": "I just don't know what to say.",
+        "back": "لا أعلم ماذا أقول."
+    },
+    {
+        "front": "What should I do?",
+        "back": "ماذا أفعل الآن"
+    },
+    {
+        "front": "Then what?",
+        "back": "ثم ماذا"
+    },
+    {
+        "front": "I don't know what to do.",
+        "back": "لا أعرف ماذا أفعل."
+    },
+    {
+        "front": "Precisely!",
+        "back": "تماماً!"
+    },
+    {
+        "front": "Does everybody love music?",
+        "back": "هل يحب الجميع الموسيقى"
+    },
+    {
+        "front": "Please tell me where to go next.",
+        "back": "أخبرني من فضلك إلى أي مكان أذهب بعد ذلك."
+    },
+    {
+        "front": "I love music, too.",
+        "back": "أنا أيضاً أحب الموسيقى."
+    },
+    {
+        "front": "Just tell me what you want.",
+        "back": "فقط أخبرني ماذا تريد."
+    },
+    {
+        "front": "You like rain, don't you?",
+        "back": "تحب المطر ، صحيح"
+    },
+    {
+        "front": "I can't do it.",
+        "back": "لا أستطيع أن أفعل ذلك."
+    },
+    {
+        "front": "Tell me what happened.",
+        "back": "أخبرني ، ما الذي حدث"
+    },
+    {
+        "front": "Tell me what happened.",
+        "back": "أخبرني ما حدث."
+    },
+    {
+        "front": "Who wrote this book?",
+        "back": "من كتب هذا الكتاب"
+    },
+    {
+        "front": "Tell me the truth.",
+        "back": "أخبرني الحقيقة."
+    },
+    {
+        "front": "What should I do?",
+        "back": "ماذا علي أن أفعل"
+    },
+    {
+        "front": "He wrote a letter.",
+        "back": "هو كتب رسالةً."
+    },
+    {
+        "front": "He wrote the book.",
+        "back": "هو كتب الكتاب."
+    },
+    {
+        "front": "I'm very happy.",
+        "back": "أنا سعيد للغاية."
+    },
+    {
+        "front": "Do I have to do it right away?",
+        "back": "هل يجب أن أفعل ذلك الآن"
+    },
+    {
+        "front": "My brother likes music.",
+        "back": "أخي يحب الموسيقى."
+    },
+    {
+        "front": "You are everything to me.",
+        "back": "أنت -بالنسبة لي- كل شيء."
+    },
+    {
+        "front": "That car is quite new.",
+        "back": "هذه السيارة جديدة تماما."
+    },
+    {
+        "front": "What happened last week?",
+        "back": "ماذا حصل الأسبوع الماضي"
+    },
+    {
+        "front": "She likes music better than anything else.",
+        "back": "تحب الموسيقى أكثر من أي شيء آخر."
+    },
+    {
+        "front": "Come here, John.",
+        "back": "تعال إلى هنا يا جون."
+    },
+    {
+        "front": "What should I do?",
+        "back": "ماذا عليّ أن أفعل"
+    },
+    {
+        "front": "I know that boy whom you don't know.",
+        "back": "أعرف هذا الولد الذي لا تعرف عنه شيئا ."
+    },
+    {
+        "front": "I know that boy whom you don't know.",
+        "back": "أنا أعرف هذا الولد الذي لا تعرف عنه شيئا."
+    },
+    {
+        "front": "You're such a cute boy.",
+        "back": "يا لك من ولد جميل!"
+    },
+    {
+        "front": "He used to live here.",
+        "back": "كان يعيش هنا."
+    },
+    {
+        "front": "I own one cat.",
+        "back": "لدي قط واحد."
+    },
+    {
+        "front": "Where is the boy?",
+        "back": "أين الولد"
+    },
+    {
+        "front": "There are many people living in this house.",
+        "back": "هذا البيت يعيش فيه الكثير من الناس."
+    },
+    {
+        "front": "Nobody lives with me.",
+        "back": "لا أحد يعيش معي."
+    },
+    {
+        "front": "Nobody lives in this house.",
+        "back": "لا يعيش أحد في هذا المنزل."
+    },
+    {
+        "front": "I told you before!",
+        "back": "قلت لك ذلك من قبل!"
+    },
+    {
+        "front": "I already told you he isn't here.",
+        "back": "لقد قلت لك أنه ليس هنا."
+    },
+    {
+        "front": "I know it from him.",
+        "back": "أنا أعرف هذا منه."
+    },
+    {
+        "front": "It wasn't the first time.",
+        "back": "لم تكن أول مرة."
+    },
+    {
+        "front": "You look like a boy.",
+        "back": "أنتَ تبدو مثل الولد."
+    },
+    {
+        "front": "No one lives here anymore.",
+        "back": "لا أحد يعيش هنا بعد الآن."
+    },
+    {
+        "front": "Where does John live?",
+        "back": "أين يعيش جون"
+    },
+    {
+        "front": "Where was Tom born?",
+        "back": "أين وُلِدَ توم"
+    },
+    {
+        "front": "I told you I don't know how to do that.",
+        "back": "قلت لك أنني لا أعرف كيف أفعل ذلك."
+    },
+    {
+        "front": "Nobody lives there.",
+        "back": "لا أحد يعيش هناك."
+    },
+    {
+        "front": "Where was he born?",
+        "back": "أين وُلد"
+    },
+    {
+        "front": "What are you doing, Dad?",
+        "back": "ماذا تفعل يا أبي"
+    },
+    {
+        "front": "Why are you doing this?",
+        "back": "لماذا تفعل هذا"
+    },
+    {
+        "front": "The new house is here.",
+        "back": "البيت الجديد هنا."
+    },
+    {
+        "front": "I go to school every morning.",
+        "back": "أذهب إلى المدرسة كل صباح."
+    },
+    {
+        "front": "I am a boy.",
+        "back": "أنا ولد."
+    },
+    {
+        "front": "I know the boy.",
+        "back": "أعرف ذلك الولد."
+    },
+    {
+        "front": "Do you know what you're doing?",
+        "back": "هل أنت تعلم ماذا تفعل"
+    },
+    {
+        "front": "I said something.",
+        "back": "أنا قلت شيئا."
+    },
+    {
+        "front": "What did you say?",
+        "back": "ماذا قلت"
+    },
+    {
+        "front": "The boy went to school.",
+        "back": "ذَهبَ الولَدُ إلى المدرَسةِ."
+    },
+    {
+        "front": "What's she doing?",
+        "back": "ماذا تفعل"
+    },
+    {
+        "front": "What were you doing?",
+        "back": "ماذا كنت تفعل"
+    },
+    {
+        "front": "When did you arrive?",
+        "back": "متى وصلت"
+    },
+    {
+        "front": "I arrived here last night.",
+        "back": "وصلت البارحة."
+    },
+    {
+        "front": "The rain has stopped.",
+        "back": "توقّف المطر."
+    },
+    {
+        "front": "At what time did you arrive at your home?",
+        "back": "في أي وقت وصلت المنزل"
+    },
+    {
+        "front": "What were you doing at that time?",
+        "back": "ماذا كنت تفعل في ذلك الوقت"
+    },
+    {
+        "front": "Who do you want to speak to?",
+        "back": "مع من تريد التحدث"
+    },
+    {
+        "front": "What time did you arrive there?",
+        "back": "متى وصلت إلى هناك"
+    },
+    {
+        "front": "I think I need to talk to Tom.",
+        "back": "أعتقد أنني أحتاج إلى التحدّث مع توم."
+    },
+    {
+        "front": "Stop right now.",
+        "back": "توقف الآن."
+    },
+    {
+        "front": "Marie had a cat.",
+        "back": "ماري كان لديها قط."
+    },
+    {
+        "front": "This is the book I told you about.",
+        "back": "هذا هو الكتاب الذي قلت لك عنه."
+    },
+    {
+        "front": "What's new?",
+        "back": "ما الجديد"
+    },
+    {
+        "front": "You may speak.",
+        "back": "يمكنك التحدث."
+    },
+    {
+        "front": "How do you do that?",
+        "back": "كيف تفعل ذلك"
+    },
+    {
+        "front": "Hi! What's new?",
+        "back": "هلا! ما الجديد"
+    },
+    {
+        "front": "Don't do it!",
+        "back": "لا تفعل ذلك!"
+    },
+    {
+        "front": "Tom, what are you doing? \"What does it look like I'm doing?\"",
+        "back": "توم، ماذا تفعل \"ماذا يبدو أنني أفعل\""
+    },
+    {
+        "front": "I said that.",
+        "back": "قلت ذلك."
+    },
+    {
+        "front": "Why do you always do this?",
+        "back": "لم تفعل هذا دائما"
+    },
+    {
+        "front": "I want to go to Tokyo.",
+        "back": "أريد الذهاب إلى طوكيو."
+    },
+    {
+        "front": "I want to go to Tokyo.",
+        "back": "أريد أن أذهب إلى طوكيو."
+    },
+    {
+        "front": "I can't see anything.",
+        "back": "لا أرى شيئاً."
+    },
+    {
+        "front": "What is good for you is good for me.",
+        "back": "ما هو جيد لك، جيد لي أيضا."
+    },
+    {
+        "front": "Can I help you?",
+        "back": "أيمكنني مساعدتك"
+    },
+    {
+        "front": "How fast Tom speaks!",
+        "back": "توم يتكلم بسرعة."
+    },
+    {
+        "front": "He lives in Tokyo.",
+        "back": "إنه يعيش في طوكيو."
+    },
+    {
+        "front": "I don't understand this.",
+        "back": "أنا لا أفهم هذا."
+    },
+    {
+        "front": "Can't you speak English?",
+        "back": "ألا يمكنك تحدث الإنجليزية"
+    },
+    {
+        "front": "My brother lives in Tokyo.",
+        "back": "أخي يعيش في طوكيو."
+    },
+    {
+        "front": "He can also speak French.",
+        "back": "يستطيع تحدُّثَ الفرنسية أيضاً."
+    },
+    {
+        "front": "He can also speak French.",
+        "back": "يتكلم الفرنسية أيضاً."
+    },
+    {
+        "front": "She speaks English very well.",
+        "back": "يتكلم الإنجليزية جيدا."
+    },
+    {
+        "front": "He can speak Japanese.",
+        "back": "يستطيع أن يتكلم اليابانية."
+    },
+    {
+        "front": "Faster!",
+        "back": "أسرع!"
+    },
+    {
+        "front": "You don't speak English, do you?",
+        "back": "أنت لا يمكنك تحدث الإنجليزية، صحيح"
+    },
+    {
+        "front": "You can't speak English, can you?",
+        "back": "أنتَ لا تستطيع تحدث الإنجليزية, هل تستطيع"
+    }
+]

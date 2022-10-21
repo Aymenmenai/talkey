@@ -1,0 +1,2002 @@
+[
+    {
+        "front": "What are you doing?",
+        "back": "Co robisz?"
+    },
+    {
+        "front": "It is.",
+        "back": "Tak jest."
+    },
+    {
+        "front": "Good morning.",
+        "back": "Dzień dobry."
+    },
+    {
+        "front": "What's this?",
+        "back": "Co to?"
+    },
+    {
+        "front": "What's up?",
+        "back": "Co jest?"
+    },
+    {
+        "front": "You know what?",
+        "back": "Wiesz co?"
+    },
+    {
+        "front": "Correct.",
+        "back": "Zgadza się."
+    },
+    {
+        "front": "I can't.",
+        "back": "Nie mogę."
+    },
+    {
+        "front": "Good.",
+        "back": "To dobrze."
+    },
+    {
+        "front": "I love you.",
+        "back": "Kocham cię."
+    },
+    {
+        "front": "It's true.",
+        "back": "To prawda."
+    },
+    {
+        "front": "I don't know.",
+        "back": "A ty?"
+    },
+    {
+        "front": "What for?",
+        "back": "Po co?"
+    },
+    {
+        "front": "You're right.",
+        "back": "Masz rację."
+    },
+    {
+        "front": "I don't understand.",
+        "back": "Nie rozumiem."
+    },
+    {
+        "front": "Who are you?",
+        "back": "Kim jesteś?"
+    },
+    {
+        "front": "What is it?",
+        "back": "Co takiego?"
+    },
+    {
+        "front": "Here you go.",
+        "back": "Proszę bardzo."
+    },
+    {
+        "front": "Who is this?",
+        "back": "Kto to?"
+    },
+    {
+        "front": "Oh God.",
+        "back": "O Boże."
+    },
+    {
+        "front": "See you later.",
+        "back": "Do zobaczenia."
+    },
+    {
+        "front": "How is that?",
+        "back": "Jak to?"
+    },
+    {
+        "front": "For now.",
+        "back": "Na razie."
+    },
+    {
+        "front": "Where are you?",
+        "back": "Gdzie jesteś?"
+    },
+    {
+        "front": "How's it going?",
+        "back": "Jak leci?"
+    },
+    {
+        "front": "It's me.",
+        "back": "To ja."
+    },
+    {
+        "front": "Not yet.",
+        "back": "Jeszcze nie."
+    },
+    {
+        "front": "That's it.",
+        "back": "To wszystko."
+    },
+    {
+        "front": "Are you sure?",
+        "back": "Na pewno?"
+    },
+    {
+        "front": "Goodbye.",
+        "back": "Do widzenia."
+    },
+    {
+        "front": "I think so.",
+        "back": "Chyba tak."
+    },
+    {
+        "front": "Calm down.",
+        "back": "Uspokój się."
+    },
+    {
+        "front": "How do you know?",
+        "back": "Skąd wiesz?"
+    },
+    {
+        "front": "Yes, I know.",
+        "back": "Tak, wiem."
+    },
+    {
+        "front": "It can't be.",
+        "back": "To niemożliwe."
+    },
+    {
+        "front": "Come here.",
+        "back": "Chodź tu."
+    },
+    {
+        "front": "Oh yeah.",
+        "back": "O tak."
+    },
+    {
+        "front": "Oh yeah.",
+        "back": "No tak."
+    },
+    {
+        "front": "I have to go.",
+        "back": "Muszę iść."
+    },
+    {
+        "front": "I don't think so.",
+        "back": "Nie sądzę."
+    },
+    {
+        "front": "Yes, yes.",
+        "back": "Tak, tak."
+    },
+    {
+        "front": "Very good.",
+        "back": "Bardzo dobrze."
+    },
+    {
+        "front": "Take care.",
+        "back": "Trzymaj się."
+    },
+    {
+        "front": "Well done.",
+        "back": "Dobra robota."
+    },
+    {
+        "front": "And what?",
+        "back": "I co?"
+    },
+    {
+        "front": "Where are you going?",
+        "back": "Dokąd idziesz?"
+    },
+    {
+        "front": "What's up?",
+        "back": "Co słychać?"
+    },
+    {
+        "front": "Good evening.",
+        "back": "Dobry wieczór."
+    },
+    {
+        "front": "What?",
+        "back": "No co?"
+    },
+    {
+        "front": "Say what?",
+        "back": "Że co?"
+    },
+    {
+        "front": "And?",
+        "back": "No i?"
+    },
+    {
+        "front": "About what?",
+        "back": "O czym?"
+    },
+    {
+        "front": "Are you sure?",
+        "back": "Jesteś pewien?"
+    },
+    {
+        "front": "My God.",
+        "back": "Mój Boże."
+    },
+    {
+        "front": "All right.",
+        "back": "No dobrze."
+    },
+    {
+        "front": "You mean?",
+        "back": "To znaczy?"
+    },
+    {
+        "front": "Can you hear me?",
+        "back": "Słyszysz mnie?"
+    },
+    {
+        "front": "Who's there?",
+        "back": "Kto tam?"
+    },
+    {
+        "front": "Now what?",
+        "back": "Co teraz?"
+    },
+    {
+        "front": "Thank you very much.",
+        "back": "Dziękuję bardzo."
+    },
+    {
+        "front": "Trust me.",
+        "back": "Zaufaj mi."
+    },
+    {
+        "front": "Not necessary.",
+        "back": "Nie trzeba."
+    },
+    {
+        "front": "That's right.",
+        "back": "Właśnie tak."
+    },
+    {
+        "front": "It's him.",
+        "back": "To on."
+    },
+    {
+        "front": "It's over.",
+        "back": "To koniec."
+    },
+    {
+        "front": "Not really.",
+        "back": "Raczej nie."
+    },
+    {
+        "front": "Where have you been?",
+        "back": "Gdzie byłeś?"
+    },
+    {
+        "front": "I agree.",
+        "back": "Zgadzam się."
+    },
+    {
+        "front": "One more time.",
+        "back": "Jeszcze raz."
+    },
+    {
+        "front": "Not now.",
+        "back": "Nie teraz."
+    },
+    {
+        "front": "Do it.",
+        "back": "Zrób to."
+    },
+    {
+        "front": "Nice to meet you.",
+        "back": "Miło mi."
+    },
+    {
+        "front": "Anything else?",
+        "back": "Coś jeszcze?"
+    },
+    {
+        "front": "Yes, of course.",
+        "back": "Tak, oczywiście."
+    },
+    {
+        "front": "Thank God.",
+        "back": "Dzięki Bogu."
+    },
+    {
+        "front": "You too.",
+        "back": "Ty też."
+    },
+    {
+        "front": "I'm serious.",
+        "back": "Mówię poważnie."
+    },
+    {
+        "front": "Come on.",
+        "back": "No chodź."
+    },
+    {
+        "front": "Not any more.",
+        "back": "Już nie."
+    },
+    {
+        "front": "You think so?",
+        "back": "Tak myślisz?"
+    },
+    {
+        "front": "What are we doing?",
+        "back": "Co robimy?"
+    },
+    {
+        "front": "Who is talking?",
+        "back": "Kto mówi?"
+    },
+    {
+        "front": "What did you say?",
+        "back": "Co powiedziałeś?"
+    },
+    {
+        "front": "I hope so.",
+        "back": "Mam nadzieję."
+    },
+    {
+        "front": "For what?",
+        "back": "Na co?"
+    },
+    {
+        "front": "Perhaps.",
+        "back": "Być może."
+    },
+    {
+        "front": "I have to go.",
+        "back": "Muszę lecieć."
+    },
+    {
+        "front": "Come on.",
+        "back": "No już."
+    },
+    {
+        "front": "And how?",
+        "back": "I jak?"
+    },
+    {
+        "front": "Good idea.",
+        "back": "Dobry pomysł."
+    },
+    {
+        "front": "I don't want to.",
+        "back": "Nie chcę."
+    },
+    {
+        "front": "Exactly.",
+        "back": "No właśnie."
+    },
+    {
+        "front": "I know, I know.",
+        "back": "Wiem, wiem."
+    },
+    {
+        "front": "With pleasure.",
+        "back": "Z przyjemnością."
+    },
+    {
+        "front": "Take this.",
+        "back": "Weź to."
+    },
+    {
+        "front": "Oh man.",
+        "back": "O rany."
+    },
+    {
+        "front": "That's great.",
+        "back": "To świetnie."
+    },
+    {
+        "front": "I'll be right back.",
+        "back": "Zaraz wrócę."
+    },
+    {
+        "front": "We have to go.",
+        "back": "Musimy iść."
+    },
+    {
+        "front": "Jesus Christ.",
+        "back": "Jezu Chryste."
+    },
+    {
+        "front": "Have a nice day.",
+        "back": "Miłego dnia."
+    },
+    {
+        "front": "You know what?",
+        "back": "Wiecie co?"
+    },
+    {
+        "front": "Too late.",
+        "back": "Za późno."
+    },
+    {
+        "front": "What time is it?",
+        "back": "Która godzina?"
+    },
+    {
+        "front": "I don't remember.",
+        "back": "Nie pamiętam."
+    },
+    {
+        "front": "Tell me.",
+        "back": "Powiedz mi."
+    },
+    {
+        "front": "I have an idea.",
+        "back": "Mam pomysł."
+    },
+    {
+        "front": "Are you serious?",
+        "back": "Mówisz poważnie?"
+    },
+    {
+        "front": "What else?",
+        "back": "Co jeszcze?"
+    },
+    {
+        "front": "I'll be fine.",
+        "back": "Poradzę sobie."
+    },
+    {
+        "front": "I don't think so.",
+        "back": "Chyba nie."
+    },
+    {
+        "front": "You can't.",
+        "back": "Nie możesz."
+    },
+    {
+        "front": "Where is he?",
+        "back": "Gdzie jest?"
+    },
+    {
+        "front": "Do you know him?",
+        "back": "Znasz go?"
+    },
+    {
+        "front": "Are you OK?",
+        "back": "Jesteś cały?"
+    },
+    {
+        "front": "Please come in.",
+        "back": "Proszę wejść."
+    },
+    {
+        "front": "As you like.",
+        "back": "Jak chcesz."
+    },
+    {
+        "front": "Get to work.",
+        "back": "Do roboty."
+    },
+    {
+        "front": "He's right.",
+        "back": "Ma rację."
+    },
+    {
+        "front": "Am I right?",
+        "back": "Mam rację?"
+    },
+    {
+        "front": "Thanks a lot.",
+        "back": "Wielkie dzięki."
+    },
+    {
+        "front": "I'll do it.",
+        "back": "Zrobię to."
+    },
+    {
+        "front": "Not really.",
+        "back": "Nie bardzo."
+    },
+    {
+        "front": "He's here.",
+        "back": "Jest tutaj."
+    },
+    {
+        "front": "See that?",
+        "back": "Widzisz to?"
+    },
+    {
+        "front": "I didn't know.",
+        "back": "Nie wiedziałem."
+    },
+    {
+        "front": "What have you done?",
+        "back": "Co zrobiłeś?"
+    },
+    {
+        "front": "Yes, sure.",
+        "back": "Tak, jasne."
+    },
+    {
+        "front": "What are you doing?",
+        "back": "Co robicie?"
+    },
+    {
+        "front": "It's here.",
+        "back": "To tutaj."
+    },
+    {
+        "front": "What did he say?",
+        "back": "Co powiedział?"
+    },
+    {
+        "front": "Where are we?",
+        "back": "Gdzie jesteśmy?"
+    },
+    {
+        "front": "I appreciate it.",
+        "back": "Doceniam to."
+    },
+    {
+        "front": "Let's do it.",
+        "back": "Zróbmy to."
+    },
+    {
+        "front": "Stay here.",
+        "back": "Zostań tu."
+    },
+    {
+        "front": "With whom?",
+        "back": "Z kim?"
+    },
+    {
+        "front": "Can I come in?",
+        "back": "Mogę wejść?"
+    },
+    {
+        "front": "Are you there?",
+        "back": "Jesteś tam?"
+    },
+    {
+        "front": "Good, good.",
+        "back": "Dobrze, dobrze."
+    },
+    {
+        "front": "Hurry up.",
+        "back": "Pospiesz się."
+    },
+    {
+        "front": "Hi, honey.",
+        "back": "Cześć, kochanie."
+    },
+    {
+        "front": "It's simple.",
+        "back": "To proste."
+    },
+    {
+        "front": "What have you got?",
+        "back": "Co masz?"
+    },
+    {
+        "front": "I must go.",
+        "back": "Muszę kończyć."
+    },
+    {
+        "front": "For example?",
+        "back": "Na przykład?"
+    },
+    {
+        "front": "Happy birthday.",
+        "back": "Wszystkiego najlepszego."
+    },
+    {
+        "front": "Go on.",
+        "back": "Mów dalej."
+    },
+    {
+        "front": "Is that you?",
+        "back": "To ty?"
+    },
+    {
+        "front": "Don't you understand?",
+        "back": "Nie rozumiesz?"
+    },
+    {
+        "front": "Who Are You?",
+        "back": "Kim jesteście?"
+    },
+    {
+        "front": "Forgive me.",
+        "back": "Wybacz mi."
+    },
+    {
+        "front": "I thought so.",
+        "back": "Tak myślałem."
+    },
+    {
+        "front": "I have you.",
+        "back": "Mam cię."
+    },
+    {
+        "front": "We have to talk.",
+        "back": "Musimy pogadać."
+    },
+    {
+        "front": "Turn around.",
+        "back": "Odwróć się."
+    },
+    {
+        "front": "Maybe.",
+        "back": "Może być."
+    },
+    {
+        "front": "What are we going to do?",
+        "back": "Co zrobimy?"
+    },
+    {
+        "front": "I don't.",
+        "back": "Ja nie."
+    },
+    {
+        "front": "What will you do?",
+        "back": "Co zrobisz?"
+    },
+    {
+        "front": "You were right.",
+        "back": "Miałeś rację."
+    },
+    {
+        "front": "I'm here.",
+        "back": "Jestem tutaj."
+    },
+    {
+        "front": "How did it go?",
+        "back": "Jak poszło?"
+    },
+    {
+        "front": "I think so.",
+        "back": "Tak sądzę."
+    },
+    {
+        "front": "Stand back.",
+        "back": "Odsuń się."
+    },
+    {
+        "front": "Happy Holidays.",
+        "back": "Wesołych Świąt."
+    },
+    {
+        "front": "Certainly.",
+        "back": "Z pewnością."
+    },
+    {
+        "front": "What do you want?",
+        "back": "Czego chcecie?"
+    },
+    {
+        "front": "Where are you from?",
+        "back": "Skąd jesteś?"
+    },
+    {
+        "front": "I have it.",
+        "back": "Mam go."
+    },
+    {
+        "front": "What now?",
+        "back": "Co znowu?"
+    },
+    {
+        "front": "Follow me.",
+        "back": "Za mną."
+    },
+    {
+        "front": "Kind of.",
+        "back": "Tak jakby."
+    },
+    {
+        "front": "Go to work.",
+        "back": "Do dzieła."
+    },
+    {
+        "front": "It's important.",
+        "back": "To ważne."
+    },
+    {
+        "front": "Wake up.",
+        "back": "Obudź się."
+    },
+    {
+        "front": "You don't have to.",
+        "back": "Nie musisz."
+    },
+    {
+        "front": "Where Have You Been?",
+        "back": "Gdzie byłaś?"
+    },
+    {
+        "front": "Let it be.",
+        "back": "Niech będzie."
+    },
+    {
+        "front": "Until tomorrow.",
+        "back": "Do jutra."
+    },
+    {
+        "front": "It's amazing.",
+        "back": "To niesamowite."
+    },
+    {
+        "front": "Wait a minute.",
+        "back": "Zaczekaj chwilę."
+    },
+    {
+        "front": "One more thing.",
+        "back": "Jeszcze jedno."
+    },
+    {
+        "front": "Are you sure?",
+        "back": "Jesteś pewny?"
+    },
+    {
+        "front": "What do you think?",
+        "back": "Jak myślisz?"
+    },
+    {
+        "front": "Cheers.",
+        "back": "Na zdrowie."
+    },
+    {
+        "front": "It's your turn.",
+        "back": "Twoja kolej."
+    },
+    {
+        "front": "Thank you, sir.",
+        "back": "Dziękuję panu."
+    },
+    {
+        "front": "Who knows?",
+        "back": "Kto wie?"
+    },
+    {
+        "front": "Hi, Dad.",
+        "back": "Cześć, tato."
+    },
+    {
+        "front": "He's there.",
+        "back": "Jest tam."
+    },
+    {
+        "front": "It's time.",
+        "back": "Już czas."
+    },
+    {
+        "front": "Probably so.",
+        "back": "Pewnie tak."
+    },
+    {
+        "front": "That's it.",
+        "back": "Dość tego."
+    },
+    {
+        "front": "Why are you asking?",
+        "back": "Czemu pytasz?"
+    },
+    {
+        "front": "Open the door.",
+        "back": "Otwórz drzwi."
+    },
+    {
+        "front": "But why?",
+        "back": "Ale dlaczego?"
+    },
+    {
+        "front": "What do you see?",
+        "back": "Co widzisz?"
+    },
+    {
+        "front": "There you are.",
+        "back": "Tu jesteś."
+    },
+    {
+        "front": "Believe me.",
+        "back": "Uwierz mi."
+    },
+    {
+        "front": "And this?",
+        "back": "A to?"
+    },
+    {
+        "front": "It's her.",
+        "back": "To ona."
+    },
+    {
+        "front": "Let's get out of here.",
+        "back": "Chodźmy stąd."
+    },
+    {
+        "front": "That's all?",
+        "back": "Tylko tyle?"
+    },
+    {
+        "front": "Yes, thank you.",
+        "back": "Tak, dziękuję."
+    },
+    {
+        "front": "For what?",
+        "back": "Do czego?"
+    },
+    {
+        "front": "Hi, Mom.",
+        "back": "Cześć, mamo."
+    },
+    {
+        "front": "Absolutely.",
+        "back": "Jak najbardziej."
+    },
+    {
+        "front": "Come on.",
+        "back": "Dajcie spokój."
+    },
+    {
+        "front": "But what?",
+        "back": "Ale co?"
+    },
+    {
+        "front": "You look good.",
+        "back": "Dobrze wyglądasz."
+    },
+    {
+        "front": "Sir?",
+        "back": "Proszę pana?"
+    },
+    {
+        "front": "Please.",
+        "back": "Proszę cię."
+    },
+    {
+        "front": "More or less.",
+        "back": "Mniej więcej."
+    },
+    {
+        "front": "Close the door.",
+        "back": "Zamknij drzwi."
+    },
+    {
+        "front": "Close your eyes.",
+        "back": "Zamknij oczy."
+    },
+    {
+        "front": "Go now.",
+        "back": "Idź już."
+    },
+    {
+        "front": "That's a good question.",
+        "back": "Dobre pytanie."
+    },
+    {
+        "front": "I told you.",
+        "back": "Mówiłem ci."
+    },
+    {
+        "front": "Just take it easy.",
+        "back": "Tylko spokojnie."
+    },
+    {
+        "front": "As always.",
+        "back": "Jak zawsze."
+    },
+    {
+        "front": "Do you remember me?",
+        "back": "Pamiętasz mnie?"
+    },
+    {
+        "front": "What Please?",
+        "back": "Co proszę?"
+    },
+    {
+        "front": "You don't know?",
+        "back": "Nie wiesz?"
+    },
+    {
+        "front": "It begins.",
+        "back": "Zaczyna się."
+    },
+    {
+        "front": "And now?",
+        "back": "A teraz?"
+    },
+    {
+        "front": "Did you see that?",
+        "back": "Widziałeś to?"
+    },
+    {
+        "front": "I can feel it.",
+        "back": "Czuję to."
+    },
+    {
+        "front": "I'll show you.",
+        "back": "Pokażę ci."
+    },
+    {
+        "front": "Any questions?",
+        "back": "Jakieś pytania?"
+    },
+    {
+        "front": "Wait, wait.",
+        "back": "Czekaj, czekaj."
+    },
+    {
+        "front": "Neither do I.",
+        "back": "Ani ja."
+    },
+    {
+        "front": "That's nice.",
+        "back": "To miłe."
+    },
+    {
+        "front": "Got it?",
+        "back": "Rozumiemy się?"
+    },
+    {
+        "front": "Of course.",
+        "back": "No jasne."
+    },
+    {
+        "front": "It depends.",
+        "back": "To zależy."
+    },
+    {
+        "front": "Not at all.",
+        "back": "Ani trochę."
+    },
+    {
+        "front": "Yes, please.",
+        "back": "Tak, proszę."
+    },
+    {
+        "front": "Since when?",
+        "back": "Od kiedy?"
+    },
+    {
+        "front": "Because what?",
+        "back": "Bo co?"
+    },
+    {
+        "front": "Please, please.",
+        "back": "Proszę, proszę."
+    },
+    {
+        "front": "Can we talk?",
+        "back": "Możemy porozmawiać?"
+    },
+    {
+        "front": "There he is.",
+        "back": "Tam jest."
+    },
+    {
+        "front": "I will.",
+        "back": "Tak zrobię."
+    },
+    {
+        "front": "Come here.",
+        "back": "Podejdź tu."
+    },
+    {
+        "front": "I try.",
+        "back": "Staram się."
+    },
+    {
+        "front": "How long?",
+        "back": "Jak długo?"
+    },
+    {
+        "front": "What's next?",
+        "back": "Co dalej?"
+    },
+    {
+        "front": "Forever.",
+        "back": "Na zawsze."
+    },
+    {
+        "front": "Got it.",
+        "back": "Robi się."
+    },
+    {
+        "front": "I'm here.",
+        "back": "Jestem tu."
+    },
+    {
+        "front": "Be careful.",
+        "back": "Bądź ostrożny."
+    },
+    {
+        "front": "I know that.",
+        "back": "Wiem to."
+    },
+    {
+        "front": "I know you.",
+        "back": "Znam cię."
+    },
+    {
+        "front": "What Do I Look Like?",
+        "back": "Jak wyglądam?"
+    },
+    {
+        "front": "Sure.",
+        "back": "No pewnie."
+    },
+    {
+        "front": "Put it down.",
+        "back": "Odłóż to."
+    },
+    {
+        "front": "I have a question.",
+        "back": "Mam pytanie."
+    },
+    {
+        "front": "Not here.",
+        "back": "Nie tutaj."
+    },
+    {
+        "front": "You look great.",
+        "back": "Świetnie wyglądasz."
+    },
+    {
+        "front": "I get it.",
+        "back": "Rozumiem to."
+    },
+    {
+        "front": "Where Are We Going?",
+        "back": "Dokąd jedziemy?"
+    },
+    {
+        "front": "What did you say?",
+        "back": "Co powiedziałaś?"
+    },
+    {
+        "front": "I'll try.",
+        "back": "Postaram się."
+    },
+    {
+        "front": "Got something?",
+        "back": "Masz coś?"
+    },
+    {
+        "front": "Great idea.",
+        "back": "Świetny pomysł."
+    },
+    {
+        "front": "Your Majesty.",
+        "back": "Wasza Wysokość."
+    },
+    {
+        "front": "So What?",
+        "back": "To co?"
+    },
+    {
+        "front": "What?",
+        "back": "O co?"
+    },
+    {
+        "front": "Relax.",
+        "back": "Odpręż się."
+    },
+    {
+        "front": "Isn't it?",
+        "back": "Czyż nie?"
+    },
+    {
+        "front": "For you.",
+        "back": "Dla ciebie."
+    },
+    {
+        "front": "Where Am I?",
+        "back": "Gdzie jestem?"
+    },
+    {
+        "front": "Do you understand me?",
+        "back": "Rozumiesz mnie?"
+    },
+    {
+        "front": "Please forgive me.",
+        "back": "Proszę wybaczyć."
+    },
+    {
+        "front": "And you?",
+        "back": "A pan?"
+    },
+    {
+        "front": "It's an order.",
+        "back": "To rozkaz."
+    },
+    {
+        "front": "I'm hungry.",
+        "back": "Jestem głodny."
+    },
+    {
+        "front": "I'm busy.",
+        "back": "Jestem zajęty."
+    },
+    {
+        "front": "Are You Alright?",
+        "back": "Jesteś cała?"
+    },
+    {
+        "front": "Whatever.",
+        "back": "Wszystko jedno."
+    },
+    {
+        "front": "And then?",
+        "back": "A potem?"
+    },
+    {
+        "front": "Have fun.",
+        "back": "Miłej zabawy."
+    },
+    {
+        "front": "You are late.",
+        "back": "Spóźniłeś się."
+    },
+    {
+        "front": "Take a look around.",
+        "back": "Rozejrzyj się."
+    },
+    {
+        "front": "Exactly.",
+        "back": "Dokładnie tak."
+    },
+    {
+        "front": "How are you?",
+        "back": "Jak tam?"
+    },
+    {
+        "front": "How did you know?",
+        "back": "Skąd wiedziałeś?"
+    },
+    {
+        "front": "Are You Hungry?",
+        "back": "Jesteś głodny?"
+    },
+    {
+        "front": "Don't you remember?",
+        "back": "Nie pamiętasz?"
+    },
+    {
+        "front": "No eggs.",
+        "back": "Bez jaj."
+    },
+    {
+        "front": "You know.",
+        "back": "No wiesz."
+    },
+    {
+        "front": "Thanks, man.",
+        "back": "Dzięki, stary."
+    },
+    {
+        "front": "You were right.",
+        "back": "Miałaś rację."
+    },
+    {
+        "front": "Thank you.",
+        "back": "Dziękuję ci."
+    },
+    {
+        "front": "No, please.",
+        "back": "Nie, proszę."
+    },
+    {
+        "front": "How was it?",
+        "back": "Jak było?"
+    },
+    {
+        "front": "How's it going?",
+        "back": "Jak idzie?"
+    },
+    {
+        "front": "I'll be right there.",
+        "back": "Zaraz przyjdę."
+    },
+    {
+        "front": "Home.",
+        "back": "Do domu."
+    },
+    {
+        "front": "You know why?",
+        "back": "Wiesz dlaczego?"
+    },
+    {
+        "front": "How nice.",
+        "back": "Jak miło."
+    },
+    {
+        "front": "Are You Ready?",
+        "back": "Jesteś gotowy?"
+    },
+    {
+        "front": "That's better.",
+        "back": "Tak lepiej."
+    },
+    {
+        "front": "You can do it.",
+        "back": "Dasz radę."
+    },
+    {
+        "front": "Take care.",
+        "back": "Trzymajcie się."
+    },
+    {
+        "front": "No reception.",
+        "back": "Bez odbioru."
+    },
+    {
+        "front": "I'm on my way.",
+        "back": "Już jadę."
+    },
+    {
+        "front": "Yes, good.",
+        "back": "Tak, dobrze."
+    },
+    {
+        "front": "Yes, I understand.",
+        "back": "Tak, rozumiem."
+    },
+    {
+        "front": "It's possible.",
+        "back": "To możliwe."
+    },
+    {
+        "front": "We have him.",
+        "back": "Mamy go."
+    },
+    {
+        "front": "I'll go now.",
+        "back": "Pójdę już."
+    },
+    {
+        "front": "Oh yeah?",
+        "back": "Ach tak?"
+    },
+    {
+        "front": "With what?",
+        "back": "Z czym?"
+    },
+    {
+        "front": "You think so?",
+        "back": "Tak sądzisz?"
+    },
+    {
+        "front": "I'll call you later.",
+        "back": "Zadzwonię później."
+    },
+    {
+        "front": "How?",
+        "back": "Niby jak?"
+    },
+    {
+        "front": "She is beautiful.",
+        "back": "Jest piękna."
+    },
+    {
+        "front": "See anything?",
+        "back": "Widzisz coś?"
+    },
+    {
+        "front": "What are you looking for?",
+        "back": "Czego szukasz?"
+    },
+    {
+        "front": "Would you like a drink?",
+        "back": "Napijesz się?"
+    },
+    {
+        "front": "Well.",
+        "back": "No cóż."
+    },
+    {
+        "front": "I believe you.",
+        "back": "Wierzę ci."
+    },
+    {
+        "front": "I will go.",
+        "back": "Ja pójdę."
+    },
+    {
+        "front": "From whom?",
+        "back": "Od kogo?"
+    },
+    {
+        "front": "Oh, yeah.",
+        "back": "Oh, tak."
+    },
+    {
+        "front": "Where are you?",
+        "back": "Gdzie jesteście?"
+    },
+    {
+        "front": "Can you feel it?",
+        "back": "Czujesz to?"
+    },
+    {
+        "front": "Hi, sweetheart.",
+        "back": "Cześć, skarbie."
+    },
+    {
+        "front": "Ma'am.",
+        "back": "Proszę pani."
+    },
+    {
+        "front": "What were you saying?",
+        "back": "Co mówiłeś?"
+    },
+    {
+        "front": "I'm ready.",
+        "back": "Jestem gotowy."
+    },
+    {
+        "front": "Not at all.",
+        "back": "Ależ skąd."
+    },
+    {
+        "front": "In what?",
+        "back": "W czym?"
+    },
+    {
+        "front": "Where Are You Going?",
+        "back": "Dokąd jedziesz?"
+    },
+    {
+        "front": "What do we have?",
+        "back": "Co mamy?"
+    },
+    {
+        "front": "Please don't.",
+        "back": "Proszę, nie."
+    },
+    {
+        "front": "It's obvious.",
+        "back": "To oczywiste."
+    },
+    {
+        "front": "Can you hear me?",
+        "back": "Słyszycie mnie?"
+    },
+    {
+        "front": "Please have a look.",
+        "back": "Proszę spojrzeć."
+    },
+    {
+        "front": "And me?",
+        "back": "A ja?"
+    },
+    {
+        "front": "In a moment.",
+        "back": "Za chwilę."
+    },
+    {
+        "front": "Want some?",
+        "back": "Chcesz trochę?"
+    },
+    {
+        "front": "I give up.",
+        "back": "Poddaję się."
+    },
+    {
+        "front": "That's nice.",
+        "back": "To miło."
+    },
+    {
+        "front": "Where Are We Going?",
+        "back": "Gdzie idziemy?"
+    },
+    {
+        "front": "Quite the contrary.",
+        "back": "Wręcz przeciwnie."
+    },
+    {
+        "front": "Nothing much.",
+        "back": "Nic wielkiego."
+    },
+    {
+        "front": "Wait a minute.",
+        "back": "Czekaj chwilę."
+    },
+    {
+        "front": "What to do?",
+        "back": "Co robić?"
+    },
+    {
+        "front": "I know him.",
+        "back": "Znam go."
+    },
+    {
+        "front": "Before what?",
+        "back": "Przed czym?"
+    },
+    {
+        "front": "For me?",
+        "back": "Dla mnie?"
+    },
+    {
+        "front": "Oh yeah.",
+        "back": "Och, tak."
+    },
+    {
+        "front": "I know.",
+        "back": "Ja wiem."
+    },
+    {
+        "front": "Hello guys.",
+        "back": "Cześć, chłopaki."
+    },
+    {
+        "front": "Maybe not.",
+        "back": "Może nie."
+    },
+    {
+        "front": "Here it is.",
+        "back": "Tu jest."
+    },
+    {
+        "front": "Say something.",
+        "back": "Powiedz coś."
+    },
+    {
+        "front": "Who Am I?",
+        "back": "Kim jestem?"
+    },
+    {
+        "front": "Your choice.",
+        "back": "Twój wybór."
+    },
+    {
+        "front": "But how?",
+        "back": "Ale jak?"
+    },
+    {
+        "front": "For three.",
+        "back": "Na trzy."
+    },
+    {
+        "front": "Kiss me.",
+        "back": "Pocałuj mnie."
+    },
+    {
+        "front": "We'll be fine.",
+        "back": "Poradzimy sobie."
+    },
+    {
+        "front": "Absolutely not.",
+        "back": "Absolutnie nie."
+    },
+    {
+        "front": "Not true.",
+        "back": "Nie prawda."
+    },
+    {
+        "front": "What do you get?",
+        "back": "Co podać?"
+    },
+    {
+        "front": "I can't.",
+        "back": "Nie potrafię."
+    },
+    {
+        "front": "I need you.",
+        "back": "Potrzebuję cię."
+    },
+    {
+        "front": "It happens.",
+        "back": "Zdarza się."
+    },
+    {
+        "front": "Say it.",
+        "back": "Powiedz to."
+    },
+    {
+        "front": "Tell him.",
+        "back": "Powiedz mu."
+    },
+    {
+        "front": "I was there.",
+        "back": "Byłem tam."
+    },
+    {
+        "front": "But yes.",
+        "back": "Ależ tak."
+    },
+    {
+        "front": "Did you hear that?",
+        "back": "Słyszałeś to?"
+    },
+    {
+        "front": "Who's Next?",
+        "back": "Kto następny?"
+    },
+    {
+        "front": "Very nice.",
+        "back": "Bardzo ładnie."
+    },
+    {
+        "front": "Everything is ready.",
+        "back": "Wszystko gotowe."
+    },
+    {
+        "front": "Think about it.",
+        "back": "Przemyśl to."
+    },
+    {
+        "front": "Relax.",
+        "back": "Wyluzuj się."
+    },
+    {
+        "front": "Show me.",
+        "back": "Pokaż mi."
+    },
+    {
+        "front": "Good to know.",
+        "back": "Dobrze wiedzieć."
+    },
+    {
+        "front": "Nothing.",
+        "back": "O nic."
+    },
+    {
+        "front": "Good boy.",
+        "back": "Dobry piesek."
+    },
+    {
+        "front": "Really?",
+        "back": "Na prawdę?"
+    },
+    {
+        "front": "Can you see him?",
+        "back": "Widzisz go?"
+    },
+    {
+        "front": "It was so.",
+        "back": "Tak było."
+    },
+    {
+        "front": "I am a doctor.",
+        "back": "Jestem lekarzem."
+    },
+    {
+        "front": "Are you listening to me?",
+        "back": "Słuchasz mnie?"
+    },
+    {
+        "front": "Please listen.",
+        "back": "Proszę posłuchać."
+    },
+    {
+        "front": "Yes, thanks.",
+        "back": "Tak, dzięki."
+    },
+    {
+        "front": "I can do it.",
+        "back": "Dam radę."
+    },
+    {
+        "front": "Come on.",
+        "back": "No dawaj."
+    },
+    {
+        "front": "Great job.",
+        "back": "Świetna robota."
+    },
+    {
+        "front": "I bet.",
+        "back": "Ja stawiam."
+    },
+    {
+        "front": "It is beautiful.",
+        "back": "Jest piękny."
+    },
+    {
+        "front": "I'll be right there.",
+        "back": "Zaraz będę."
+    },
+    {
+        "front": "I didn't know.",
+        "back": "Nie wiedziałam."
+    },
+    {
+        "front": "All the time.",
+        "back": "Cały czas."
+    },
+    {
+        "front": "Focus.",
+        "back": "Skup się."
+    },
+    {
+        "front": "I love her.",
+        "back": "Kocham ją."
+    },
+    {
+        "front": "You are beautiful.",
+        "back": "Jesteś piękna."
+    },
+    {
+        "front": "This way, please.",
+        "back": "Tędy proszę."
+    },
+    {
+        "front": "Do you love me?",
+        "back": "Kochasz mnie?"
+    },
+    {
+        "front": "You know me.",
+        "back": "Znasz mnie."
+    },
+    {
+        "front": "You'll be fine.",
+        "back": "Poradzisz sobie."
+    },
+    {
+        "front": "What are you saying?",
+        "back": "Co mówisz?"
+    },
+    {
+        "front": "Don't ask.",
+        "back": "Nie pytaj."
+    },
+    {
+        "front": "Can we talk?",
+        "back": "Możemy pogadać?"
+    },
+    {
+        "front": "What did she say?",
+        "back": "Co powiedziała?"
+    },
+    {
+        "front": "Probably yes.",
+        "back": "Raczej tak."
+    },
+    {
+        "front": "Got a moment?",
+        "back": "Masz chwilę?"
+    },
+    {
+        "front": "Calm down.",
+        "back": "Uspokójcie się."
+    },
+    {
+        "front": "That's it.",
+        "back": "To tyle."
+    },
+    {
+        "front": "Can I see?",
+        "back": "Mogę zobaczyć?"
+    },
+    {
+        "front": "I already know.",
+        "back": "Już wiem."
+    },
+    {
+        "front": "They're here.",
+        "back": "Są tutaj."
+    },
+    {
+        "front": "By whom?",
+        "back": "Przez kogo?"
+    },
+    {
+        "front": "Wait a minute.",
+        "back": "Zaraz, zaraz."
+    },
+    {
+        "front": "Not a word.",
+        "back": "Ani słowa."
+    },
+    {
+        "front": "I don't have to.",
+        "back": "Nie muszę."
+    },
+    {
+        "front": "Got it.",
+        "back": "Mam to."
+    },
+    {
+        "front": "I love it.",
+        "back": "Uwielbiam to."
+    },
+    {
+        "front": "I'll tell you.",
+        "back": "Powiem ci."
+    },
+    {
+        "front": "Where Is This?",
+        "back": "Dokąd to?"
+    },
+    {
+        "front": "Do you need something?",
+        "back": "Potrzebujesz czegoś?"
+    },
+    {
+        "front": "Yes, I have.",
+        "back": "Tak, mam."
+    },
+    {
+        "front": "There it is.",
+        "back": "Otóż to."
+    },
+    {
+        "front": "No reason.",
+        "back": "Bez powodu."
+    },
+    {
+        "front": "I understand you.",
+        "back": "Rozumiem cię."
+    },
+    {
+        "front": "I love him.",
+        "back": "Kocham go."
+    },
+    {
+        "front": "It's about time.",
+        "back": "Najwyższy czas."
+    },
+    {
+        "front": "I'll take it.",
+        "back": "Wezmę to."
+    },
+    {
+        "front": "Finally.",
+        "back": "W końcu."
+    },
+    {
+        "front": "My congratulations.",
+        "back": "Moje gratulacje."
+    },
+    {
+        "front": "What did he do?",
+        "back": "Co zrobił?"
+    },
+    {
+        "front": "I like you.",
+        "back": "Lubię cię."
+    },
+    {
+        "front": "Not you.",
+        "back": "Nie ty."
+    },
+    {
+        "front": "Here he is.",
+        "back": "Oto on."
+    },
+    {
+        "front": "Maybe later.",
+        "back": "Może później."
+    },
+    {
+        "front": "There you are.",
+        "back": "Tutaj jesteś."
+    },
+    {
+        "front": "Get separated.",
+        "back": "Rozejść się."
+    },
+    {
+        "front": "Be quiet.",
+        "back": "Bądź cicho."
+    },
+    {
+        "front": "I mean it.",
+        "back": "Mówię serio."
+    },
+    {
+        "front": "It's here.",
+        "back": "To tu."
+    },
+    {
+        "front": "At the top.",
+        "back": "Na górze."
+    },
+    {
+        "front": "This way please.",
+        "back": "Proszę tędy."
+    },
+    {
+        "front": "That sounds great.",
+        "back": "Brzmi świetnie."
+    },
+    {
+        "front": "As usual.",
+        "back": "Jak zwykle."
+    },
+    {
+        "front": "I'm out of here.",
+        "back": "Spadam stąd."
+    },
+    {
+        "front": "Do you agree?",
+        "back": "Zgadzasz się?"
+    },
+    {
+        "front": "You know her?",
+        "back": "Znasz ją?"
+    },
+    {
+        "front": "Think.",
+        "back": "Zastanów się."
+    },
+    {
+        "front": "How Dare You?",
+        "back": "Jak śmiesz?"
+    },
+    {
+        "front": "What do you want?",
+        "back": "Co chcesz?"
+    },
+    {
+        "front": "Don't you think?",
+        "back": "Nie sądzisz?"
+    },
+    {
+        "front": "What not?",
+        "back": "Co nie?"
+    },
+    {
+        "front": "It Works.",
+        "back": "To działa."
+    },
+    {
+        "front": "Listen carefully.",
+        "back": "Słuchaj uważnie."
+    },
+    {
+        "front": "Here it is.",
+        "back": "Tutaj jest."
+    },
+    {
+        "front": "Who Are You?",
+        "back": "Ktoś ty?"
+    },
+    {
+        "front": "Good girl.",
+        "back": "Dobra dziewczynka."
+    },
+    {
+        "front": "Have a drink.",
+        "back": "Napij się."
+    },
+    {
+        "front": "What Did You Do?",
+        "back": "Co zrobiłaś?"
+    },
+    {
+        "front": "Good boy.",
+        "back": "Dobry chłopiec."
+    },
+    {
+        "front": "Hello everyone.",
+        "back": "Witam wszystkich."
+    },
+    {
+        "front": "I can see him.",
+        "back": "Widzę go."
+    },
+    {
+        "front": "Outside.",
+        "back": "Na zewnątrz."
+    },
+    {
+        "front": "Wait here.",
+        "back": "Zaczekaj tu."
+    },
+    {
+        "front": "Twice.",
+        "back": "Dwa razy."
+    },
+    {
+        "front": "Anyone else?",
+        "back": "Ktoś jeszcze?"
+    },
+    {
+        "front": "Get ready.",
+        "back": "Przygotuj się."
+    },
+    {
+        "front": "Will you do it?",
+        "back": "Zrobisz to?"
+    },
+    {
+        "front": "Don't be sorry.",
+        "back": "Nie przepraszaj."
+    },
+    {
+        "front": "I'm telling you.",
+        "back": "Mówię ci."
+    },
+    {
+        "front": "I have her.",
+        "back": "Mam ją."
+    },
+    {
+        "front": "Is that what you want?",
+        "back": "Tego chcesz?"
+    },
+    {
+        "front": "It's gonna be fun.",
+        "back": "Będzie fajnie."
+    },
+    {
+        "front": "Can't you see?",
+        "back": "Nie widzisz?"
+    },
+    {
+        "front": "Want to try?",
+        "back": "Chcesz spróbować?"
+    },
+    {
+        "front": "Are you ready?",
+        "back": "Jesteś gotowa?"
+    },
+    {
+        "front": "Got it?",
+        "back": "Masz to?"
+    },
+    {
+        "front": "My turn.",
+        "back": "Moja kolej."
+    },
+    {
+        "front": "With me?",
+        "back": "Ze mną?"
+    },
+    {
+        "front": "You want this?",
+        "back": "Chcesz tego?"
+    },
+    {
+        "front": "I do.",
+        "back": "Ja tak."
+    },
+    {
+        "front": "Don't talk.",
+        "back": "Nie mów."
+    },
+    {
+        "front": "Don't start.",
+        "back": "Nie zaczynaj."
+    },
+    {
+        "front": "I didn't want to.",
+        "back": "Nie chciałem."
+    },
+    {
+        "front": "Back off.",
+        "back": "Odczep się."
+    },
+    {
+        "front": "Good night.",
+        "back": "Dobrej nocy."
+    },
+    {
+        "front": "I have something.",
+        "back": "Mam coś."
+    },
+    {
+        "front": "He's yours.",
+        "back": "Jest twój."
+    },
+    {
+        "front": "Sorry, Miss.",
+        "back": "Przepraszam panią."
+    },
+    {
+        "front": "Take it easy, take it easy.",
+        "back": "Spokojnie, spokojnie."
+    },
+    {
+        "front": "A little more.",
+        "back": "Jeszcze trochę."
+    },
+    {
+        "front": "All right then.",
+        "back": "Dobrze więc."
+    },
+    {
+        "front": "What are you going to do?",
+        "back": "Co zamierzasz?"
+    },
+    {
+        "front": "What do you think?",
+        "back": "Co sądzisz?"
+    }
+]

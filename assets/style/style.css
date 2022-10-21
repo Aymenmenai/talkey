@@ -1,0 +1,351 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap");
+@font-face {
+  font-family: "milk";
+  src: url("../font/Milky Coffee.otf");
+}
+.progress-holder {
+  width: 73vw;
+  height: 1.4rem;
+  margin-top: 2rem;
+  padding: 0 0.2rem;
+  display: flex;
+  background-color: rgba(181, 181, 181, 0.298);
+  justify-content: start;
+  align-items: center;
+  border-radius: 100px;
+}
+.progress-holder .progress-juice {
+  background: #ffbb00;
+  width: 0.0001%;
+  height: 1rem;
+  border-radius: 100px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  overflow: hidden;
+  transition: 200ms all ease-in-out;
+}
+
+.play-bar {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+  align-content: space-around;
+  justify-content: space-between;
+  width: 100%;
+}
+.play-bar .block {
+  font-family: sweet;
+  color: #ffbb00;
+  text-align: center;
+  padding: 1rem;
+  font-size: larger;
+  font-weight: 900;
+}
+
+.all-text {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: center;
+}
+.all-text .text {
+  font-size: large;
+  font-weight: 900;
+}
+.all-text .visible-word {
+  font-size: xx-large;
+}
+.all-text .correct-word {
+  opacity: 0;
+}
+.all-text .speech-word {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  max-width: 70%;
+}
+.all-text .speech-word .wrong {
+  color: red;
+}
+.all-text .speech-word .right {
+  color: rgb(0, 215, 0);
+}
+.all-text .dictionary .words {
+  display: flex;
+  gap: 0.5rem;
+}
+.all-text .dictionary .words .word {
+  background: rgb(218, 218, 218);
+  padding: 0.6rem;
+  border-radius: 0.7319rem;
+  cursor: pointer;
+}
+
+.btns {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+.btns div {
+  position: relative;
+}
+.btns div .microphone {
+  background-color: #ffbb00;
+  width: 5rem;
+  height: 5rem;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 100%;
+  cursor: pointer;
+  transition: 200ms all ease-in-out;
+}
+.btns div .microphone i {
+  font-size: 4rem;
+  color: white;
+  display: none;
+}
+.btns div .microphone .active {
+  display: block;
+}
+.btns div .microphone:hover {
+  transform: scale(110%);
+}
+.btns div .beating {
+  display: none;
+  background-color: gold;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  border-radius: 100%;
+  -webkit-animation: beating 1s infinite linear;
+          animation: beating 1s infinite linear;
+}
+.btns .btn-rounded {
+  font-size: 2rem;
+  color: #fff;
+  background-color: #ffbb00;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@-webkit-keyframes beating {
+  100% {
+    transform: scale(170%);
+    opacity: 0;
+  }
+}
+
+@keyframes beating {
+  100% {
+    transform: scale(170%);
+    opacity: 0;
+  }
+}
+.info {
+  display: none;
+  background-color: red;
+  width: 100%;
+  padding: 0.3rem;
+  text-align: center;
+  color: white;
+}
+
+.logo-title {
+  height: 4rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  width: 100vw;
+  gap: 1rem;
+  padding: 1rem 0;
+}
+.logo-title .logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  height: 100%;
+  color: #ffbb00;
+  font-family: milk;
+  font-size: 4rem;
+}
+.logo-title .card {
+  background-color: red;
+  padding: 0.5rem;
+  border-radius: 0.63rem;
+  color: white;
+  font-size: 12px;
+  font-weight: bolder;
+}
+
+.logo-img {
+  width: 12rem;
+}
+
+.flags {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  max-width: 63vw;
+}
+.flags img {
+  width: 2.7rem;
+  cursor: pointer;
+  transition: 200ms all ease-in-out;
+}
+.flags img:hover {
+  transform: scale(105%);
+}
+.flags .selected {
+  transform: scale(120%);
+}
+.flags .selected:hover {
+  transform: scale(120%);
+}
+
+.more {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  flex-direction: column;
+}
+.more .cog {
+  cursor: pointer;
+}
+.more .cog svg {
+  width: 2rem;
+  fill: rgb(181, 181, 181);
+}
+
+.btn {
+  padding: 1rem 4rem;
+  border-radius: 1rem;
+  background-color: #ffbb00;
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+  transition: 222ms all ease-in-out;
+}
+.btn:hover {
+  transform: scale(104%);
+}
+
+.start-btn {
+  list-style: none;
+  text-decoration: none;
+}
+
+.extra-text {
+  color: rgb(181, 181, 181);
+  text-align: center;
+  font-size: 0.8rem;
+  width: 32rem;
+}
+.extra-text a {
+  color: grey;
+  list-style: none;
+}
+
+.popup p {
+  text-align: center;
+  font-style: 0.9rem;
+  color: rgb(181, 181, 181);
+}
+.popup input {
+  border-radius: 3rem;
+  border: none;
+  background-color: rgb(181, 181, 181);
+  padding: 0.4rem;
+  text-align: center;
+  font-size: 1rem;
+  -webkit-appearance: textfield;
+  -moz-appearance: textfield;
+  appearance: textfield;
+}
+.popup input::-webkit-inner-spin-button, .popup input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  transition: 200ms all;
+}
+
+body {
+  overflow-x: hidden;
+  background-color: white;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  gap: 3rem;
+  flex-direction: column;
+  justify-content: start;
+  position: relative;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.4);
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  display: none;
+}
+
+.popup {
+  padding: 4rem;
+  border-radius: 1.4rem;
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 1.2rem;
+  position: absolute;
+  z-index: 10;
+  flex-direction: column;
+  max-width: 60vw;
+  display: none;
+}
+.popup svg {
+  width: 1rem;
+  fill: rgb(181, 181, 181);
+  position: absolute;
+  top: 1rem;
+  right: 1.2rem;
+  cursor: pointer;
+}
+.popup p {
+  font-size: 1.3rem;
+}
